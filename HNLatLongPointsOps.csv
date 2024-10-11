@@ -1,0 +1,41 @@
+Record Last Updated (dd/mm/yyyy),Operator (or Applicant),Site Name,"Connection to communal, district or campus heat network","New, renovation or expansion of existing heat network",Number of customer connections,Number of buildings,"Types of Building (domestic, non domestic or mixed)",Types of buildings,Technology Type,Secondary plant technology,X-coordinate,Y-coordinate,Latitude,Longitude
+06/01/2023,South Tyneside Council,Viking Energy Network,District,New,,11,Mixed,"Residential, Hospital, Office, Gym, Town Hall, Community Hub",Water Source Heat Pumps,Gas Fired CHP,431842,565695,54.984840412235876,-1.5039564780728503
+14/12/2021,Manchester City Council,Manchester Civic Quarter Heat Network,District,New,,7,Non Domestic,"Library, Gallery, Arena, Town Hall",Gas Fired CHP,Gas Boiler,383669,397661,53.475420952148184,-2.2475176043530483
+15/03/2021,Thameswey Group,Poole Road Energy Centre,District,New,,,Mixed,Unspecified,Gas Fired CHP,,500188,158466,51.31649240386154,-0.5637946212006625
+11/01/2022,Cambridgeshire County Council,Swaffham Prior Community Heat Network,District,New,300,,Domestic,Residential,Ground Source Heat Pumps,Air Source Heat Pumps,557931,263400,52.24612277466674,0.3118823475237464
+15/03/2022,Westrock,Crawley Energy Centre,District,New,,,Mixed,,Gas Fired CHP,,527192,136870,51.117011266360954,-0.1841560301835646
+30/01/2024,Leep Holdings (Utilities) Limited,Media City Heat and Power Network,District,Expansion,,,,Unspecified,Ground Source Heat Pumps,,426377,563267,54.963340550889946,-1.5895744608800844
+05/07/2022,Birchgrove Services Llp,Ayrton House - 60 Retirement Apartment,District,Expansion,92,3,Domestic,Residential,Gas Fired CHP,,390376,809332,57.17471946498746,-2.16080418605594
+11/01/2022,University Hospitals of Morcambe Bay NHS Trust,Royal Lancaster Infirmary - Energy Centre,Campus,New,1,3,Non Domestic,Student Accommodation,Gas Fired CHP,,533564,181006,51.51220088595722,-0.07665388326651823
+24/03/2021,Hadley Property Group Limited/Hadley Group,Former homebase High Road - 568 Flats,District,New,142,3,Domestic,Residential,Gas Fired CHP,,516846,180863,51.51461705882783,-0.3174980964709059
+06/01/2023,London Borough of Hounslow,Rose Gardens - 42 Flats,District,New,353,3,Domestic,Residential,Gas Fired CHP,,521514,180843,51.51345357477699,-0.25026645344660176
+06/01/2023,City of London Corporation,York Way Estate - 91 Flats & Community Centre,District,New,,,Mixed,Unspecified,Gas Fired CHP,,500186,158489,51.31669950080621,-0.5638168538787952
+24/03/2021,Liverpool City Council,Paddington Village Energy Centre,District,New,69,11,Domestic,Care Village,Gas Fired CHP,,430876,263466,52.268490340283925,-1.5489646714905392
+11/01/2022,Berkeley Homes,Paddington Green Police Station ,District,Expansion,2,1,Non Domestic,"Office, Café",Gas Fired CHP,,406791,286996,52.48084737640001,-1.9014353250204143
+11/01/2022,Audley Group,"Mayfield Care Community, Watford Health Campus",District,New,,,Mixed,Unspecified,Water Source Heat Pumps,,443117,547508,54.82057219545681,-1.3304964181886922
+11/01/2022,Oxygen Real Estate Group Limited,Cheam Road,Campus,New,1,,Non Domestic,Hospital,Gas Fired CHP,Air Source Heat Pumps,456481,343879,52.98927688966069,-1.1600599153738789
+06/04/2021,Geothermal Engineering Limited,Kerrek House - Geothermal Power Plant,District,New,174,2,Mixed,"Residential, Office, Retail, Theatre",Gas Fired CHP,Gas Boiler,532151,180378,51.50688932637719,-0.09723908283191834
+23/05/2022,Church Commissioners for England,Lambeth Palace Energy Centre,District,New,,,Non Domestic,Office,Water Source Heat Pumps,,248328,666608,55.868702552561274,-4.425453641087312
+24/09/2021,Inland Homes Plc,7 Thames Road - 131 Flats,Campus,New,1,5,Non Domestic,Agricultural,Biomass (dedicated),,399055,848885,57.530114821899375,-2.0174359648478717
+08/04/2021,London Borough of Enfield,Meridian Water Zone Development - Phase One,Campus,New,1,,Non Domestic,Office,Air Source Heat Pumps,,258475,664660,55.85430114906625,-4.262423765728506
+17/02/2022,Energetik,Enfield District Heat Network Expansion - Phase 1,Campus,New,1,2,Non Domestic,Activity Centre,Ground Source Heat Pumps,,254067,363020,53.144280101613724,-4.183340451782318
+04/05/2021,Christie Hospital NHS Trust,Christie Hospital - Air Sourced Heat Pumps,District,New,,,Mixed,Unspecified,Gas Fired CHP,,336271,390279,53.405463396395156,-2.9600691466839044
+07/05/2021,2 Lucan Place Limited,Lucan Place - 31 Flats,District,New,681,3,Mixed,"Residential, Retail, Community Hub",Gas Fired CHP,,531070,182310,51.52450287850111,-0.11208824223139507
+11/01/2022,Lamb Lane Partnership Limited,Lamb Lane - 32 Flats & Offices,District,New,518,4,Mixed,"Residential, Unspecified Commercial",Gas Fired CHP,,532503,165295,51.371262326347015,-0.09780997427150188
+20/05/2021,Murphy Philipps Architects Limited,Luton And Dunstable Hospital - Energy Centre,District,New,655,3,Mixed,"Residential, Office, Retail, Community Hub",Gas Fired CHP,,526895,181860,51.52141142578647,-0.1723971040824802
+03/06/2021,Bristol City Council,"The Square, Knowle - 4 Flats & Retail",Campus,New,1,3,Domestic,Residential,Biomass (dedicated),,308161,577573,55.08406933088815,-3.4402461099302095
+29/11/2021,Brighton College,Brighton College - Performing Arts Building,Campus,New,1,,Non Domestic,Hospital,Air Source Heat Pumps,Water Source Heat Pumps,419017,182216,51.5385283507338,-1.727200094782422
+18/01/2022,Hexagon Housing Association ,Blackwall Lane - 27 Flats and Commercial Space,Campus,Expansion,1,1,Non Domestic,University,Biomass (dedicated),,345120,719601,56.365523934217784,-2.889927578715898
+16/11/2021,The Royal Borough of Kensington and Chelsea,Barlby New Homes - 83 Apartments/Commercial,Campus,New,1,,Non Domestic,Hospital,Ground Source Heat Pumps,,431726,455415,53.99380658339677,-1.517573449834431
+07/12/2021,Hollybush Partnership,Hollybush Place - 55 Flats,Campus,New,1,,Non Domestic,University,Ground Source Heat Pumps,,517754,179988,51.50656465430728,-0.30471077481022124
+07/02/2022,Imperial Corporate Capital,35 Nightingale Grove - 20 Flats,Campus,New,1,,Non Domestic,Agricultural,Biofuel CHP,,337512,312550,52.70699284524324,-2.926294526539149
+16/05/2022,Stour Road Limited,"Stour Road, Piano Factory Phase 2 - 204 Bed Student Accommodation",District,New,1008,,Non Domestic,"Holiday Lodges, Restaurant, Hotel",Air Source Heat Pumps,,376321,87891,50.690182171758465,-2.336580181682985
+11/09/2023,Croydon Heights Freehold Limited,Canterbury House - 97 Flats,Campus,Renovation,1,2,Non Domestic,Agricultural,Biomass (dedicated),,336566,204433,51.735000637753835,-2.919981653954667
+01/02/2024,London Borough of Hackney,"DeBeauvoir Estate, Phase 1 - 189 Houses & Flats",Campus,Expansion,1,1,Non Domestic,University,Gas Fired CHP,Gas Boiler,473277,171811,51.44056306592665,-0.9471077240942976
+12/09/2022,Barratt Homes,Cloister Corner - 298 Flats & 2 Houses,District,New,256,6,Mixed,"Residential, Unspecified Commercial",Gas Boiler,Gas Fired CHP,547384,179486,51.495110534313476,0.1217261735587783
+12/09/2022,Leos Weybridge Development Limited,St Georges Business Park - 18 Houses & 134 Apartments,District,Expansion,1,1,Non Domestic,Library,Gas Boiler,Gas Fired CHP,547384,179486,51.495110534313476,0.1217261735587783
+23/09/2022,Cayuga Developments,The Montague Centre - 50 Apartments,Campus,Renovation,1,2,Non Domestic,College,Air Source Heat Pumps,,353594,403237,53.52373818466105,-2.7014419636948435
+11/10/2022,London Borough Of Southwark,Clements Road - Compass School District Heating Connection,Campus,Renovation,1,,Non Domestic,Agricultural,Water Source Heat Pumps,Air Source Heat Pumps,574656,150723,51.228970654585495,0.5001016487053982
+17/01/2024,Lovell,"Former Novartis Site, Parsonage Road - Phase 2 - 97 Flats/40 Houses",Campus,Renovation,1,,Non Domestic,Hospital,Gas Fired CHP,Air Source Heat Pumps,411811,286675,52.47787711279974,-1.827530472652442
+14/03/2024,Harlow District Council,"Staple Tye Shopping Centre, Perry Road - 24 Apartments",Campus,Expansion,1,1,Non Domestic,Primary School,Gas Boiler,,432558,263064,52.26477970898677,-1.5243562512524513
+23/05/2023,Berkeley Group Southall,The Green Quarter - Phase 4-9 Masterplan,Campus,New,1,3,Non Domestic,Agricultural,Ground Source Heat Pumps,,349610,667181,55.89510505493859,-2.8073276347630975
