@@ -1,0 +1,41 @@
+Ref ID,Renewable Ref ID,Record Last Updated (dd/mm/yyyy),Operator (or Applicant),Site Name,"Connection to communal, district or campus heat network","New, renovation or expansion of existing heat network",Number of customer connections,Number of buildings,"Types of Building (domestic, non domestic or mixed)",Types of buildings,Secondary plant technology,Third plant technology,Backup plant technology,Installed Capacity (MWelec),Installed Generation Capacity (MW thermal),Length of distribution network in m,Average diameter of pipes in mm,Development Status,X-coordinate,Y-coordinate
+8565,,12/01/2022,Veolia ES (UK) Limited,Lewisham Spine Heat Network Expansion (Alternative Route),District,Expansion,,,Mixed,Unspecified,Gas Fired CHP,,,,,1037,,Under Construction,535589,178016
+8566,,12/01/2022,Veolia ES (UK) Limited,Lewisham Spine Heat Network Expansion,District,Expansion,,,Mixed,Unspecified,Gas Fired CHP,,,,,1037,,Under Construction,535589,178016
+8584,,10/03/2021,Leeds City Council,Leeds PIPES - City Centre (Phase 2),District,New,236,6,Mixed,"Residential, Office",Gas Fired CHP,,,,,5000,300,Under Construction,429835,434078
+9015,,21/05/2024,University of West London ,University Of West London - Ground Source Heat Pump,District,New,,,Non Domestic,Industrial,,,,,5,,,Appeal Granted,426706,522077
+9540,,08/07/2024,Network Homes,Central Middlesex Hospital - 158 Flats & Offices,District,New,,,,Unspecified,,,,,,7500,,Planning Permission Granted,534834,195736
+9932,,15/11/2021,Ashford Borough Council,Elwick Place - Phase 2 - 200 Apartments,District,Expansion,58,1,Domestic,Residential,Air Source Heat Pumps,,,,,,,Planning Application Submitted,431147,433438
+9995,,19/01/2022,Leicester City Council,The Leys - Internal/External Refurbishments,District,New,,,,Unspecified,,,,,,,,Planning Permission Granted,331479,668933
+10573,,07/02/2022,Royal Borough of Kensington and Chelsea,Notting Dale Heat Network ,District,New,,,,Unspecified,,,,20,,,,Planning Permission Granted,520759,413911
+10670,,23/02/2022,Watford Parade (Gibraltar) Limited,The Parade - 147 Flats & Retail Space,District,New,3,3,Non Domestic,Office,Air Source Heat Pumps,,,,,,,Planning Application Submitted,260787,662365
+10912,,01/04/2022,Stanhope Plc / SB Royal Holdings Limited,Royal Street Site - Commercial and 133 Flats,District,New,,,Domestic,Residential,,,,95,,5000,,Planning Application Submitted,486007,414482
+10948,,06/04/2022,Throgmorton Investments Limited,Balham High Road - 44 Flats & Commercial Space,District,New,,,,Unspecified,,,,58,,650,560,Planning Permission Granted,549486,179288
+11135,,06/05/2022,Sherrygreen Homes Limited,"Anchor Wharf, E3 - 225 Flats",District,Expansion,525,13,Mixed,"Residential, Primary School, Unspecified Commercial",,,,,,,,Planning Permission Granted,535142,177446
+11136,,06/05/2022,Readyset Resources Limited,133 Brent Street - Offices & 17 Flats,District,Expansion,167,4,Domestic,Residential,,,,,,,,Under Construction,535142,177446
+11158,,29/04/2024,Sorbon Estates,Wellington Way - 105 Flats,District,New,,,Non Domestic,Unspecified,,,,,,,,Planning Application Submitted,403542,96723
+11304,,19/05/2022,London & Quadrant Housing Trust /Countryside Properties,"Beam Park Phases 2B, D, E ,F, G",District,New,299,,Mixed,"Residential, Primary School, Office",,,,,,5954.57,,Under Construction,395905,804759
+11583,,04/07/2022,Warwick Family Properties,"Buddens Yard - Retail, Office & Cafe Units",District,Expansion,1,1,Non Domestic,Law Building,,,,,,,,Under Construction,429621,433886
+11816,,09/08/2022,London Borough of Newham,Vandome Close - 55 Apartments,District,Expansion,1304,,Mixed,"Residential, Medical Centre, Retail, Restaurant, Cinema, Hotel",,,,,,,,Planning Permission Granted,433251,278903
+11952,,03/01/2023,Euthenia Developments Limited,Manderson House - 111 Flats,District,Expansion,,,,Unspecified,,,,,,2000,,Planning Permission Granted,534538,191957
+12063,,12/09/2022,Stanhope Plc,55 Bishopsgate - Office,District,Expansion,189,1,Domestic,Residential,,,,,,,,Planning Application Submitted,430871,433411
+12070,,31/10/2023,Gosway Properties Limited,495 Whippendell Road - 25 Apartments,Communal,Expansion,96,1,Domestic,Residential,,,,,,,,Planning Application Withdrawn,430860,434014
+12423,,25/10/2022,Minsthorpe Community College,Minsthorpe Community College - Sports Halls & Gym,District,Expansion,78,1,Domestic,Residential,,,,,,,,Planning Application Submitted,430877,433579
+12465,,03/04/2024,Mackenzie Homes Limited,The Squirrels Estate - 116 Flats & Retail,District,Expansion,,,Mixed,Unspecified,,,,,,547,,Planning Permission Granted,535818,177990
+12619,,14/11/2022,Kitewood Estates Limited,Willow Way - 60 Flats & Offices,District,Expansion,1458,14,Mixed,"Residential, Unspecified Commercial",,,,,,,,Planning Application Submitted,533863,192063
+12654,,02/04/2024,Cold Move Limited,"Cold Move, Maes-Y-Clawdd ",District,Expansion,532,5,Mixed,"Residential, Unspecified Commercial",,,,,,,,Planning Application Submitted,533938,191954
+12873,,19/12/2022,BexleyCo Homes,Walnut Tree Road - 70 Flats,District,Expansion,,,Mixed,,,,,,,,,Scoping,534794,177582
+12874,,30/01/2023,School Road Acton Ltd,"School Road, Acton - 176 Apartments & Industrial Space",District,Expansion,1,3,Non Domestic,Secondary School,,,,,,,,Planning Permission Granted,534573,178970
+13049,,17/04/2023,GMD Developments Limited,152 Victoria Road - 91 Apartments & Student Accommodation,District,Expansion,584,,Mixed,"Residential, Community Hub",,,,,,,,Planning Permission Granted,395312,804690
+13050,,17/04/2023,Fifth State Limited,5-9 Creekside - Student Accommodation,District,Expansion,,,Mixed,"Residential, Community Hub",,,,,,,,Planning Permission Granted,395312,804690
+13085,,28/09/2023,Far East Consortium International Limited,"Ensign House, Isle Of Dogs - 495 Apartments & Commercial",District,Expansion,1,1,Non Domestic,"Secondary School, Primary School",,,,,,,,Planning Permission Granted,432037,432613
+13365,,06/10/2023,Richmond Housing Partnership,Sheldon House - 27 Apartments,District,Expansion,130,6,Mixed,"Residential, Office, Retail, Arena, Gym, Hotel",,,,,,,,Planning Permission Granted,356933,171393
+13490,,06/06/2023,Respect Developments,Glenrothes Crematorium,District,Expansion,,,,Unspecified,,,,,,4500,,Planning Application Withdrawn,529337,192428
+13514,,09/11/2023,Thackeray Estates,3-7 Park Street - Commercial & 23 Flats,District,Expansion,,,,Unspecified,,,,,,7000,,Planning Application Withdrawn,532964,192135
+13650,,22/08/2023,NHS Lanarkshire Kirklands Hospital,Monklands Hospital Replacement Project,Campus,New,1,3,Non Domestic,Industrial,,,,,,,,Planning Permission Granted,323883,178383
+14311,,30/01/2024,Hollybrook Limited,Neasden Goods Yard,District,Expansion,145,1,Mixed,"Residential, Community Hub",,,,,,,,Planning Permission Granted,535125,178780
+14661,,10/11/2023,IXDS Limited,Bidder Street - Data Centre,Campus,New,1,6,Non Domestic,Industrial,,,,,,,,Planning Permission Granted,380912,431361
+14684,,01/09/2023,Inland Homes Plc,Gallions Close - 233 Flats & Retail Unit,District,New,,,Mixed,Unspecified,,,Gas Boiler,40,,,,Planning Application Submitted,433599,431259
+14817,,20/09/2023,Moray Council,South Street - 38 Flats & Retail,District,Expansion,2,1,Non Domestic,"Student Accommodation, Unspecified Commercial",,,,,,,,Under Construction,429990,434085
+14949,,03/10/2023,Hemiko,Greenwich Peninsula Energy Centre - Air Source Heat Pumps,District,Expansion,1536,9,Domestic,Residential,,,,,,,,Planning Permission Granted,534573,178970
+15841,,16/02/2024,,,District,Expansion,217,1,Domestic,Residential,,,,,,,,Under Construction,430834,434195
+16509,,18/06/2024,,,District,New,,,Not Specified,Not Specified,,,,,15,,,Planning Application Submitted,580770,172044
