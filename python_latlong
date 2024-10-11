@@ -2,7 +2,8 @@ import csv
 from pyproj import Proj, transform
 
 # Define the input and output file paths
-input_csv = 'input_easting_northing.csv'
+# Define the input and output file paths
+input_csv = 'PointHeatCO2.csv'
 output_csv = 'output_lat_lon.csv'
 
 # Define the projections for British National Grid (EPSG:27700) to WGS84 (EPSG:4326)
