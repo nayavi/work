@@ -1,35 +1,42 @@
-import csv
-from pyproj import Proj, transform
+import csv,os
+from pyproj import Proj, CRS, transform, Transformer
 
-# Define the input and output file paths
 # Define the input and output file paths
 input_csv = 'PointHeatCO2.csv'
-output_csv = 'output_lat_lon.csv'
+output_csv = 'LatLongPoints.csv'
 
-# Define the projections for British National Grid (EPSG:27700) to WGS84 (EPSG:4326)
-proj_bng = Proj(init='epsg:27700')  # British National Grid (OSGB36)
-proj_latlon = Proj(init='epsg:4326')  # WGS84 Latitude/Longitude
+# Define the CRS (Coordinate Reference Systems)
+proj_osgb36 = CRS.from_epsg(27700)  # OSGB36 (British National Grid)
+proj_wgs84 = CRS.from_epsg(4326)  # WGS84 (latitude/longitude)
 
-# Open the input CSV file and read Eastings/Northings
+# Create a Transformer object for converting OSGB36 (Easting/Northing) to WGS84 (Latitude/Longitude)
+transformer = Transformer.from_crs(proj_osgb36, proj_wgs84, always_xy=True)
+
+# Open the input CSV file and read Easting/Northing
 with open(input_csv, mode='r') as infile, open(output_csv, mode='w', newline='') as outfile:
-    reader = csv.DictReader(infile)
-    fieldnames = reader.fieldnames + ['Latitude', 'Longitude']
-    writer = csv.DictWriter(outfile, fieldnames=fieldnames)
-    
-    writer.writeheader()  # Write the header row
-    
+    reader = csv.reader(infile)
+    writer = csv.writer(outfile)
+
+    # Try to read the header, handle empty file cases
+    try:
+        header = next(reader)
+    except StopIteration:
+        print("Error: The input CSV file is empty or missing a header row.")
+        exit(1)
+
+    # Write the header and append 'Latitude' and 'Longitude' columns
+    writer.writerow(header + ['Latitude', 'Longitude'])
+
+    # Process each row in the CSV
     for row in reader:
-        easting = float(row['Easting'])
-        northing = float(row['Northing'])
-        
-        # Convert Easting/Northing to Latitude/Longitude
-        longitude, latitude = transform(proj_utm, proj_latlon, easting, northing)
-        
-        # Add the Latitude and Longitude to the row
-        row['Latitude'] = latitude
-        row['Longitude'] = longitude
-        
-        # Write the row to the output CSV
-        writer.writerow(row)
+        # Extract the Easting and Northing from the 2nd and 3rd columns
+        easting = float(row[1])  # Assuming 2nd column is Easting
+        northing = float(row[2])  # Assuming 3rd column is Northing
+
+        # Convert Easting/Northing (OSGB36) to Latitude/Longitude (WGS84)
+        longitude, latitude = transformer.transform(easting, northing)
+
+        # Write the row, appending the calculated Latitude and Longitude
+        writer.writerow(row + [latitude, longitude])
 
 print(f"Conversion complete. Output saved to {output_csv}")
