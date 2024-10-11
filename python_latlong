@@ -2,7 +2,7 @@ import csv,os
 from pyproj import Proj, CRS, transform, Transformer
 
 # Define the input and output file paths
-input_csv = 'PointHeatCO2.csv'
+input_csv = 'PointHeatCO2Rich.csv'
 output_csv = 'LatLongPoints.csv'
 
 # Define the CRS (Coordinate Reference Systems)
