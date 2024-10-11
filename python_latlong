@@ -2,15 +2,11 @@ import csv,os
 from pyproj import Proj, CRS, transform, Transformer
 
 # Define the input and output file paths
-input_csv = 'PointHeatCO2Rich.csv'
-output_csv = 'LatLongPoints.csv'
+input_csv = 'HNPD_2024_Q2_Existing Heat Networks.csv'
+output_csv = 'HNLatLongPoints.csv'
 
-# Define the CRS (Coordinate Reference Systems)
-proj_osgb36 = CRS.from_epsg(27700)  # OSGB36 (British National Grid)
-proj_wgs84 = CRS.from_epsg(4326)  # WGS84 (latitude/longitude)
-
-# Create a Transformer object for converting OSGB36 (Easting/Northing) to WGS84 (Latitude/Longitude)
-transformer = Transformer.from_crs(proj_osgb36, proj_wgs84, always_xy=True)
+# Define the transformer for coordinate conversion (OSGB36 to WGS84)
+transformer = Transformer.from_crs("EPSG:27700", "EPSG:4326", always_xy=True)
 
 # Open the input CSV file and read Easting/Northing
 with open(input_csv, mode='r') as infile, open(output_csv, mode='w', newline='') as outfile:
@@ -29,14 +25,29 @@ with open(input_csv, mode='r') as infile, open(output_csv, mode='w', newline='')
 
     # Process each row in the CSV
     for row in reader:
-        # Extract the Easting and Northing from the 2nd and 3rd columns
-        easting = float(row[1])  # Assuming 2nd column is Easting
-        northing = float(row[2])  # Assuming 3rd column is Northing
+        # Initialize latitude and longitude to None
+        latitude, longitude = None, None
 
-        # Convert Easting/Northing (OSGB36) to Latitude/Longitude (WGS84)
-        longitude, latitude = transformer.transform(easting, northing)
+        # Try-except block to handle conversion errors
+        try:
+            # Extract Easting and Northing from the specified columns
+            easting_str = row[19].strip()  # Get Easting value and strip whitespace
+            northing_str = row[20].strip()  # Get Northing value and strip whitespace
 
-        # Write the row, appending the calculated Latitude and Longitude
-        writer.writerow(row + [latitude, longitude])
+            # Check if both Easting and Northing are not empty
+            if easting_str and northing_str:  # Both should have values
+                easting = float(easting_str)  # Convert Easting to float
+                northing = float(northing_str)  # Convert Northing to float
 
-print(f"Conversion complete. Output saved to {output_csv}")
+                # Convert Easting/Northing (OSGB36) to Latitude/Longitude (WGS84)
+                longitude, latitude = transformer.transform(easting, northing)
+
+                # Write the row, appending the calculated Latitude and Longitude
+                writer.writerow(row + [latitude, longitude])
+            else:
+                print(f"Skipping row due to missing Easting or Northing: {row}")
+        
+        except ValueError as e:
+            print(f"Error converting Easting/Northing to float: {e}. Row data: {row}")
+        except IndexError as e:
+            print(f"Error: {e}. Row data may not have enough columns: {row}")
