@@ -1,0 +1,147 @@
+ï»¿PlantID,Site,Easting,Northing,Operator,Sector, Emission ,Region,Latitude,Longitude
+9039,Aberdeen,391700,807070,Aberdeen Royal Infirmary,Public administration,8177.109431,Scotland,57.15442620088043,-2.1388308737965795
+8635,Royal Liverpool University Hospital,335960,390730,Dalkia Utilities Services,Public administration,8092.512976,England,53.40947894721964,-2.9648381857430164
+8678,The Royal Victoria Infirmary,424500,564900,Dalkia Utilities Services,Public administration,7686.1725,England,54.97811001903713,-1.6187498858882186
+14410,Queens Medical Centre (NUH) CHP Plant,454810,338760,E.On Connecting Energies Ltd,Public administration,6618.77373,England,52.94343891794459,-1.1858144694553865
+8793,Southampton General Hospital,439600,114900,Southampton University Hospitals NHS Trust,Public administration,6426.165783,England,50.93219633693499,-1.4378603647816792
+8935,St Georges Hospital,526925,171325,St Georges Healthcare NHS Trust,Public administration,6425.658191,England,51.426727346108684,-0.17574585360245906
+8751,St. Thomas' Hospital,530600,179300,Guys & St Thomas'  Hospital NHS Trust,Public administration,5769.775107,England,51.4975619944316,-0.11997304188126064
+14441,Ninewells Hospital,339000,730380,NHS Tayside,Public administration,5767.104295,Scotland,56.4615980045806,-2.9914905616477
+8619,Freeman Hospital,426100,567600,Dalkia Utilities Services,Public administration,5426.037363,England,55.00229120243331,-1.5935075875342042
+11755,Kings College Hospital,532587,176187,Dalkia Utility Services,Public administration,5321.550106,England,51.469124906846695,-0.09253304477486328
+13634,South Glasgow Hospitals,253350,665670,Greater Glasgow & Clyde NHS Health Board,Public administration,5295.713692,Scotland,55.861836509173,-4.344765919428833
+8907,Royal Free Hospital,527297,185410,Royal Free Hampstead NHS Trust,Public administration,5239.116466,England,51.55322418127245,-0.16532361634048118
+8873,John Radcliffe Hospital,453900,207600,Oxford Radcliffe Hospitals NHS Trust,Public administration,5106.254984,England,51.76449474833746,-1.2203751770180589
+11957,Kings Yard CHP Energy Centre,537571,184555,Cofely East London Energy,Public administration,5092.674761,England,51.54313179183966,-0.017562314977751122
+8770,Bristol,358400,173550,United Bristol Healthcare NHS Trust,Public administration,4910.467645,England,51.4593876181493,-2.600156997400323
+8744,University Hospital of Wales,317500,179400,Cardiff & Vale NHS Trust,Public administration,4844.131636,Wales,51.50748502852401,-3.19011395706468
+9076,Faslane,224900,689700,Babcock Naval Services Ltd,Public administration,4738.025122,Scotland,56.06798654647189,-4.814401881106969
+8752,Guys Hospital,532800,179800,Guys & St Thomas' NHS Trust,Public administration,4718.720201,England,51.501543159932744,-0.08811070282800491
+8997,Belfast,144579,529209,Royal Hospitals,Public administration,4444.267478,Northern Ireland,54.59331685858683,-5.9554646186874045
+8891,Manchester,384979,396212,Central Manchester & Manchester Children's University Hospital NHS,Public administration,4325.502785,England,53.46243607830335,-2.227710976783472
+40711,Thetford,585765,282380,Baxter Healthcare Ltd,Public administration,4186.420669,England,52.40788162309012,0.7295967695060092
+8858,Hope Hospital,378700,399000,Salford Royal Hospitals NHS Trust,Public administration,4046.611028,England,53.487277610314386,-2.3224728112015196
+8658,Queen Elizabeth Medical Centre,404090,283950,University Hospital Birmingham NHS Trust,Public administration,3790.197491,England,52.45349027749748,-1.9412421643254623
+8985,Londonderry,60988,579477,Altnagelvin Hospital,Public administration,3771.606003,Northern Ireland,54.994043444855095,-7.302850741769137
+8854,Leicester Royal Infirmary,458600,303600,University Hospitals of Leicester NHS Trust,Public administration,3385.956674,England,52.62700502247507,-1.1357052089402504
+13444,University Hospital,437942,280527,Warwickshire NHS Trust,Public administration,3328.982632,England,52.42142367557804,-1.4435030167430503
+11744,City General Hospital,385795,344997,University Hospital of North Staffordshire (NHS) Trust,Public administration,3303.780581,England,53.00210014663768,-2.2131193139776264
+8787,Great Ormond Street Hospital,530500,182000,Great Ormond Street Hospital for Children NHS Trust,Public administration,3250.076703,England,51.52184891319903,-0.12041444103032309
+8791,Royal Devon & Exeter Hospital,293700,91800,Royal Devon & Exeter  NHS Foundation Trust,Public administration,3227.872683,England,50.71607706433632,-3.5070846707148235
+9635,City Campus,445670,334410,Nottingham University Hospitals NHS Trust,Public administration,3153.089468,England,52.90519188999387,-1.3224266475870998
+9070,Glasgow Royal Infirmary,260100,665600,North Glasgow University Hospitals NHS Trust,Public administration,3134.770636,Scotland,55.86321483774644,-4.236971996272753
+8825,Addenbrookes Hospital,546500,255000,Addenbrookes NHS Trust,Public administration,3000.484186,England,52.173815349058145,0.14094622776448282
+8654,New Cross Hospital,393500,299900,The Royal Wolverhampton Hospitals NHS Trust,Public administration,2951.464345,England,52.59685320664595,-2.0973941670459104
+11726,Charing Cross Hospital,523600,177900,Imperial College Healthcare NHS Trust,Public administration,2891.787237,England,51.48655240747683,-0.2212508344528891
+11727,Hammersmith Hospital,522400,181200,Imperial College Healthcare NHS Trust,Public administration,2850.321101,England,51.51647093408934,-0.23738102519455523
+40255,Sunderland Royal Hospital,437866,556587,City Hospitals Independent Commercial Enterprises Ltd,Public administration,2839.784018,England,54.902578047476865,-1.411025228113587
+8890,Chelsea and Westminster Hospital,526300,177700,Chelsea & Westminster Healthcare Trust,Public administration,2812.640174,England,51.484159038932525,-0.18245654711871687
+14969,Hull Royal Infirmary,508373,428788,Hull & East Yorkshire Hospitals NHS Trust,Public administration,2785.997965,England,53.74421334404786,-0.3582182911532825
+8763,Royal Hallamshire Hospital,433800,386900,Sheffield teaching Hospitals NHS Trust,Public administration,2689.089436,England,53.37787858763581,-1.4933819371770225
+14442,Western General Hospital,323000,675050,NHS Lothian,Public administration,2686.821128,Scotland,55.96226486793546,-3.2349857740412427
+11131,George Square,325700,673000,University of Edinburgh,Public administration,2678.994245,Scotland,55.94427590231773,-3.1911813609545807
+8291,Lincoln County Hospital,498800,371800,United Lincolnshire Hospitals NHS Trust,Public administration,2660.449713,England,53.234053741481965,-0.5212367671955234
+11106,Royal United Hospital Bath,372850,165950,Royal United Hospital Bath NHS Trust,Public administration,2586.819976,England,51.391933735825106,-2.391593752737604
+9055,Inverness,268600,844600,Raigmore Hospital,Public administration,2474.363636,Scotland,57.4725613654211,-4.19269609766718
+9033,Edinburgh,329100,670400,Royal Infirmary of Edinburgh,Public administration,2466.714335,Scotland,55.921434321319346,-3.136073005476577
+8965,Norfolk & Norwich University Hospital,618143,307129,Serco Services,Public administration,2451.106803,England,52.61808579935429,1.2210668898504673
+8257,The James Cook University Hospital,450700,517400,South Tees Hospitals NHS Trust,Public administration,2440.015006,England,54.54932039706823,-1.2177121780956783
+8987,Belfast,145230,528418,Belfast City Hospital,Public administration,2424.299002,Northern Ireland,54.586553721627766,-5.944727181691431
+8766,Royal Bolton Hospital,371890,406460,Bolton Hospitals NHS Trust,Public administration,2416.783874,England,53.55400785794483,-2.425773235959925
+8786,Russells Hall Hospital,392000,289300,Interserve (Facilities Management) Ltd,Public administration,2411.437527,England,52.501540655125275,-2.119279781918915
+13462,Lister Hospital,523056,226590,East & North Herts NHS Trust,Public administration,2398.66746,England,51.92423859637723,-0.21191184654937867
+13671,Broadstreet Energy Scheme,406200,286800,Birmingham District Energy Company Ltd,Public administration,2396.742676,England,52.47909225668549,-1.9101410027817272
+8988,Portadown,113959,513437,Craigavon Area Hospital,Public administration,2352.643336,Northern Ireland,54.43560430512645,-6.412693952690261
+8874,Southmead Hospital,359150,177490,North Bristol NHS Trust,Public administration,2334.116594,England,51.494867021877184,-2.5898194759837505
+8356,Oxford,451630,206920,University of Oxford,Public administration,2278.273429,England,51.75859480166777,-1.2533658656716347
+8944,Kingston Hospital,519600,169800,Kingston Hospital NHS Trust,Public administration,2256.164894,England,51.41461303382542,-0.28156765278029267
+8811,Medway Maritime Hospital,577200,167500,Medway NHS Trust,Public administration,2207.794716,England,51.378893569219095,0.5448248259129994
+8863,Doncaster Royal Infirmary,459340,404320,Doncaster & Bassetlaw Hospitals NHS Trust,Public administration,2193.77643,England,53.53219338840346,-1.1062238531182857
+8608,City Hospital,404800,287900,Sandwell & West Birmingham Hospital NHS Trust,Public administration,2043.833575,England,52.48899501014205,-1.9307388300209796
+8711,Eastbourne District General Hospital,560250,100750,East Sussex Hospitals NHS Trust,Public administration,1994.304466,England,50.78418282993059,0.27190887177624423
+8860,Wythenshawe Hospital,380770,387940,South Manchester University Hospitals NHS Trust,Public administration,1969.64273,England,53.38794624912089,-2.2905974435297822
+8861,Stepping Hill Hospital,391300,387400,Stockport NHS Foundation Trust,Public administration,1941.652513,England,53.38337314262437,-2.1322590726149033
+14244,Northwick Park & St Marks Hospitals,516300,187600,London North West Healthcare NHS Trust,Public administration,1915.918195,England,51.575278704186715,-0.32313861481777406
+8885,Royal Preston Hospital,353600,432900,Lancashire Hospitals NHS Trust,Public administration,1876.893627,England,53.79033460875119,-2.7057924456428353
+8816,Victoria Hospital,333300,436500,"Blackpool, Fylde & Wyre Hospitals NHS Trust",Public administration,1865.798827,England,53.820476300325176,-3.0146647475730743
+11096,Derby City General Hospital,432700,334800,Skanska Rashleigh Weatherfoil Ltd,Public administration,1825.402642,England,52.909640440862,-1.5152155928107276
+8429,Salisbury District Hospital,414680,127470,Salisbury District Hospital,Public administration,1818.16267,England,51.04639597893919,-1.791965481292446
+8887,Queens Park Hospital,369232,426715,East Lancashire Hospitals NHS Trust,Public administration,1813.569177,England,53.7359078862491,-2.4679045084695224
+9634,Southend University Hospital,586260,187500,Southend University hospital NHS Foundation Trust,Public administration,1792.560248,England,51.555629236532475,0.6853904270429736
+8849,York Hospital,460208,453108,York Hospitals NHS Trust,Public administration,1760.457965,England,53.970547103344515,-1.0836400243522268
+40712,North Manchester General Hospital,384893,402134,Manchester University NHS Foundation Trust,Public administration,1750.305136,England,53.51566260805146,-2.2292935098110114
+8762,Northern General Hospital,436500,390300,Sheffield Teaching Hospitals NHS Trust,Public administration,1704.799765,England,53.40825928801507,-1.4524055432426657
+8851,Derriford Hospital,249942,59462,Plymouth Hospitals NHS Trust,Public administration,1703.200675,England,50.41580634088262,-4.113474880793715
+40281,Birmingham Heartlands Hospital,411787,286799,University Hospitals Birmingham NHS Foundation Trust,Public administration,1691.678989,England,52.47899237663185,-1.8278794892096746
+14404,Peterborough City Hospital,516732,299949,Brookfield Multiplex Services Europe Ltd,Public administration,1651.734725,England,52.58482519440185,-0.27849407637034546
+40283,St James Hospital CHP Plant,431610,434622,Vital Energi Solutions Ltd,Public administration,1641.442091,England,53.806936874725274,-1.5214817178274485
+8376,Basildon Hospital,570200,187200,Basildon & Thurrock University Hospitals NHS Trust,Public administration,1639.834906,England,51.55800455572035,0.4538205983802125
+8903,Ashton - U - Lyne,395250,399650,Tameside & Glossop Acute Services NHS Trust,Public administration,1553.162301,England,53.493533305670994,-2.073064574598701
+8617,Gloucestershire Royal Hospital,384100,218600,Gloucestershire Hospitals NHS Trust,Public administration,1520.21221,England,51.8657490468646,-2.2323164289820987
+9471,Royal Bournemouth Hospital,412760,94220,White Rose Environmental Ltd,Public administration,1496.771907,England,50.74744573859712,-1.8205055018512675
+8866,Leighton Hospital,368300,358000,Mid Cheshire Hospitals NHS Trust,Public administration,1495.544179,England,53.11822756146622,-2.47509210698195
+9068,Gartnavel General Hospital,255400,668000,North Glasgow University Hospitals NHS Trust,Public administration,1485.87824,Scotland,55.883373613782226,-4.31328488458497
+7818,Royal Oldham Hospital,392000,406300,White Rose Environmental Ltd,Public administration,1482.750839,England,53.553265741672845,-2.122223460155301
+8977,St Marys Hospital,466610,100510,Carillion Services Ltd,Public administration,1478.981072,England,50.800331081682096,-1.0561658371458535
+8886,Burnley General Hospital,385184,434505,East Lancashire Hospitals NHS Trust,Public administration,1451.277621,England,53.806624472252956,-2.226461134315452
+13450,Walsall Manor Hospital,400152,298264,Skanska Rashleigh Weatherfoil Ltd,Public administration,1451.206694,England,52.58218616689007,-1.999189248978673
+8670,Castle Hill Hospital,502550,432170,Hull & East Yorkshire Hospitals NHS Trust,Public administration,1447.241534,England,53.77577610074693,-0.4453538285941643
+9089,Golden Jubilee National Hospital,248400,670800,NHS Scotland,Public administration,1446.545455,Scotland,55.90635589649812,-4.426652600439325
+8857,Queens Hospital,423160,324550,Burton Hospital NHS Trust,Public administration,1437.173978,England,52.81799483450323,-1.6577915531559582
+8325,Morriston Hospital,266200,200200,Swansea NHS Trust,Public administration,1409.312022,Wales,51.68457151552237,-3.9368548008162625
+8954,Darlington Memorial Hospital,428000,515000,County Durham & Darlington Acute Hospitals NHS Trust,Public administration,1379.798097,England,54.52951188558679,-1.5688564964068155
+8872,Churchill Hospital,454308,206029,Oxford Radcliffe Hospitals NHS Trust,Public administration,1368.575455,England,51.75033176881615,-1.2147086898620518
+8424,Pilgrim Hospital,533700,345600,United Lincolnshire Hospitals NHS Trust,Public administration,1350.650375,England,52.99105548307699,-0.009568610073474933
+8800,Ealing Hospital,514300,179900,Dalkia Utilities Services,Public administration,1318,England,51.50648217924121,-0.35448449577836094
+8344,Burghfield,467700,168400,AWE Plc,Public administration,1317.78972,England,51.41059011990321,-1.0279852799242808
+8814,Royal Cornwall Hospital,179550,45250,Royal Cornwall Hospitals NHS Trust,Public administration,1284.945447,England,50.265980156341286,-5.094660224298578
+9038,Aberdeen,389530,806490,Woodend Hospital,Public administration,1279.909091,Scotland,57.14917120155794,-2.174675180542912
+11737,Kings Mill Hospital,451500,359800,Skanska Rashleigh Weatherfoil Ltd,Public administration,1273.021173,England,53.1328798745014,-1.2317125217634606
+9080,Crosshouse,240100,638500,Crosshouse Hospital,Public administration,1271.181818,Scotland,55.61374051702553,-4.5403486189544875
+8297,North Hampshire Hospital,462200,153900,ScottishPower Generation Ltd,Public administration,1241.560339,England,51.28085513815623,-1.1095838974047831
+9626,Whiston Hospital,347900,391900,St Helens & Knowsley Hospitals  (NHS) Trust,Public administration,1237.133645,England,53.421310932014904,-2.7854356228515362
+8702,St James Hospital,431700,434570,The Leeds Teaching Hospitals NHS Trust,Public administration,1229.802371,England,53.80646406125953,-1.5201204491042064
+8799,Barnsley Hospital,433200,406900,Barnsley Hospital NHS Foundation Trust,Public administration,1229.045455,England,53.55767877519578,-1.50029505748065
+8894,The Royal Oldham Hospital,392030,406230,The Pennine Acute Hospitals NHS Trust,Public administration,1212.712702,England,53.552637023178775,-2.1217688297041195
+8731,North Middlesex Hospital,533400,192300,North Middlesex University Hospitals NHS Trust,Public administration,1171.942719,England,51.61373084683095,-0.07473366734732503
+8947,Stoke Mandeville Hospital,482500,211900,Buckinghamshire Hospitals NHS Trust,Public administration,1152.657055,England,51.79967030495428,-0.8050125457120293
+8204,Airedale General Hospital,402600,444450,Airedale NHS Trust,Public administration,1147.954129,England,53.896217204274286,-1.961920122707801
+8706,Colchester,603720,223830,University of Essex,Public administration,1111.710857,England,51.875815265937874,0.9581297355602777
+14412,Sandwell General Hospital,400919,292165,Sandwell & West Birmingham Hospital NHS Trust,Public administration,1110.622432,England,52.527356519439216,-1.9878844040373502
+8215,RAF St Athan,299034,168857,Ministry of Defence,Public administration,1108.100595,Wales,51.409716669663474,-3.4530885873297725
+8998,Jordanstown,149819,539357,University of Ulster,Public administration,1101.068564,Northern Ireland,54.68692546703207,-5.8832320641515095
+8723,RAF Honington,589250,274400,Ministry of Defence,Public administration,1073.727273,England,52.335031646885135,0.7762672228832665
+14398,Royal Berkshire Hospital,472458,173005,Royal Berkshire NHS Foundation Trust,Public administration,1069.33581,England,51.45140239352702,-0.9586450009718415
+13724,Whipps Cross Hospital,538892,188592,Barts Health NHS Trust,Public administration,1045.619564,England,51.579084518693335,0.003068103872474378
+11055,Calderdale Royal Hospital,409500,423200,Vita Lend Lease Ltd,Public administration,1034.669979,England,53.70514485299242,-1.8575680631346425
+9069,Stobhill General Hospital,260800,669100,North Glasgow University Hospitals NHS Trust,Public administration,1015.202528,Scotland,55.89484077301206,-4.227596123909593
+8968,Queen Elizabeth Hospital,426960,560570,Gateshead Health NHS Foundation Trust,Public administration,1000.91118,England,54.93907429777656,-1.5807216002113202
+9027,Stirling,279600,692200,Stirling Royal Infirmary,Public administration,988.3636364,Scotland,56.1073392827553,-3.9375177570561197
+9042,Forres,306080,861080,RAF Kinloss,Public administration,980.4024077,Scotland,57.62985191772499,-3.5744257974110294
+8790,Royal Bournemouth Hospital,412680,94120,Estates Department - Royal Bournemouth Hospital,Public administration,978.6139939,England,50.74654821711637,-1.821642824766871
+8964,University Hospital of North Durham,426200,543800,Haden Building Management Ltd,Public administration,972.7236897,England,54.788417188691845,-1.5940992946409465
+8775,Torbay Hospital,290000,65830,South Devon Healthcare NHS Trust,Public administration,967.636706,England,50.48192947341076,-3.551775541003738
+8773,Royal Lancaster Infirmary,347780,461100,Morecambe Bay Hospitals NHS Trust,Public administration,953.6608836,England,54.04321274479584,-2.7989512689528087
+9631,Rotherham General Hospital,443715,390953,The Rotherham NHS Foundation Trust,Public administration,943.8272727,England,53.41358170759972,-1.3437891089536498
+8808,St. Mary's Hospital,449439,90487,Isle of Wight Healthcare NHS Trust,Public administration,916.0692255,England,50.711920984896494,-1.3011439570777015
+9028,Falkirk,228800,667980,Falkirk & District Royal Infirmary,Public administration,914.7272727,Scotland,55.87447433948713,-4.738021331905562
+9611,Queens Hospital,551300,187700,Barking Havering & Redbridge Hospitals NHS Trust,Public administration,903.6931936,England,51.56787900167477,0.18162018889388645
+9035,Riccarton,317500,669200,Heriot Watt University,Public administration,894.8181818,Scotland,55.908803728822704,-3.321270610927309
+13052,Pindersfields Hospital,434076,422118,Balfour Beatty Workplace,Public administration,885.3965482,England,53.694399985363845,-1.4854114753224825
+14246,University College Hospital,529300,182300,University College London Hospitals NHS Foundation Trust,Public administration,872.7953973,England,51.524820644772184,-0.13759092607106993
+9084,Airdrie,275100,665300,Monklands Hospital,Public administration,861.2727273,Scotland,55.86464280190409,-3.9973289452347105
+8544,University Hospital Aintree,338000,397300,Aintree Hospitals NHS Trust,Public administration,756.03675,England,53.46876954367782,-2.935450813131889
+8795,Brompton Barracks,576400,169000,Ministry of Defence,Public administration,739.9106874,England,51.392616778833265,0.5340860909266298
+8906,Worcestershire Royal and Newtown Hospital,387700,254700,Lend Lease Facilities & Estate Management,Public administration,734,England,52.190401644510274,-2.181344994993157
+8046,Epsom General Hospital,520300,159900,Epsom & St Helier University Hospitals NHS Trust,Public administration,731,England,51.32548806563965,-0.27485403908693257
+8491,Bromley Princess Royal Hospital,543300,164940,SSE Generation Ltd,Public administration,720.8223709,England,51.36545277407417,0.05705664261108632
+10891,Addenbrookes Hospital Incinerator,546540,255140,Cambridge University Hospital NHS Trust,Public administration,637.7822856,England,52.175062517230366,0.14159115045268222
+8613,Leicester,458300,303800,De Montfort University Higher Education Corporation,Public administration,634.7589264,England,52.62883500250288,-1.1401014963496023
+9020,Livingston,367600,604700,St John's Hospital,Public administration,561.1284545,Scotland,55.33527140261497,-2.512302095512686
+8656,Poole Hospital,401990,91390,Poole Hospital NHS Trust,Public administration,482.1817072,England,50.72213123972581,-1.9731734405291734
+9087,Wishaw,278200,655000,Wishaw General Hospital,Public administration,475,Scotland,55.77294495716556,-3.9432099617436975
+8869,Goodmayes & King George Hospitals,546620,188740,"Barking, Havering & Redbridge Hospitals NHS Trust",Public administration,298.1176309,England,51.57845889219217,0.11457928324378888
+9085,East Kilbride,260700,654100,Hairmyres Hospital,Public administration,235.2617431,Scotland,55.76013961806349,-4.221500917710152
+9454,Porton Down,420470,136750,DSTL,Public administration,187.5500778,England,51.12966559788186,-1.7088491246949018
+8047,St. Helier Hospital,526500,166100,Epsom & St Helier University Hospitals NHS Trust,Public administration,86.44026545,England,51.379864749156134,-0.1837169119701223
+8674,Princess of Wales Hospital,291100,181100,Bro Morgannwg NHS Trust,Public administration,739.9876982,Wales,51.51828881690757,-3.5708953749378485

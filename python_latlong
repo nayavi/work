@@ -2,8 +2,8 @@ import csv,os
 from pyproj import Proj, CRS, transform, Transformer
 
 # Define the input and output file paths
-input_csv = 'HN_Operational.csv'
-output_csv = 'HNLatLongPointsOps.csv'
+input_csv = 'otherindustries.csv'
+output_csv = 'otherindustries_ll.csv'
 
 # Define the transformer for coordinate conversion (OSGB36 to WGS84)
 transformer = Transformer.from_crs("EPSG:27700", "EPSG:4326", always_xy=True)
@@ -32,8 +32,8 @@ try:
             # Try-except block to handle conversion errors
             try:
                 # Extract Easting and Northing from the specified columns
-                easting_str = row[11].strip()  # Get Easting value and strip whitespace
-                northing_str = row[12].strip()  # Get Northing value and strip whitespace
+                easting_str = row[2].strip()  # Get Easting value and strip whitespace
+                northing_str = row[3].strip()  # Get Northing value and strip whitespace
 
                 # Check if both Easting and Northing are not empty
                 if easting_str and northing_str:  # Both should have values

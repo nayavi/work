@@ -1,0 +1,368 @@
+ï»¿PlantID,Site,Easting,Northing,Operator,Sector, Emission ,Region,Latitude,Longitude
+40542,Port Talbot Power Station,277150,188450,Tata Steel Ltd,Iron & steel industries,718452.8969,Wales,51.58147963269471,-3.7744186603998626
+40552,Scunthorpe Power Station,491360,410920,British Steel Ltd,Iron & steel industries,537767.9246,England,53.5869146565956,-0.6213464952743633
+40547,Scunthorpe Blast Furnaces,491624,410272,British Steel Ltd,Iron & steel industries,342981.6913,England,53.58104594643385,-0.6175496731909876
+14245,Hope Cement Works,416575,382316,Hope Construction Materials Ltd,Cement,302091.9278,England,53.33749254152956,-1.75254286198258
+40545,Port Talbot BFG Flaring,277270,187990,Tata Steel Ltd,Iron & steel industries,298623.431,Wales,51.57737176460262,-3.772526758149024
+40538,Port Talbot Blast Furnaces,277090,188030,Tata Steel Ltd,Iron & steel industries,281422.106,Wales,51.57769199119733,-3.7751370296670324
+8059,New Rugby,448700,275600,CEMEX UK Cement Ltd,Cement,280723.5392,England,52.37628309513931,-1.2860373692845457
+40537,Port Talbot Sinter,276520,188020,Tata Steel Ltd,Iron & steel industries,261612.5918,Wales,51.57747743560489,-3.7833550296136402
+8037,Ketton,498400,305300,Castle Cement Ltd,Cement,199716.6012,England,52.63653680776998,-0.5473766230597857
+40546,Scunthorpe Sinter,492050,409660,British Steel Ltd,Iron & steel industries,193985.5512,England,53.575472236280504,-0.611297510505455
+7702,Billingham,447210,522410,Terra Nitrogen (UK) Ltd,Chemical industry,192000,England,54.59467726988485,-1.2708582687313956
+9013,Fife Ethylene Plant,318300,689500,ExxonMobil Chemical,Chemical industry,187334.5039,Scotland,56.091281459851736,-3.314654859582395
+14686,Tunstead Cement,409629,375547,Tarmac Cement & Lime Ltd,Cement,175229.5145,England,53.276818722700085,-1.8570587591240366
+40540,Port Talbot Morfa Coke Ovens,277070,185800,Tata Steel Ltd,Iron & steel industries,170101.7098,Wales,51.55764652851537,-3.774644731088635
+9023,Grangemouth Olefins,294400,681200,Ineos Manufacturing Scotland Ltd,Chemical industry,164159.1713,Scotland,56.01205564513952,-3.695330107525252
+14417,Cauldon Cement,408491,349613,Lafarge Cauldon Ltd,Cement,154977.8208,England,53.043719808232346,-1.8748034004789342
+8015,Ribblesdale,375200,443700,Castle Cement Ltd,Cement,148579.1686,England,53.88888385048366,-2.378810233387536
+8038,Padeswood,329100,362200,Castle Cement Ltd,Cement,145878.5564,Wales,53.152196127931404,-3.0616410920335166
+14440,Grangemouth CHP,294400,681200,Grangemouth CHP Ltd,Chemical industry,140079.1234,Scotland,56.01205564513952,-3.695330107525252
+11128,Dunbar Works,370700,676307,Blue Circle Industries,Cement,125159.8349,Scotland,55.97884706230757,-2.471103117694486
+9098,Ince,347295,376508,Kemira Growhow UK Ltd,Chemical industry,123458.0181,England,53.28291099659461,-2.791969059057167
+8578,Wilton,456800,522000,SembCorp Utilities (UK) Ltd,Chemical industry,103451.4038,England,54.590008577871934,-1.122533212966453
+13729,Winnington Sodium Carbonate Manufacturing Site,364343,374639,Winnington CHP Ltd,Chemical industry,99650.02313,England,53.267536137072305,-2.536075315708358
+8684,Aberthaw,303310,167550,Blue Circle Industries Plc,Cement,94428.13384,Wales,51.398714201847454,-3.391271062572867
+40553,Scunthorpe Rolling Mill Furnaces,491350,411210,British Steel Ltd,Iron & steel industries,88980.32093,England,53.58952224051183,-0.6214127097662038
+14454,Cookstown,92327,535299,Lafarge Ireland Ltd,Cement,85570.0081,Northern Ireland,54.618773473943854,-6.767876116866209
+43118,Saltend,516265,428187,Ineos Acetyls UK Ltd,Chemical industry,80273.34364,England,53.73711588539804,-0.23883771580783403
+40543,Port Talbot Rolling Mill Furnaces,277990,187050,Tata Steel Ltd,Iron & steel industries,77282.88253,Wales,51.569080339705835,-3.7618148941632232
+40555,Scunthorpe BFG Flaring,491600,410570,British Steel Ltd,Iron & steel industries,76844.62731,England,53.583727861014324,-0.6178247125843056
+13763,Teesside Hydrogen Plant,450894,523490,BOC Ltd,Chemical industry,60637.89215,England,54.60402535089663,-1.213660791009014
+9548,Grimsby,521800,414700,Millennium Inorganic Chemicals Ltd,Chemical industry,59192.34818,England,53.6146935911487,-0.16025838206632803
+8172,Ince,345700,376300,Quinn Glass Ltd,Other mineral industries,52205.53337,England,53.28088022862086,-2.815853820537822
+13764,Cassel Works,446683,522000,Lucite International UK Ltd,Chemical industry,49727.23158,England,54.59104182047122,-1.2790788381840306
+8915,Stallingborough,521800,414850,Millennium Inorganic Chemicals Ltd,Chemical industry,48440.18182,England,53.61604113035373,-0.1601997870344203
+8279,Greatham,451350,526540,Tioxide Europe Ltd,Chemical industry,44797.63636,England,54.63138619438248,-1.2060693106532858
+14183,Barry,314046,168863,Dow Corning Ltd,Chemical industry,39849.54483,Wales,51.412247961040585,-3.2373047491852365
+9623,Barnsley,437380,408450,Rockware Glass Ltd,Other mineral industries,39697.47983,England,53.571329880930385,-1.4370134369535648
+8260,Greengate,350800,394200,Pilkington UK Ltd,Other mineral industries,38481.77506,England,53.4422618352452,-2.742162441487495
+13707,Lostock Soda Ash Manufacture,368657,374637,Tata Chemicals Europe Ltd,Chemical industry,36093.77497,England,53.267791529429914,-2.4713966231503393
+11470,Alloa,288120,692374,O-I Manufacturing UK Ltd,Other mineral industries,32826.0311,Scotland,56.11097456114265,-3.8006752268455966
+8543,Wheatley,460610,406530,Rockware Glass Ltd,Other mineral industries,31484.19911,England,53.55191041228079,-1.0866390155425514
+40539,Port Talbot Oxygen Furnaces,277315,186820,Tata Steel Ltd,Iron & steel industries,30022.46806,Wales,51.56686672223155,-3.77146875855653
+9075,Dalry,229300,650500,DSM Nutritional,Chemical industry,29010.43938,Scotland,55.71777205000056,-4.719078042389683
+14914,Maydown Works,65311,583384,A & AT UK Ltd,Chemical industry,27764.74728,Northern Ireland,55.03192788943637,-7.240135907430931
+13433,Great Coates,522237,408540,Cofely Industrial Energy Services Ltd,Chemical industry,24069.17935,England,53.55925286638123,-0.1560669605872251
+40549,Scunthorpe Appleby Coke Ovens,491655,410975,British Steel Ltd,Iron & steel industries,23307.35377,England,53.587357454774995,-0.6168753783860809
+9596,Bridgend,296300,184000,Rockwool Ltd,Other mineral industries,22982.10326,Wales,51.54533462315944,-3.496834399510047
+11750,East Leake Gypsum Works,455503,328085,BPB United Kingdom Ltd,Other mineral industries,21946.34732,England,52.8474167382595,-1.1773214765274649
+11478,Derrylin,36251,486902,Quinn Glass Ltd,Other mineral industries,20732.82322,Northern Ireland,54.14867124113026,-7.57318052361008
+14242,Whittlesey,524700,297200,Hanson Building Products Ltd,Other mineral industries,19886.2142,England,52.55835772756094,-0.16198512826093087
+9594,Portbury,350700,176800,Lafarge Plasterboard Ltd,Other mineral industries,19507.50652,England,51.4879879142069,-2.7114324476693157
+14661,Eggborough,456928,423529,Saint-Gobain Glass (United Kingdom) Ltd,Other mineral industries,19380.003,England,53.705095144307215,-1.1391040358721767
+8541,Knottingley,449370,423360,Rockware Glass Ltd,Other mineral industries,18844.20213,England,53.70434398431774,-1.2536117000845803
+11387,Irvine,232000,639000,Rockware Glass Ltd,Other mineral industries,18819.28513,Scotland,55.615498647828154,-4.669107518766405
+13442,Selby,462515,431817,Sedalcol UK Ltd,Chemical industry,18311.97844,England,53.778940049398265,-1.0528084692797302
+40710,Teesside Beam Mill,454200,522000,British Steel Ltd,Iron & steel industries,18098.93123,England,54.59029344081636,-1.1627634077287694
+8263,Leeds,431000,432400,Allied Glass Containers Ltd,Other mineral industries,17874.14683,England,53.78700287982418,-1.530967015125075
+14220,Newton Aycliffe,426630,523721,INEOS ChlorVinyls Ltd,Chemical industry,16554.84073,England,54.60795728831785,-1.5892384351499114
+8626,Goole,472200,423000,Guardian Industries UK Ltd,Other mineral industries,16164.9157,England,53.698456283052906,-0.9079206642827344
+40520,Low Moor,416188,428368,Solenis UK Industries Ltd,Chemical industry,16068.7807,England,53.751431676384136,-1.7559882291655016
+8459,Leicester Brickworks,441590,311340,Ibstock Brick Ltd,Other mineral industries,15831.52302,England,52.69814720178972,-1.3860103141031552
+11476,Grangemouth,295570,680280,Polimeri Europa UK Ltd,Chemical industry,15510.1531,Scotland,56.00404977283299,-3.6762153004983253
+11121,Middlewich Site,371500,364700,British Salt Ltd,Other mineral industries,15486.08178,England,53.178633055002386,-2.4278801238189764
+8588,Knottingley,450730,423880,Allied Glass Containers Ltd,Other mineral industries,15431.65751,England,53.708887310105624,-1.2329272132542013
+14683,Wilton Bioethanol Plant,456950,520550,Ensus UK Ltd,Chemical industry,15353.57048,England,54.57696244756454,-1.1204928696845322
+8708,Shotton,331400,369500,Tata Steel UK Limited,Iron & steel industries,15130.36364,Wales,53.2181060419441,-3.0288242499446487
+9595,Sittingbourne,591950,167830,Knauf (UK) GmbH,Other mineral industries,14676.81082,England,51.37706598293745,0.7566945369042258
+8600,Macclesfield,392500,375150,AstraZeneca UK Ltd,Chemical industry,14437.67499,England,53.273280870714366,-2.1139240574739158
+9597,Immingham,519800,414900,Knauf UK GmbH,Other mineral industries,14399.66617,England,53.6169510649938,-0.19039824863609633
+8149,Huddersfield,416400,418700,Syngenta Ltd,Chemical industry,14199.5043,England,53.66452903948093,-1.7532815965275077
+8261,Warrington,359950,386150,Solvay Interox Ltd,Chemical industry,13778.4581,England,53.37068467247564,-2.603395300414989
+14401,D200 Energy Centre,454490,336560,D200 Energy Ltd,Chemical industry,13695.53705,England,52.92369702107884,-1.1909446356392135
+8362,Rotherham,442601,393358,Beatson Clark Plc,Other mineral industries,13456.22053,England,53.43528862028687,-1.3602233612451897
+14013,Tremorfa Sections Mill,320354,175955,Celsa Manufacturing (UK) Ltd,Iron & steel industries,13155.31606,Wales,51.476925680171284,-3.148221908827084
+8913,Tremorfa 2,321200,176300,Celsa Manufacturing (UK) Ltd,Iron & steel industries,13131.55592,Wales,51.480145786668515,-3.136119939300282
+40548,Scunthorpe Oxygen Furnaces,492990,408610,British Steel Ltd,Iron & steel industries,12350.30057,England,53.565871783364166,-0.5974181488543502
+8050,Hythe,443550,104550,ExxonMobil Chemical Ltd,Chemical industry,12225.29348,England,50.83884629739341,-1.382885091698192
+8709,Newport,333410,185810,Solutia UK Ltd,Chemical industry,12116.15095,Wales,51.56721397064494,-2.962124350581808
+14868,"Llanelli, Carmarthenshire",252732,199387,"Tata Steel, Trostre Tin",Iron & steel industries,11753.49502,Wales,51.67389389901276,-4.131191555108388
+40516,Speke,343664,384539,Elanco UK AH Ltd,Chemical industry,11256.8914,England,53.3547170166794,-2.847853049044017
+11126,Southbank Works,359700,388100,PQ Silicas UK Ltd,Chemical industry,11190.19153,England,53.38819237437306,-2.6074019103324586
+8121,Great Heck,459700,421500,Plasmor Ltd,Other mineral industries,11135.45645,England,53.686551555925895,-1.0975080413360392
+11748,Sherburn Gypsum Works,451000,434400,BPB United Kingdom Ltd,Other mineral industries,10608.49661,England,53.80340642854182,-1.227103908563536
+14241,Measham,433500,310500,Hanson Building Products Ltd,Other mineral industries,10519.59206,England,52.691155417239294,-1.5058016298162349
+11749,Kirkby Thore Gypsum Works,364500,526700,BPB United Kingdom Ltd,Other mineral industries,10276.8759,England,54.6341679199185,-2.5514710716044973
+40709,Skinningrove,470810,519698,British Steel Ltd,Iron & steel industries,10198.53998,England,54.567559713538486,-0.9063215118160433
+11747,Robertsbridge Gypsum Works,572400,119700,BPB United Kingdom Ltd,Other mineral industries,10113.8616,England,50.95095160378117,0.45302736050550224
+7019,Ribblesdale,374830,443640,Johnson Matthey Plc,Chemical industry,9960,England,53.88832668713996,-2.3844345926288453
+14238,Desford,445500,306500,Hanson Building Products Ltd,Other mineral industries,9916.082457,England,52.654326646235496,-1.3288232339358375
+8534,Llanwern Steelworks,335100,186500,Tata Steel UK Limited,Iron & steel industries,9880.458136,Wales,51.573614565947,-2.9378730530611263
+8730,Knottingley,450200,423600,Stolzle Flaconnage Ltd,Other mineral industries,9585.362673,England,53.706421981833586,-1.2410011127521912
+9592,Queensferry,332540,367780,Knauf Insulation Ltd,Other mineral industries,9507.986108,Wales,53.202793821897046,-3.0113901194364963
+8237,Watson Street,350850,394890,Pilkington Plc,Other mineral industries,9412.842439,England,53.44846804722288,-2.741517797816343
+8714,Sheffield,440400,389180,Outokumpu Stainless Ltd,Iron & steel industries,9231.06537,England,53.3979093987388,-1.3938853443067483
+8454,Dorket Head Brickworks,459200,347620,Ibstock Brick Ltd,Other mineral industries,9080.245833,England,53.02260843436201,-1.1188762427213659
+8014,St Helens,350100,394500,Knauf Insulation Ltd,Other mineral industries,8893.454757,England,53.44489219768581,-2.75274748355654
+14693,Hindley Green,363843,402343,Electric Glass Fiber UK Ltd,Other mineral industries,8742.203242,England,53.516510208954195,-2.546754906784635
+8032,Harlow,546000,211800,United Glass Ltd,Other mineral industries,8555.382837,England,51.78581560584712,0.11527384435986376
+14962,Liberty Speciality Steels - Rotherham,445073,395125,Speciality Steel UK Ltd,Iron & steel industries,8443.006909,England,53.45096519191783,-1.3227644273947223
+11099,Waresley Factory,385450,270100,Wienerberger Ltd,Other mineral industries,8372.42247,England,52.32879597349106,-2.2149273922942845
+8244,AH Marks Bradford CHP,416200,427200,E.ON UK Cogeneration Ltd,Chemical industry,8186.930741,England,53.74093337863801,-1.7558670464941546
+14249,Irvine,234400,636700,Smithkline Beecham Ltd,Chemical industry,8124.64911,Scotland,55.59567727686392,-4.629662490773094
+8013,Pont-y-felin,330281,195903,Knauf Insulation Ltd,Other mineral industries,7731.089798,Wales,51.6575701612292,-3.009271711055853
+8303,North Tees Aromatics,452692,523080,Huntsman Petrochemicals (UK) Ltd,Chemical industry,7597.909091,England,54.60015725408369,-1.185903750281699
+40544,Port Talbot COG Flaring,277110,185810,Tata Steel Ltd,Iron & steel industries,7586.174071,Wales,51.557745122558245,-3.7740715317629556
+40166,North Tees Site,452570,522980,Sabic UK Petrochemicals Ltd,Chemical industry,7500,England,54.599271348234765,-1.187809837933442
+9587,Gateshead,424910,558960,Armstrong World Industries Ltd,Other mineral industries,7407.272727,England,54.924712821477875,-1.6128573200333984
+8567,Par Harbour,207600,53300,Imerys Minerals Ltd,Other mineral industries,7233.997055,England,50.34810558678734,-4.7056705610307015
+8021,Grimsby,524700,411340,Novartis Grimsby Ltd,Chemical industry,7103.736371,England,53.5838277724998,-0.11778812474978419
+14240,Kirton,468500,367500,Hanson Building Products Ltd,Other mineral industries,7039.182215,England,53.20017376382617,-0.9760161633455693
+11059,Ferrybridge,447940,425500,Lafarge Plasterboard Ltd,Other mineral industries,6912.424325,England,53.723709877777154,-1.2749411204466186
+11746,Barrow Works,459400,316600,BPB United Kingdom Ltd,Other mineral industries,6859.45593,England,52.74376991660381,-1.1215468302352725
+13135,Wilton Teraphalic Acid/Melinar Plant,457300,521270,Lotte Chemical UK Ltd,Chemical industry,6556.186364,England,54.583392704442154,-1.1149388879352558
+13744,Broomfleet Works,485970,427430,Wienerberger Ltd,Other mineral industries,6520.489816,England,53.73618117236296,-0.6981832233553261
+14413,Seal Sands Biodiesel Processing Plant,453600,524500,Greenergy Biofuels Teesside Ltd,Chemical industry,6459.081466,England,54.612821802790975,-1.171591599652612
+9647,Grangemouth,291649,681450,Dalkia Plc,Chemical industry,6279.730909,Scotland,56.01368648677447,-3.7395325685630367
+14233,Accrington,376520,430300,Hanson Building Products Ltd,Other mineral industries,6216.021889,England,53.76850996513179,-2.3576990096195107
+14287,Newton Aycliffe,426810,523880,Ineos Compounds Aycliffe Ltd,Chemical industry,6199.090909,England,54.609376662565765,-1.586437337513373
+8923,Warnham Brickworks,517000,134000,Wienerberger Ltd,Other mineral industries,6170.078086,England,51.09338469006647,-0.3306319737443431
+11416,Middlesbrough,452320,524640,Laporte Industries Ltd,Chemical industry,6097.620747,England,54.61421374056587,-1.1913835368983101
+13714,Gateshead,423600,562000,Spartan UK Ltd,Iron & steel industries,6079.952632,England,54.952093783608646,-1.63304836890302
+14650,Bradford,416912,431517,Kemira Chemicals (UK) Ltd,Chemical industry,6025.483917,England,53.77971179225884,-1.7448375224499633
+8300,Runcorn,350300,380700,Ineos Chlor Ltd,Chemical industry,5971.423863,England,53.320879299899154,-2.74756011548321
+14014,Castle Works,319700,175200,Celsa Manufacturing (UK) Ltd,Iron & steel industries,5960.426013,Wales,51.4700458918924,-3.1574650258217156
+9018,Grangemouth,291600,681400,Kemfine Ltd,Chemical industry,5874.519938,Scotland,56.01322637599928,-3.7402979245583348
+8469,Throckley Brickworks,415620,567410,Ibstock Brick Ltd,Other mineral industries,5834.828146,England,55.00102051927075,-1.7573511845497602
+8451,Cattybrook Brickworks,358932,182603,Ibstock Brick Ltd,Other mineral industries,5820.78201,England,51.54082192718626,-2.593557012643249
+11487,Stirling,280558,692780,Superglass Insulation Ltd,Other mineral industries,5738.650443,Scotland,56.1127879989223,-3.922383418668954
+7119,Llanelli,255480,198770,Huntsman Corporation UK Ltd,Chemical industry,5709.545455,Wales,51.66906421907374,-4.0912232745825
+8290,Port Sunlight,334588,384588,Lever Faberge,Chemical industry,5647.296098,England,53.35411066547524,-2.984200150349214
+8302,Wilton Olefins 6,458600,520990,Huntsman Petrochemicals (UK) Ltd,Chemical industry,5640.289435,England,54.5807280264656,-1.0948831135949988
+8692,Carrington,374500,392610,Basell Polyolefins UK Ltd,Chemical industry,5578.19247,England,53.429654933757156,-2.3852474326161084
+8131,Stevenage,523800,222500,GlaxoSmithKline Plc,Chemical industry,5556.278596,England,51.88731941170515,-0.20256615209452997
+8830,Mostyn,316006,380579,Warwick International Ltd,Chemical industry,5516.476664,Wales,53.315455096431,-3.26224189957986
+11101,Hartlebury Factory,385120,270810,Wienerberger Ltd,Other mineral industries,5513.577049,England,52.335170038481344,-2.2198014009378393
+13627,Daldowie Fuel Plant,267200,662100,SMW Ltd,Other fuel production,5500.283067,Scotland,55.83379833241127,-4.12190045944064
+14963,Liberty Speciality Steels - Stocksbridge,427168,398653,Speciality Steel UK Ltd,Iron & steel industries,5457.818182,England,53.48389907117993,-1.592061561065912
+8462,Parkhouse Brickworks,383870,350430,Ibstock Brick Ltd,Other mineral industries,5434.098736,England,53.05088269299952,-2.2420772672686615
+14239,Howley Park,426100,425700,Hanson Building Products Ltd,Other mineral industries,5366.165667,England,53.72705225065042,-1.6059001673741087
+14181,Newport,333270,185120,Mir Steel UK Ltd,Iron & steel industries,5240.126018,Wales,51.56099422930727,-2.964012671618689
+13645,Corby Tubeworks,490860,289140,Tata Steel UK Ltd,Iron & steel industries,5140.409493,England,52.4926140131795,-0.6631834906156961
+8815,Four Ashes,391500,309200,Schenectady Europe Ltd,Chemical industry,5086.510124,England,52.68042932884768,-2.127163286745767
+8068,Freshfield Lane,538600,126100,Freshfield Lane Brickworks Ltd,Other mineral industries,5078.580232,England,51.017580345956645,-0.02539030800060595
+8919,Denton Brickworks,391400,394800,Wienerberger Ltd,Other mineral industries,5049.534595,England,53.449889761903556,-2.1309602845845412
+8464,Ravenhead Brickworks,350850,404770,Ibstock Brick Ltd,Other mineral industries,5009.903302,England,53.53726613535117,-2.7430690286572585
+9842,Thornton-Cleveleys,334570,442780,Asahi Glass Fluropolymers UK Ltd,Other mineral industries,4966.936091,England,53.87707328419182,-2.9967167341584497
+13759,Tunstall,385500,350700,Norcros Group (Holdings) Ltd,Other mineral industries,4946.746694,England,53.05335677072046,-2.217773474175454
+14188,Bardon Hill,444800,312876,Aggregate Industries UK Ltd,Other mineral industries,4857.415435,England,52.71169894708086,-1.3383050364662545
+40652,Austerfield Works,466000,394600,Bawtry Carbon Ltd,Other mineral industries,4776,England,53.4440461328565,-1.0078023215875693
+13266,Hull,509400,431700,Croda Europe Ltd,Chemical industry,4765.02096,England,53.77016125034275,-0.34162262910771185
+8921,Sandown Brickworks,404500,301600,Wienerberger Ltd,Other mineral industries,4686.780305,England,52.61215836894253,-1.9349759151548143
+11100,Kingsbury Factory,421810,299060,Wienerberger Ltd,Other mineral industries,4666.6608,England,52.58890912887542,-1.6795042475926543
+8132,Ware,534780,214500,GlaxoSmithKline Plc,Chemical industry,4662.304781,England,51.81289003660702,-0.04623652774040345
+8466,South Holmwood Brickworks,518290,142380,Ibstock Brick Ltd,Other mineral industries,4661.738332,England,51.168440800467145,-0.30947141245401477
+11672,Bank Quay,359745,388264,PQ Silicas UK Ltd,Chemical industry,4590.081199,England,53.38966985912547,-2.606746316009762
+13360,Hythe,443600,106050,Geo Specialty Chemicals UK Ltd,Chemical industry,4588.363636,England,50.85233047186021,-1.3819969569826074
+8482,Royston,534850,241400,Johnson Matthey Plc,Chemical industry,4493.784128,England,52.05458396212116,-0.034687745969209885
+8458,Laybrook Brickworks,511360,118850,Ibstock Brick Ltd,Other mineral industries,4423.348413,England,50.95832698444022,-0.41578547196699056
+7385,Uddingston,267200,662100,SMW Ltd,Other fuel production,4403.90475,Scotland,55.83379833241127,-4.12190045944064
+8455,Ellistown Brickworks,443560,310330,Ibstock Brick Ltd,Other mineral industries,4399.314619,England,52.6889137716387,-1.3569946058818976
+14958,Claughton,356173,466379,Forterra Building Products Ltd,Other mineral industries,4386.930646,England,54.09143816260159,-2.6715564550663364
+13699,Sheffield,438634,389821,Sheffield Forgemasters Engineering Ltd,Iron & steel industries,4362.006153,England,53.403802562014,-1.4203646050912775
+9607,Cramlington,426000,574300,Shasun Pharma Solutions Ltd,Chemical industry,4357.201773,England,55.06250181700225,-1.5944637328953912
+8414,Southampton,441600,111800,Southampton Geothermal Heating Co,Other mineral industries,4287.306496,England,50.904181093409115,-1.4097543586661954
+13757,Maltby Energy Park,454943,392249,Regent Park Energy Ltd,Other fuel production,4266.229636,England,53.424182475464725,-1.1746597139427268
+40507,Keele Works,378700,345550,Marley Ltd,Other mineral industries,4184.41722,England,53.00683438107837,-2.3188779135289384
+13696,Widnes,353598,386814,Innospec Widnes Ltd,Chemical industry,4153.276222,England,53.37613175074651,-2.6989531811352325
+10817,Queenborough,590590,172660,Aesica Queenborough Ltd,Chemical industry,4139.879182,England,51.42090368603889,0.7397691560764854
+8321,Grimethorpe,441100,408900,Carlton Main Brickworks Ltd,Other mineral industries,4103.687765,England,53.575096973216255,-1.3807837815879385
+9332,Thornton-Cleveleys,334570,442780,Victrex Manufacturing Ltd,Chemical industry,3962.429141,England,53.87707328419182,-2.9967167341584497
+8453,Chesterton Brickworks,382890,349530,Ibstock Brick Ltd,Other mineral industries,3918.373565,England,53.042761915424855,-2.256648585736577
+10163,Immingham Briquetting Works,518800,416000,Coal Products Ltd,Other fuel production,3837.545455,England,53.627060772383935,-0.2050882820937598
+8448,Ashdown Brickworks,572160,109300,Ibstock Brick Ltd,Other mineral industries,3786.413498,England,50.85758784036836,0.44471327367254276
+13451,Norwich,620521,310256,Briar Chemicals Ltd,Chemical industry,3765.87219,England,52.64519166066229,1.258220388448339
+8699,Barnard Castle,405400,517600,Glaxo Operations UK Ltd,Chemical industry,3685.598471,England,54.55361749292022,-1.9180235502511902
+13229,Cambuslang,264100,661850,Norit (UK) Ltd,Chemical industry,3653.053636,Scotland,55.830690377399655,-4.171231488580975
+9324,Barry,314280,168880,Cabot Carbon Ltd,Chemical industry,3624.545455,Wales,51.41243625482525,-3.2339450640155394
+8460,Lodge Lane Brickworks,397470,308000,Ibstock Brick Ltd,Other mineral industries,3430.6509,England,52.66970377215706,-2.0388489919015846
+8926,Ewhurst Brickworks,511500,137200,Wienerberger Ltd,Other mineral industries,3401.033637,England,51.12324282482319,-0.4081502327989497
+8450,Birtley Brickworks,426550,555670,Ibstock Brick Ltd,Other mineral industries,3389.575514,England,54.8950645656704,-1.5875711762201696
+14236,Wilnecote Works,421950,300310,Hanson Building Products Ltd,Other mineral industries,3362.224666,England,52.60014057397599,-1.6773553349346693
+9123,Leek,397490,357000,Tessenderlo Fine Chemicals Ltd,Chemical industry,3354.545455,England,53.11018103886362,-2.0389487068282452
+10369,Rawcliffe Bridge,470200,421300,Croda Chemicals Europe Ltd,Chemical industry,3332.727273,England,53.68345132951785,-0.9385915400933922
+13681,Purfleet,557340,177883,Civil and Marine Ltd,Other mineral industries,3291.277342,England,51.47802772496579,0.2643154522500711
+8323,Worthing,515400,104700,SmithKline Beecham Plc,Chemical industry,3149.578467,England,50.83034255276727,-0.36275305745600667
+8917,Todhills Brickworks,421300,533800,Wienerberger Ltd,Other mineral industries,3145.482248,England,54.69878409487057,-1.6710239041717316
+40259,Runcorn,356853,379617,Saint-Gobain Isover UK Ltd,Other mineral industries,3043.611712,England,53.31172118706774,-2.6490459085799802
+13686,Hartlepool Pipe Mill,450869,528850,Tata Steel UK Ltd,Iron & steel industries,3000.757893,England,54.65219208260457,-1.2131189110473481
+12105,Teeside Polyethylene Plant,458000,522000,Sabic UK Petrochemicals Ltd,Chemical industry,2989.090909,England,54.58987259367086,-1.1039656716629374
+13672,Scunthorpe,491300,410300,Caparo Merchant Bar plc,Iron & steel industries,2975.274728,England,53.5813539724357,-0.6224337519877972
+43094,West Thurrock,559390,177385,Procter & Gamble Product Supply (UK) Ltd,Chemical industry,2943.610274,England,51.472980142319855,0.29358584101810886
+8681,Ware,535120,214480,GlaxoSmithKline Plc,Chemical industry,2910.458471,England,51.812628313973725,-0.041315263744424936
+40257,Linford Blocks,566856,179801,Tarmac Building Products Ltd,Other mineral industries,2905.639601,England,51.492533862620085,0.40212635117450607
+14660,Runcorn,349810,381143,Vynova Runcorn Ltd,Chemical industry,2860.082561,England,53.324814607015476,-2.754985621817986
+13693,Cloud Hill Quarry,440600,323000,Breedon Aggregates England Ltd,Other mineral industries,2824.153061,England,52.803034463493205,-1.3992194816882992
+9320,Middlesbrough,450450,520370,Haltermann Ltd,Chemical industry,2760.228273,England,54.576033664258176,-1.2210682944785902
+8173,Cawthorne,426900,407200,Naylor Drainage,Other mineral industries,2748.866654,England,53.56073447839281,-1.5953691541362016
+13221,Glensanda Quarry,182990,747522,Aggregate Industries Ltd,Other mineral industries,2735.061273,Scotland,56.56932747172065,-5.533993729350246
+8598,Ellesmere Port,341600,376500,The Associated Octel Co Ltd,Chemical industry,2731.527532,England,53.282241151555674,-2.8773750006778953
+14332,Grimsby Chemical Works,524040,412080,BASF Public Ltd Company,Chemical industry,2727.272727,England,53.59063190055041,-0.12745814961291982
+40193,Hams Hall,420622,292362,Forterra Building Products Ltd,Other mineral industries,2727.272727,England,52.52874215280068,-1.6974536938175673
+9120,Hendon Dock,441300,556800,Solvent Resource Management Ltd,Chemical industry,2727.272727,England,54.9042207932207,-1.3574466591395624
+7630,Liverpool,343420,398660,Baker Hughes Ltd,Chemical industry,2727.272727,England,53.48160385742542,-2.8540585179771494
+13592,Pilkington Sullivan Site,352900,385400,Saffil Ltd,Chemical industry,2727.272727,England,53.36336093330929,-2.7092330496989137
+13938,"Hillwood Quarry, Ratho, Midlothian",312802,672031,Tarmac Limited,Other mineral industries,2727.272727,Scotland,55.933403000915305,-3.39731164111251
+9503,King's Lynn,561220,321790,Pil Membranes Ltd,Chemical industry,2727.272727,England,52.76964029917718,0.38828658152371115
+9846,Stallingborough,523100,413700,Synthomer Ltd,Chemical industry,2727.272727,England,53.60540652620804,-0.1410126465147714
+13689,Mountsorrel Asphalt,456900,315430,Lafarge Aggregates Ltd,Other mineral industries,2662.705282,England,52.733521643076415,-1.158777322751138
+14021,Mold,323287,364785,Synthite Ltd,Chemical industry,2610.512695,Wales,53.17462117283007,-3.1491665663528376
+13690,Harper Lane Asphalt,516200,201730,Lafarge Aggregates Ltd,Other mineral industries,2589.844707,England,51.7022911567468,-0.31989430230354243
+8447,Aldridge Brickworks,404580,302270,Ibstock Brick Ltd,Other mineral industries,2582.940935,England,52.618180846483476,-1.9337853950171864
+6539,Macclesfield,392200,375200,Dalkia Utilities Services Plc,Chemical industry,2558.415916,England,53.27372591493906,-2.118423864578294
+8485,Blockleys Brickworks,368370,312200,Blockleys Brick Ltd,Other mineral industries,2533.833532,England,52.70653587517248,-2.469570023275233
+13674,Cliffe Hill Asphalt,445200,310800,Midland Quarry Products Ltd,Other mineral industries,2522.412335,England,52.693004593785346,-1.332669236707323
+13659,Cross Green Asphalt,432250,431780,Lafarge Tarmac Trading Ltd,Other mineral industries,2521.463795,England,53.781354873955934,-1.5120600506844455
+8048,Boulby Mine,476370,518630,Cleveland Potash Ltd,Other mineral industries,2476.674821,England,54.55715639943528,-0.820623438594395
+8432,Northcot Brickworks,418300,236900,Northcot Brick Ltd,Other mineral industries,2469.737007,England,52.03021193690629,-1.7346721159487275
+14698,Dalzell Works,275802,656788,Liberty Steel Dalzell Ltd,Iron & steel industries,2457.998059,Scotland,55.788390430535344,-3.982226870189297
+8170,Dreadnought Brickworks,390575,289415,Hinton Perry & Davenhill Ltd,Other mineral industries,2456.114613,England,52.50255142596052,-2.140275113208568
+40397,Orchard Mill,368810,422770,Perspex International Ltd,Chemical industry,2440.909091,England,53.70042598485429,-2.4739025981931966
+14403,Colnbrook,503100,175900,Aggregate Industries UK Ltd,Other mineral industries,2357.87676,England,51.472680418310205,-0.5169669170230818
+13622,Livingston,305550,669656,Wyman Gordon Ltd,Iron & steel industries,2352.962384,Scotland,55.91070047921621,-3.512515867306772
+8566,Lee Moor Site,256600,60900,Imerys Minerals Ltd,Other mineral industries,2351.45076,England,50.430394755081025,-4.0203745492307155
+13662,Hayes Asphalt,510522,179515,Lafarge Tarmac Trading Ltd,Other mineral industries,2348.316968,England,51.503772535631036,-0.40901791063981974
+9015,Montrose,372000,757170,GlaxoSmithKline,Chemical industry,2345.744441,Scotland,56.70538955138685,-2.4589154111264455
+8569,St Dennis,194750,57250,Imerys Minerals Ltd,Other mineral industries,2275.901054,England,50.37924339598799,-4.888204726995384
+43113,Hillhouse International,334219,443549,Victrex plc,Chemical industry,2257.934495,England,53.88393941012551,-3.00222007975746
+13683,West Drayton,507618,179910,Hanson Quarry Products Europe Ltd,Other mineral industries,2253.216112,England,51.507882697342964,-0.4507209689907907
+8171,Ulverston,330730,477550,Glaxo Operations UK Ltd,Chemical industry,2235.423344,England,54.18901945262687,-3.063058136514872
+13762,Wilton Aniline Plant,459764,521369,Huntsman Polyurethanes (UK) Ltd,Chemical industry,2175.027259,England,54.58399761142606,-1.07679985610509
+7124,Haverhill,566870,244880,International Flavours & Fragrances (GB) Ltd,Chemical industry,2151.545455,England,52.07713527509532,0.4335968667486667
+13694,Leaton Quarry,361534,311357,Breedon Aggregates England Ltd,Other mineral industries,2045.978855,England,52.69851395848482,-2.570640821231839
+8659,Oldbury,399190,288430,Rhodia Consumer Specialties Ltd,Chemical industry,2032.045413,England,52.493779010692165,-2.0133593559079532
+14443,Hillhouse Quarry,234623,634184,Hillhouse Quarry Group Ltd,Other mineral industries,2007.862996,Scotland,55.573169847056704,-4.624619245876946
+8925,Smeed Dean Brickworks,592200,165300,Wienerberger Ltd,Other mineral industries,1917.891046,England,51.35425894764217,0.758915663861447
+13698,Dagenham,548894,181891,Eurovia Infrastructure Ltd,Other mineral industries,1906.227575,England,51.51632451317744,0.14447641878524603
+8360,Widnes,352580,387790,Rockwood Additives Ltd,Chemical industry,1885.593191,England,53.3848133293042,-2.7144007703395223
+9657,Leven,337000,701500,Silberline Ltd,Chemical industry,1786.090909,Scotland,56.20191227530833,-3.0170155830758882
+13660,Halecombe Asphalt,370230,147430,Lafarge Tarmac Trading Ltd,Other mineral industries,1771.981189,England,51.225279066037785,-2.42769611452109
+40607,Speke Pharmaceutical Works FLEMING ROAD MERSEYSIDE,343563,384561,Elanco UK AH Limited,Chemical industry,1738.563147,England,53.35490395323354,-2.8493742190065134
+13734,Exhall,435796,285104,Monier Redland Ltd,Other mineral industries,1709.292821,England,52.46271347026944,-1.4745686619149379
+9071,Glasgow,268950,656130,Raeburn Brick Ltd,Other mineral industries,1613.706537,Scotland,55.780672517668435,-4.091103447125129
+13743,Saltend,516200,428100,INEOS Manufacturing (Hull) Ltd,Chemical industry,1596.473168,England,53.73634876557595,-0.23985529880580644
+8483,Michelmersh Brickworks,434400,125820,Michelmersh Brick & Tile Co Ltd,Other mineral industries,1556.595562,England,51.03072087781306,-1.5108235295638812
+43111,Trafford Park,378454,397132,Lanxess Solutions UK Ltd,Chemical industry,1512.520628,England,53.47047741411215,-2.3260512726154516
+13656,Bredbury Asphalt,392200,392000,Lafarge Tarmac Trading Ltd,Other mineral industries,1500.208669,England,53.42473463821019,-2.1188440206772077
+13678,Dagenham,549100,182000,Hanson Quarry Products Europe Ltd,Other mineral industries,1441.699552,England,51.51724960604002,0.14748913244241207
+14192,Purfleet,556659,177111,Aggregate Industries UK Ltd,Other mineral industries,1428.236067,England,51.47128050371717,0.2541751668811339
+14016,Dolyhir Asphalt,323797,258194,Lafarge Tarmac Trading Ltd,Other mineral industries,1420.415561,Wales,52.21666731987746,-3.1168093555419203
+13676,Allington,574400,157900,Hanson Quarry Products Europe Ltd,Other mineral industries,1419.03327,England,51.293521869919566,0.49993546555255847
+13650,Dove Holes Roadstone Coating Plant,408300,377960,CEMEX UK Operations Ltd,Other mineral industries,1418.919311,England,53.29853065011849,-1.8769268510882815
+8392,Jealott's Hill,487030,173370,Syngenta,Chemical industry,1407.14869,England,51.452634260572104,-0.7488984533832458
+40278,Hythe Power Station,443892,105893,RWE Generation UK plc,Chemical industry,1399.914652,England,50.85089670955659,-1.3778679015602697
+11392,Seal Sands,452620,524010,Ineos Nitriles (UK) Ltd,Chemical industry,1372.090909,England,54.608521570596984,-1.1868516245247485
+9306,Speke,343610,383940,Novartis Vaccines & Diagnostics Ltd,Chemical industry,1358.838423,England,53.34932765166716,-2.848557283701329
+8562,Hull,508700,427800,Smith & Nephew Medical Ltd,Chemical industry,1343.019084,England,53.735268832154226,-0.35360923051281573
+9625,Speke,343740,383880,Novartis Vaccines & Diagnostics Ltd,Chemical industry,1315.334305,England,53.34880226473932,-2.846593961387207
+14964,Liberty Speciality Steels - Brinsworth,440928,391280,Speciality Steel UK Ltd,Iron & steel industries,1306.576486,England,53.41674370947009,-1.3856734442908383
+8452,Chailey Brickworks,539000,117610,Ibstock Brick Ltd,Other mineral industries,1306.546426,England,50.94118507670969,-0.02293490928368679
+10175,Church,374170,428620,William Blythe Ltd,Chemical industry,1305.513545,England,53.75329871933477,-2.393209201959272
+7452,Bellshill,273301,660470,Calcarb Ltd,Chemical industry,1290,Scotland,55.820803110214364,-4.023799368109279
+14193,West Drayton,505244,179158,Aggregate Industries UK Ltd,Other mineral industries,1276.680431,England,51.50157013150528,-0.48513915923687734
+13673,Wednesbury Asphalt Plant,398400,294200,Midland Quarry Products Ltd,Other mineral industries,1274.34777,England,52.54564880016734,-2.025024794499484
+13704,Westleigh Asphalt,306200,117300,Aggregate Industries UK Ltd,Other mineral industries,1268.600984,England,50.94747791513783,-3.3366124380800293
+13623,Newbridge,312900,672100,Lafarge Tarmac Trading Ltd,Other mineral industries,1202.071394,Scotland,55.934040546207456,-3.3957658159770188
+8425,Askam Brickworks,321800,476100,Furness Brick & Tile Co Ltd,Other mineral industries,1200.970574,England,54.17470513061621,-3.1995015412681505
+14664,Elstow Asphalt,504278,245708,Tarmac Trading Ltd,Other mineral industries,1183.985888,England,52.09989187019179,-0.4790562446707253
+13668,Stowfield Asphalt,355900,210400,Lafarge Tarmac Trading Ltd,Other mineral industries,1175.798831,England,51.79050559162225,-2.640790386796239
+12493,Newton Aycliffe,427200,524100,Lucite International UK Ltd,Chemical industry,1147.090909,England,54.61133293056527,-1.580379126451399
+13685,Whatley,373226,147901,Hanson Quarry Products Europe Ltd,Other mineral industries,1109.301224,England,51.22966315778132,-2.384829071953432
+14019,Criggion Quarry,329135,314791,Hanson Quarry Products Europe Ltd,Other mineral industries,1105.637444,Wales,52.7261015706075,-3.0507414638934662
+13666,Santon Asphalt,492800,411900,Lafarge Tarmac Trading Ltd,Other mineral industries,1078.029532,England,53.595467991029764,-0.5993091019344874
+14418,Baston,513700,314900,Midland Quarry Products Ltd,Other mineral industries,1068.964255,England,52.71981416181078,-0.3180765670712302
+13682,Tytherington,366070,188700,Hanson Quarry Products Europe Ltd,Other mineral industries,1067.025019,England,51.59611594092849,-2.491228731971319
+13625,Ethiebeaton Quarry,348600,733900,Breedon Aggregates Scotland Ltd,Other mineral industries,1059.456832,Scotland,56.49436480521573,-2.836420568650844
+13635,Caldercruix,285300,666500,Lafarge Tarmac Trading Ltd,Other mineral industries,1052.164893,Scotland,55.87795554599969,-3.83495123108116
+13654,Bayston Hill Asphalt,349100,309000,Lafarge Tarmac Trading Ltd,Other mineral industries,1051.222287,England,52.676298542743005,-2.7542534104646714
+8486,Charnwood Forest Brickworks,447800,318400,Charnwood Forest Brick Ltd,Other mineral industries,1033.848047,England,52.76109753389499,-1.2930998584416713
+14189,Crawley,528680,139074,Aggregate Industries UK Ltd,Other mineral industries,1003.08186,England,51.1364876083479,-0.1621221662465498
+7073,Leek,397980,355550,Croda Chemicals International Ltd,Chemical industry,1001.885455,England,53.09714916707881,-2.031619231861372
+13713,Benninghoven Plant,463200,170400,United Asphalt Ltd,Other mineral industries,998.3344364,England,51.429089553228415,-1.092322108695506
+13670,Ipswich Asphalt,616800,242400,Lafarge Tarmac Trading Ltd,Other mineral industries,959.8469045,England,52.037594076606425,1.159554902988689
+14247,Duntilland,284530,663481,Aggregate Industries UK Ltd,Other mineral industries,938.0699836,Scotland,55.85066027249879,-3.845965102438773
+14190,Greenwich,540265,178577,Aggregate Industries UK Ltd,Other mineral industries,925.2887073,England,51.488751895274966,0.018883775930717942
+13697,Peterlee,441356,541318,Momentive Specialty Chemicals UK Ltd,Chemical industry,923.5194545,England,54.7650974667607,-1.3587813713134116
+13684,Wigan,359465,399335,Hanson Quarry Products Europe Ltd,Other mineral industries,917.2241291,England,53.48915435431358,-2.6123858696535125
+14435,Croft,451002,296026,Aggregate Industries UK Ltd,Other mineral industries,907.1964245,England,52.55968763636203,-1.2491076379941564
+13652,Salford Coating Plant,382080,398300,CEMEX UK Operations Ltd,Other mineral industries,903.2100518,England,53.48111246649353,-2.2714945576665784
+8642,York,452300,466300,York Handmade Brick Co Ltd,Other mineral industries,878.0962935,England,54.08995864482556,-1.2019143805843875
+13663,Hothfield Asphalt,598000,146400,Lafarge Tarmac Trading Ltd,Other mineral industries,812.5187209,England,51.18253208091816,0.8316467897794951
+13667,Stancombe Asphalt,350200,168800,Lafarge Tarmac Trading Ltd,Other mineral industries,810.4328373,England,51.41601735374452,-2.7175042442499713
+13265,Ditton,349146,384143,Croda Europe Ltd,Chemical industry,781.53966,England,53.35171463666145,-2.765436389081331
+12094,Middlewich,370960,365840,BIP Organics Ltd,Chemical industry,778.6363636,England,53.188850777378235,-2.436063472560563
+14020,Penderyn Plant,295220,209064,Hanson Quarry Products Europe Ltd,Other mineral industries,772.3438855,Wales,51.77041186273117,-3.51992349638115
+14678,Agecroft Asphalt,380581,400989,Tarmac Trading Ltd,Other mineral industries,739.9557955,England,53.50522850416379,-2.294249239058147
+13641,Dudley Site,393010,288320,Acenta Steel Ltd,Iron & steel industries,733.2337975,England,52.492744631401834,-2.1043802836090637
+14017,Pant Asphalt,320130,370340,Lafarge Tarmac Trading Ltd,Other mineral industries,731.3419118,Wales,53.22407835733874,-3.197779040462609
+13702,Haughmond Hill Asphalt,353700,314800,Aggregate Industries UK Ltd,Other mineral industries,716.7867055,England,52.72884808744451,-2.687043000228855
+8420,River Don,438200,390100,Sheffield Forgemasters Engineering Ltd,Iron & steel industries,688.6752082,England,53.406341733034836,-1.4268584243979854
+13665,Parkstone Asphalt,403800,93800,Lafarge Tarmac Trading Ltd,Other mineral industries,675.5311909,England,50.74379486000788,-1.9475083110433082
+40253,Saltend Chemicals Park,516042,427832,Saltend Chemicals Park Ltd,Chemical industry,669.2245555,England,53.733976243525795,-0.24234983949612035
+40720,Wickwar Asphalt,371659,189893,Breedon Southern Ltd,Other mineral industries,666.1034018,England,51.6071523738103,-2.4106419302511077
+40273,Grimsby Power Station,525651,411242,RWE Generation UK plc,Chemical industry,653.2391564,England,53.58272064572634,-0.10347060751757027
+14211,Ardingly,534039,127690,Hanson Quarry Products Europe Ltd,Other mineral industries,641.5377464,England,51.032950296043,-0.08978867958259351
+14438,Chryston Asphalt Plant,268892,671094,Aggregate Industries UK Ltd,Other mineral industries,627.7861364,Scotland,55.915016835681946,-4.09926054850631
+13695,Leinthall Quarry,344246,267827,Breedon Aggregates England Ltd,Other mineral industries,618.7313455,England,52.30571520938749,-2.8191290734542576
+12069,Hafod Quarry,322200,196400,Lafarge Aggregates Ltd,Other mineral industries,597.8566364,Wales,51.66097582967224,-3.1261802283583515
+13658,Clitheroe Asphalt,374700,443100,Lafarge Tarmac Trading Ltd,Other mineral industries,588.5454545,England,53.883467019631176,-2.386367645173989
+14194,Northfleet,561646,174938,North Kent Roadstone Ltd,Other mineral industries,586.0420009,England,51.45035652854427,0.3249225325441875
+13664,Mancetter Asphalt,431000,295700,Lafarge Tarmac Trading Ltd,Other mineral industries,574.1765836,England,52.558259868300645,-1.5441715261808577
+40730,Forest Wood Asphalt,301917,179826,Breedon Southern Ltd,Other mineral industries,553.9233491,Wales,51.50882125993936,-3.414696288764268
+13703,Moorcroft Asphalt,252064,53872,Aggregate Industries UK Ltd,Other mineral industries,552.0448718,England,50.366106328632334,-4.081426317204751
+8064,Cradley Heath Brickworks,394800,285300,Cradley Special Brick Co Ltd,Other mineral industries,534.4018078,England,52.46561535789448,-2.0779683869772403
+13669,Tendley Quarry,309000,528600,Tendley Quarries Ltd,Other mineral industries,489.0891627,England,54.64427037826264,-3.411648699404833
+13657,Caldon Low Asphalt,407400,349000,Lafarge Tarmac Trading Ltd,Other mineral industries,476.5554545,England,53.03822547377747,-1.8910899871012565
+13661,Harlow Asphalt,547050,212220,Lafarge Tarmac Trading Ltd,Other mineral industries,460.7603727,England,51.78931449399028,0.13066304699791176
+9436,Titan Works,561240,178510,Industrial Chemicals Ltd,Chemical industry,431.7272727,England,51.482563533087735,0.3207127903139625
+13941,Cononish Gold Mine Tyndrum,229131,728622,Scotgold Resources Limited,Other mineral industries,431.553,Scotland,56.41879867692413,-4.771660456575003
+13737,Coopers Bank,391390,290300,GDC Group Ltd,Other mineral industries,414.7910591,England,52.51052113189877,-2.128292073930694
+40496,Wilton Energy Centre,457000,522300,ENGIE FM Ltd,Chemical industry,400.0104545,England,54.592681822156365,-1.119380476107501
+14018,Torcoed Asphalt,249492,214492,Lafarge Tarmac Trading Ltd,Other mineral industries,376.5447136,Wales,51.8087465252347,-4.184551136553045
+14956,Sheffield,440568,389690,Aggregate Industries UK Ltd,Other mineral industries,329.1840245,England,53.40248045863709,-1.3912935447560764
+9482,Rhymney,310600,208300,Convatec Ltd,Chemical industry,325.4974636,Wales,51.76621509679411,-3.2968992583514636
+13679,Pateley Bridge,411629,464258,Hanson Quarry Products Europe Ltd,Other mineral industries,297.5139655,England,54.074122304152745,-1.8237742415291078
+14191,Melbur Asphalt,191559,56192,Aggregate Industries UK Ltd,Other mineral industries,289.8083155,England,50.368618525326255,-4.932437936935039
+2008,West Bromwich,398660,291830,Robinson Brothers Ltd,Chemical industry,289.1397032,England,52.524343557831465,-2.0211804380215
+13358,East Leake Gypsum Works,455503,328085,BPB United Kingdom Ltd,Other mineral industries,273.5617745,England,52.8474167382595,-1.1773214765274649
+9670,Livingston,307029,665639,Valneva Scotland Limited,Chemical industry,266.085,Scotland,55.87490884847608,-3.4874835932720094
+13349,Robertsbridge Gypsum Works,572400,119700,BPB United Kingdom Ltd,Other mineral industries,256.8438573,England,50.95095160378117,0.45302736050550224
+11982,Runcorn,351280,381110,Mexichem UK Ltd,Chemical industry,244.9090909,England,53.324655652520235,-2.7329128130349924
+13839,"Vauxhall Industrial Estate, Ruabon, Wrexham",330500,345601,Morgan Technical Ceramics,Other mineral industries,205.0630909,Wales,53.003196308354426,-3.0371178610796825
+992,Tipton,398190,292980,Ervin Amasteel,Iron & steel industries,203.8334738,England,52.5346804632569,-2.028114393113128
+1113,Sheepbridge,437230,374570,GKN Sheepbridge Stokes Ltd,Iron & steel industries,201.2170246,England,53.26682366446165,-1.4432683471588383
+14699,Clydebridge Works,263681,661076,Liberty Steel Clydebridge Ltd,Iron & steel industries,192.70839,Scotland,55.8236228636931,-4.177526991189155
+8951,Oldbury,399800,288810,BIP (Oldbury) Ltd,Chemical industry,170.7549436,England,52.49719587894341,-2.0043752082584545
+8449,Atlas Brickworks,404850,301250,Ibstock Brick Ltd,Other mineral industries,159.4806545,England,52.60900901752022,-1.929811994635326
+6699,Rainford,348900,399310,Unifrax Ltd,Other mineral industries,156.4676708,England,53.488007516539234,-2.771596431629919
+8629,Gloucester,388700,216300,Invista Textiles (UK) Ltd,Chemical industry,131.4147273,England,51.84518311409379,-2.1654363786657225
+13649,Birmingham Coating Plant,410010,288970,CEMEX UK Operations Ltd,Other mineral industries,124.1095282,England,52.498544593789404,-1.8539790209883065
+12367,Bracknell,485540,169230,Daler-Rowney  Ltd,Chemical industry,122.9135455,England,51.41564452022943,-0.7713351141479962
+40554,Scunthorpe COG Flaring,491770,410820,British Steel Ltd,Iron & steel industries,118.9285866,England,53.58594459185313,-0.6151842038831759
+9241,West Thurrock,559000,177300,Industrial Chemicals Ltd,Chemical industry,110.4804982,England,51.47232611451343,0.2879370290514775
+13680,Runcorn,350544,382824,Hanson Quarry Products Europe Ltd,Other mineral industries,104.9816073,England,53.33999250729631,-2.7442298239725424
+12588,Kingston,490280,238590,Goldschmidt UK Ltd,Chemical industry,101.0727273,England,52.03837215868466,-0.6852309528650881
+40269,Appleford,451339,193674,Hanson Quarry Products Europe Ltd,Other mineral industries,99.01778182,England,51.63953460697039,-1.2595272268254578
+13655,Barrasford Asphalt,390900,574200,Lafarge Tarmac Trading Ltd,Other mineral industries,93.71124273,England,55.06219214727923,-2.1440093997951566
+10816,Llantrisant,305600,181730,Maxibrite Ltd,Other fuel production,89.96181818,Wales,51.52656415244129,-3.362154032807154
+8694,Bulmer Sudbury,583200,238000,Bulmer Brick & Tile Co Ltd,Other mineral industries,89.27272727,England,52.01018968110732,0.667937252419395
+43108,Saltend Bioethanol Plant,516265,428187,Vivergo Fuels Ltd,Chemical industry,53.82872727,England,53.73711588539804,-0.23883771580783403
+13467,Highcraig Quarry,243000,661500,Tarmac Ltd,Other mineral industries,43.92818182,Scotland,55.82114519800811,-4.507555184493701
+12537,Stoke-On-Trent,389390,343920,Prince Minerals Ltd,Other mineral industries,33.36545455,England,52.992502904396694,-2.15951431828885
+14252,Machen,322118,188641,Hanson Quarry Products Europe Ltd,Other mineral industries,23.45781,Wales,51.59121469995337,-3.1256375071167426
+3092,Torrington,249245,119452,Dartington,Other mineral industries,22.3525244,England,50.95472619408292,-4.147762588602358
+11685,Rhymney,310610,208342,Convatec Ltd,Chemical industry,19.30852364,Wales,51.76659422285225,-3.2967652092336572
+13735,Winnington,365310,374000,Tata Chemicals Europe Ltd,Chemical industry,10.97811545,England,53.26185688365229,-2.5215075509317653
+13765,Warrington,360006,386215,Perstorp UK Ltd,Chemical industry,8.933710909,England,53.371273152092854,-2.6025619476891553
+14381,Alyn Works,323330,364790,TS Resins Ltd,Chemical industry,5.666727273,Wales,53.17467231304392,-3.1485245811509137
+3117,Broxbourne,537969,206703,Nazeing Glassworks Ltd,Other mineral industries,5.588131101,England,51.74205229384259,-0.0031014442005635407
+13850,Crieff,285670,720550,Caithness Glass,Other mineral industries,2.23525244,Scotland,56.36340500882083,-3.8522252923704197
+13687,Renishaw,445039,377861,Lafarge Aggregates Ltd,Other mineral industries,2.192664545,England,53.29579973568943,-1.3257304867281114
+13707,Lostock Soda Ash Manufacture,368657,374637,Tata Chemicals Europe Ltd,Chemical industry,1.576055455,England,53.267791529429914,-2.4713966231503393
+3096,Ashbourne,418104,346615,Derwent,Other mineral industries,1.11762622,England,53.01653376166838,-1.7315895388717983
+3091,Ulverston,329697,478704,Cumbria,Other mineral industries,1.11762622,England,54.19924826859675,-3.079155930112623
+8067,South Ferriby,497400,421060,CEMEX UK Cement Ltd,Cement,0.198739091,England,53.67693928683022,-0.526965484252702
+8343,Aldermaston,459800,163000,AWE Plc,Public administration,7821.861586,England,51.36292732737808,-1.1424660828355877
+8365,Plymouth,245167,54723,Devonport Royal Dockyard Ltd,Public administration,3911.009275,England,50.37197852130225,-4.17868001557891
+9077,Coulport,221000,687300,Babcock Naval Services Ltd,Public administration,1817.936746,Scotland,56.04500724125355,-4.875359561521815

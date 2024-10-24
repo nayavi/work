@@ -1,0 +1,236 @@
+ï»¿PlantID,Site,Easting,Northing,Operator,Sector, Emission ,Region,Latitude,Longitude
+7431,Westfield,319000,698000,EPR Scotland Ltd,Major power producers,109.5643853,Scotland,56.16774904701175,-3.3059935257060498
+7442,Barra,66560,798400,Scottish & Southern Energy plc,Major power producers,170.3833259,Scotland,56.95619006179995,-7.487344718693869
+7443,Bowmore,131200,659900,Scottish & Southern Energy plc,Major power producers,340.7666518,Scotland,55.757564956567016,-6.286048884794499
+7446,Tiree,99500,744500,Scottish & Southern Energy plc,Major power producers,170.3833259,Scotland,56.49631784025748,-6.884698145212093
+7880,Glanford,486000,414800,Fibrogen Ltd,Major power producers,306.9978505,England,53.62268535759119,-0.7012244212385039
+7880,Glanford,486000,414800,Fibrogen Ltd,Major power producers,23.45454545,England,53.62268535759119,-0.7012244212385039
+7881,Eye,613250,275450,Fibropower Ltd,Major power producers,56.1446439,England,52.335662193979395,1.1286520314946555
+7881,Eye,613250,275450,Fibropower Ltd,Major power producers,246.2727273,England,52.335662193979395,1.1286520314946555
+7882,Thetford,585200,286800,Fibrothetford Ltd,Major power producers,187.1487416,England,52.44776406149986,0.7237475722909386
+7882,Thetford,585200,286800,Fibrothetford Ltd,Major power producers,389.5909091,England,52.44776406149986,0.7237475722909386
+8001,Indian Queens,194000,59100,AES Indian Queens Power Ltd,Major power producers,861.474,England,50.39559718648146,-4.899753256790411
+8006,Rocksavage,351700,380000,Rocksavage Power Co Ltd,Major power producers,272090.9924,England,53.314717600426086,-2.72643825485286
+8016,Immingham,516860,417420,Immingham CHP Ltd Liability Partnership,Major power producers,748053.9559,England,53.640254058823096,-0.2338749902271056
+8017,Seabank,353500,182500,Seabank Power Ltd,Major power producers,296721.402,England,51.53947337080543,-2.671862448108801
+8018,Saltend,515900,428000,Saltend Cogeneration Co Ltd,Major power producers,744357.5853,England,53.73551706592095,-0.24443846832663457
+8024,Coryton,574200,182230,Coryton Energy Co Ltd,Major power producers,161302.0212,England,51.512140099503746,0.5090066094419243
+8053,Slough,495300,181500,Slough Heat & Power Ltd,Major power producers,2930.481044,England,51.52438419286159,-0.6277237801333024
+8055,South Humber,522800,413400,Humber Power Ltd,Major power producers,564784.879,England,53.60278178029131,-0.14566212958784272
+8062,Rye House,538840,208840,ScottishPower Generation Ltd,Major power producers,78910.47131,England,51.76103947108867,0.010358049841330921
+8105,Heysham 1,340063,459751,British Energy Generation Ltd,Major power producers,974.3807482,England,54.03024922227932,-2.9165164178099032
+8106,Sizewell B,647270,263740,British Energy Generation Ltd,Major power producers,810.6884509,England,52.216333945628726,1.6184110147918251
+8107,Hinkley Point B,321040,145940,British Energy Generation Ltd,Major power producers,1963.801623,England,51.2071889142001,-3.131679266124036
+8108,Dungeness B,608290,116880,British Energy Generation Ltd,Major power producers,1068.438813,England,50.91378689422365,0.9617036078595929
+8109,Heysham 2,340420,459730,British Energy Generation Ltd,Major power producers,2134.052084,England,54.03010193179018,-2.9110629298639745
+8115,Solutia,333807,186312,District Energy Ltd,Major power producers,2724.280576,Wales,51.57177382655761,-2.956492214284644
+8125,Cowes,450480,94500,RWE nPower Plc,Major power producers,451.50042,England,50.74791644025829,-1.2858529317218388
+8128,Didcot B,450780,191850,RWE nPower Plc,Major power producers,682559.7181,England,51.62318652213568,-1.267868251014206
+8133,Brigg,499000,405900,Regional Power Generators Ltd,Major power producers,8611.416218,England,53.54042370462112,-0.5075632055962683
+8134,West Burton,479190,385530,EDF Energy (West Burton Power) Ltd,Major power producers,170988.6602,England,53.360723899716795,-0.8115363259385439
+8166,Little Barford,518450,257750,RWE nPower Plc,Major power producers,209226.9843,England,52.205256220057045,-0.2680599202355558
+8182,Hartlepool,452910,527100,British Energy Generation Ltd,Major power producers,2453.565622,England,54.63625747186542,-1.1818055345845089
+8220,Corby,489750,291020,Corby Power Ltd,Major power producers,6686.477956,England,52.509694091202974,-0.6790212237864314
+8239,Aberthaw B,302700,166500,RWE nPower Plc,Major power producers,64.09090909,Wales,51.38917139280715,-3.399748614439601
+8390,Nottingham,457840,339450,Enviroenergy Ltd,Minor power producers,382.4125473,England,52.94932347988209,-1.1406073092583286
+8396,London,529900,182000,Bloomsbury Heat & Power,Minor power producers,1629.765104,England,51.52198709608431,-0.12905764714868528
+8415,Spalding,526000,325000,Spalding Energy Co Ltd,Major power producers,394597.0994,England,52.807838695697065,-0.1321920583798801
+8490,Five Oaks,509870,128440,SSEPG (Operations) Ltd,Major power producers,76.82449091,England,51.04481606579784,-0.43409285893839045
+8494,Thatcham,452570,166420,SSEPG (Operations) Ltd,Major power producers,24.1338,England,51.394389851672756,-1.245796907562484
+8500,Keadby,483500,411680,Keadby Generation Ltd,Major power producers,126304.4281,England,53.595052855649655,-0.7398470712086915
+8501,Medway,587000,174700,Scottish & Southern Energy Plc,Major power producers,81756.55222,England,51.44042103001953,0.6892738255620992
+8510,Burghfield,469200,170710,SSEPG (Operations) Ltd,Major power producers,2299.310187,England,51.43117678535775,-1.0059711291441562
+8511,Chickerell,366231,81029,SSEPG (Operations) Ltd,Major power producers,2266.04766,England,50.62797572667019,-2.4787887550492553
+8512,Chippenham,392000,171013,SSE Generation Ltd,Major power producers,595.9755273,England,51.4380551578098,-2.116483073049152
+8640,Drax,466700,426700,Drax Power Ltd,Major power producers,137593.2024,England,53.732437199500254,-0.9904142946156347
+8764,Elean,545300,279600,EPR Ely,Major power producers,510.4338147,England,52.39513993924165,0.13400579392631037
+8794,Pimlico District Heating Scheme,529100,177400,Dalkia Utilities Services,Minor power producers,1165.922075,England,51.48083140338113,-0.14226389072645615
+8865,Uskmouth B,333100,183600,Uskmouth Power Co Ltd,Major power producers,0.983620909,Wales,51.54730910392488,-2.9661749954751255
+8948,Redditch,403470,268430,First Energy (Redditch) Ltd,Minor power producers,33.96703909,England,52.313968056698876,-1.9505210079839275
+8980,Coolkeeragh,65064,584763,Coolkeeragh ESB Ltd,Major power producers,193594.4373,Northern Ireland,55.04410160546072,-7.2456004745938865
+8981,Kilroot,154500,541000,AES Kilroot Power Ltd,Major power producers,371617.016,Northern Ireland,54.703961006265914,-5.8121666159452
+8982,Ballylumford,157900,558000,Premier Power Ltd,Major power producers,277795.4149,Northern Ireland,54.85804756670404,-5.773705322660829
+9009,Torness Power Station,374740,675000,British Energy Generation Ltd,Major power producers,1788.998542,Scotland,55.96733484059037,-2.4062419543794955
+9031,Westfield Biomass Plant,319010,698121,EPR Scotland Ltd,Major power producers,437.8884,Scotland,56.168837581709504,-3.3058694291360653
+9044,Loch Carnan Power Station,83190,842730,Scottish Hydro Electric,Major power producers,604.5993491,Scotland,57.36441855593888,-7.271354806672097
+9045,Kirkwall Power Station,344690,1010970,Scottish Hydro Electric,Major power producers,471.9476727,Scotland,58.982280913697515,-2.9639451918281625
+9046,Battery Point Power Station,143180,932210,Scottish Hydro Electric,Major power producers,12207.32246,Scotland,58.20362410144735,-6.373123848093136
+9057,Hunterston B,218230,651500,British Energy Generation Ltd,Major power producers,505.5544745,Scotland,55.72272051749177,-4.895730008978939
+9604,Fellside CHP Plant,303500,503600,British Nuclear Group Sellafield Ltd,Major power producers,37630.76258,England,54.41865214146147,-3.488647529267285
+11058,Great Yarmouth Power Station,652926,305093,RWE nPower Plc,Major power producers,193453.8231,England,52.5847532789502,1.7322365370249384
+11062,Langage Energy Centre,257190,56140,Centrica Langage Ltd,Major power producers,350327.9226,England,50.387757662844564,-4.010261204448251
+11066,Marchwood  Power  Station,439600,111100,Marchwood Power Ltd,Major power producers,515006.038,England,50.89802698035227,-1.4382716639819557
+11067,Staythorpe Power Station,476489,353250,RWE nPower Plc,Major power producers,821448.7112,England,53.07101921429116,-0.8598410977734393
+11068,Pembroke Power Station,192700,202600,RWE nPower Plc,Major power producers,1361826.42,Wales,51.683795160901354,-5.00018696626738
+11115,Exeter Power,292200,91000,Rolls Royce Power Development Ltd,Minor power producers,1460.865728,England,50.70860890288981,-3.5280899741053324
+11116,Croydon Energy,531700,166400,Rolls Royce Power Development Ltd,Minor power producers,1869.375905,England,51.38137932481164,-0.10893014993730851
+11117,Heartlands Power,412300,290500,Rolls Royce Power Development Ltd,Minor power producers,5667.96912,England,52.512252746244066,-1.820190770735716
+11728,Seal Sands Power Station,453278,524210,Rolls-Royce Power Development Ltd,Minor power producers,2088.716438,England,54.6102499140676,-1.176629351931555
+12144,Margam,279070,186190,Western Bioenergy Ltd,Minor power producers,257.1818182,Wales,51.561584235533445,-3.7459437753770812
+12788,Sleaford,508570,345910,Eco2 Lincs Ltd,Major power producers,56.39454545,England,52.999517017228555,-0.3836730966680337
+13072,Arnish,142939,930631,Scottish Hydro Electric Power Distribution Plc,Major power producers,2884.907935,Scotland,58.18934332064997,-6.375470288381307
+13256,Markinch,327900,701400,RWE Npower Renewables Ltd,Major power producers,2135.156065,Scotland,56.199720885824924,-3.163629192436908
+13434,Bridgend,282052,180090,UK Power Reserve Ltd,Major power producers,1703.671388,Wales,51.507392946232855,-3.700900418715295
+13436,Lynemouth Power Station,430528,589939,Lynemouth Power Ltd,Major power producers,2358.095506,England,55.20277176001615,-1.5218976923114307
+13445,Heald Green,383793,384885,UK Power Reserve Ltd,Minor power producers,1569.013088,England,53.36058841248211,-2.244987769448465
+13448,Cardiff,320325,175898,Rhymney Power Ltd,Major power producers,429.7280973,Wales,51.476409178178066,-3.1486265179301762
+13459,Wakefield,432476,418856,UK Power Reserve Ltd,Minor power producers,14.86395,England,53.66518334752834,-1.509981973663882
+13460,Thorpe in Balne,460131,411802,UK Power Reserve Ltd,Major power producers,14.85873,England,53.59934571869249,-1.0928545289722391
+13725,Shirebrook Energy Park,452800,366700,Alkane Energy UK Ltd,Minor power producers,626.6210318,England,53.194770620753786,-1.2111481418496748
+13726,Woodston,517952,296931,Peak Gen Power 2 Ltd,Minor power producers,81.49344545,England,52.55744340845349,-0.26156902141989363
+13910,"Westfield Industrial Park, Swansea",260723,196409,Viridis 178 Swansea Power Plant,Minor power producers,5726.727273,Wales,51.64917423497772,-4.014517185206372
+14199,Blackburn Meadows Renewable Energy Plant,439551,391549,Eon Climate and Renewables UK Biomass Ltd,Major power producers,3487.156522,England,53.41926621334082,-1.4063565321958704
+14221,Wheldale Power Station,443452,426142,Alkane Energy UK Ltd,Major power producers,2681.401045,England,53.729871901225785,-1.3428622493161186
+14234,Greengate Power Station,350800,394200,UK Power Reserve Ltd,Minor power producers,1912.975238,England,53.4422618352452,-2.742162441487495
+14235,Watson Street Power Station,351100,394500,UK Power Reserve Ltd,Minor power producers,558.3637064,England,53.44498613918956,-2.7376931406005673
+14394,Citigen CHP Plant,531610,181720,Citigen (London) Ltd,Major power producers,2136.225562,England,51.51907537458502,-0.10452917115076248
+14396,Cowley Hill Power Station,351300,396700,UK Power Reserve Ltd,Minor power producers,1794.578015,England,53.46477771312742,-2.735023743900658
+14397,Bradon Farm Power Station,336005,119775,UK Power Reserve Ltd,Minor power producers,1235.619848,England,50.97381672673023,-2.9128462495219627
+14414,Fareham,452389,108364,Peakgen Power 13 Ltd,Minor power producers,199.6467927,England,50.87240966723175,-1.256822041450121
+14427,Ratcliffe on Soar Power Station,450300,330100,Uniper UK Ltd,Major power producers,990998.2969,England,52.86603875314915,-1.2542590293021365
+14429,Killingholme Power Station,515410,418840,Uniper UK Ltd,Major power producers,15726.7213,England,53.653332774403495,-0.25526956701253545
+14430,Cottam Development Centre,481500,379500,Uniper UK Ltd,Major power producers,237583.0198,England,53.30618410036946,-0.778383386348365
+14431,Enfield Power Station,536800,197700,Uniper UK Ltd,Major power producers,181200.9533,England,51.66143955914187,-0.02355068234298674
+14432,Grain CCGT,588620,175200,Uniper UK Ltd,Major power producers,610880.4496,England,51.444375084885884,0.7128215829851874
+14433,Taylors Lane Power Station,520750,184250,Uniper UK Ltd,Major power producers,2225.035988,England,51.54423685654136,-0.2601040134844928
+14449,Llandarcy,271938,196106,Peak Gen Power 5 Ltd,Minor power producers,115.1148927,Wales,51.6491198153366,-3.8523990330882514
+14450,Dafen Power Station,252800,202230,Dafen Reserve Power Ltd,Minor power producers,1338.922574,Wales,51.69945594972934,-4.13140876797813
+14451,Barry,314616,168928,Peakgen Power 6 Ltd,Minor power producers,136.9198691,Wales,51.41291851788791,-3.2291265379827707
+14452,Connahs Quay Power Station,327250,371250,Uniper UK Ltd,Major power producers,293503.1427,Wales,53.23328083346328,-3.0913633800236586
+14453,Cynon Power Station,302075,200896,Cynon Power Ltd,Minor power producers,1213.788226,Wales,51.69823759289284,-3.4183107924753147
+14581,Ferrybridge MF1,447500,424720,Ferrybridge MFE Ltd,Major power producers,79373.87587,England,53.71673987685361,-1.2817282128970457
+14588,Ridham Biomass Power Plant,592260,168220,MVV Environment Ridham Ltd,Major power producers,3.133459091,England,51.38046384083375,0.7613541844781287
+14641,Lisahally Power Station,64305,584537,ERE Developments Ltd,Major power producers,2624.372765,Northern Ireland,55.041567634831566,-7.257162785172034
+14649,Carrington CCGT,373287,393037,Carrington Power Ltd,Minor power producers,464982.5487,England,53.43343261982752,-2.4035392747522493
+14667,Derby,435988,332278,Rolls-Royce Power Development Ltd,Minor power producers,2026.343026,England,52.886760926426206,-1.4666054750604434
+14668,Damhead Creek Power Station,580960,172790,Scottish Power Generation Ltd,Major power producers,253308.2567,England,51.42522509273347,0.6014895994557659
+14669,Shoreham Power Station,525737,104692,Scottish Power Generation Ltd,Major power producers,119864.0852,England,50.828119763825974,-0.21604904743326497
+14675,Peak Gen Bracknell,485648,171136,Peak Gen Power 11 Ltd,Minor power producers,204.2991791,England,51.43276223516323,-0.7693223768537626
+14676,Peak Gen Exeter,293104,89692,Peak Gen Power 14 Ltd,Minor power producers,410.0396182,England,50.6970176767455,-3.5149127498276047
+14679,Gloucester,381828,215977,UK Power Reserve Ltd,Minor power producers,3664.068341,England,51.84209627284404,-2.265172869536582
+14684,Havant,470717,105740,Peak Gen Power 18 Ltd,Minor power producers,190.44456,England,50.84686884797439,-0.9968895282973673
+14689,Selby Power Station,463150,431296,Selby Power Ltd,Minor power producers,1305.010666,England,53.77418148103439,-1.04328021117964
+14690,Tillingham Power Station,486483,153718,Tillingham Power Ltd,Minor power producers,2243.929743,England,51.27605506954653,-0.761542343311768
+14691,Harbourne Power Station,486483,153718,Harbourne Power Ltd,Minor power producers,958.86282,England,51.27605506954653,-0.761542343311768
+14692,Redlake Power Station,464699,105473,Redlake Power Ltd,Minor power producers,1625.536309,England,50.845171347716544,-1.0824053084158
+14694,Hemel Hempstead Power Station,507407,209131,UK Power Reserve Ltd,Minor power producers,4043.669471,England,51.7705597935937,-0.4448016375926883
+14700,Cadoxton Power Station,314616,168928,Cadoxton Reserve Power Ltd,Minor power producers,1088.647394,Wales,51.41291851788791,-3.2291265379827707
+14701,Larigan Power Station,302833,182419,Larigan Power Ltd,Minor power producers,2954.959538,Wales,51.53228749645298,-3.402217539541768
+14740,Brigg Renewable Energy Plant,498720,406130,BWSC Generation Services UK Ltd,Major power producers,52.98272727,England,53.54254296061378,-0.5117143456505236
+14750,Leeds Generating Station Complex,429500,434150,ENGIE Services Ltd,Minor power producers,9022.854545,England,53.80281816568857,-1.5535661325497754
+14915,Tonypandy Power Station,299390,193202,UK Power Reserve Ltd,Minor power producers,2576.504596,Wales,51.62860615138974,-3.454930156761681
+14916,Traston Road Power Station,332953,185707,UK Power Reserve Ltd,Minor power producers,3922.32609,Wales,51.56623374551798,-2.9686970399983394
+14917,Ogmore Power Station,314751,211843,Ogmore Power Ltd,Minor power producers,2588.33199,Wales,51.79871114122796,-3.2376339437332415
+14918,Clyne Power Station,315509,210573,Clyne Power Ltd,Minor power producers,2515.144255,Wales,51.78741036384135,-3.2263348237670897
+14919,Docks Way Power Station,330953,186161,UK Power Reserve Ltd,Minor power producers,1670.007398,Wales,51.570073447851755,-2.997636217940025
+14920,Culvery Power Station,332302,367994,Culvery Power Ltd,Minor power producers,1360.896562,Wales,53.204686835267545,-3.014998025325839
+14921,Nevern Power Station,315509,210493,Nevern Power Ltd,Minor power producers,2553.054652,Wales,51.786691247115925,-3.2263153169157546
+14930,Gateshead District Energy Scheme,425956,563447,Gateshead Energy Company Ltd,Minor power producers,1784.297182,England,54.96498002511567,-1.5961332542027329
+14932,Carrington Peel Power Station,372352,392485,UK Power Reserve Ltd,Minor power producers,4234.100575,England,53.42842269414076,-2.417563444733142
+14933,Immingham Kings Road Power Station,519621,414736,UK Power Reserve Ltd,Minor power producers,2598.285243,England,53.615518594480804,-0.19316572015628472
+14939,Mansfield Power Station,452400,359772,UK Power Reserve Ltd,Minor power producers,3366.372038,England,53.13254069229724,-1.2182666500181776
+14940,Tottenham Power Station,535231,191387,UK Power Reserve Ltd,Minor power producers,3237.910023,England,51.605090112509636,-0.04865725710665332
+14941,Immingham Queens Road Power Station,520287,414714,UK Power Reserve Ltd,Minor power producers,2526.964835,England,53.61516860383502,-0.18311184741470324
+14944,Bracknell Power Station,485837,169248,UK Power Reserve Ltd,Minor power producers,4222.165871,England,51.415761502068705,-0.7670610013090033
+14945,Stanlow Power Station,341830,376362,UK Power Reserve Ltd,Minor power producers,4447.99905,England,53.281026184145276,-2.873900464817473
+14946,Leeds Generation Station Complex,429512,434722,Engie Services Ltd,Minor power producers,13273.1378,England,53.80795843548869,-1.5533293281093357
+14959,Bury Power Station,380355,411436,Bury Power Ltd,Minor power producers,3512.631747,England,53.59911983477553,-2.29831684229705
+14960,Wolverhampton Power Station,392914,298062,Wolverhampton Power Ltd,Minor power producers,1857.11988,England,52.5803225490496,-2.1060054374137143
+14971,Somercotes,442493,354953,Reserve Power Trading Ltd,Minor power producers,1407.291952,England,53.09010502887077,-1.366965046458455
+14972,Darent Power,633428,159463,Kent Renewable Energy Ltd,Minor power producers,203.8917273,England,51.28643886294374,1.3462082483570101
+14981,Thamesteel Power Station,591172,174391,UK Power Reserve Ltd,Minor power producers,2355.564608,England,51.43625435416693,0.7490628091626568
+14983,Ashford Power,580741,172834,Ashford Power Ltd,Minor power producers,4976.602271,England,51.4256901405272,0.5983654728633486
+14984,Marden Power Station,489357,412628,Marden Power Ltd,Minor power producers,1401.904331,England,53.60260705095673,-0.6511066796273642
+40222,Holbrook Community Renewable Energy Centre,444520,381670,Equitix ESI CHP (SHEFF) Ltd,Minor power producers,5127.272727,England,53.330079075736826,-1.3329833056283968
+40252,Beaufort Road Power Station,330445,389969,UK Power Reserve Ltd,Minor power producers,4280.632636,England,53.401940604470504,-3.0476192776552695
+40254,Taylor Lane 3 & 4,442552,347596,Powertree (Taylor Lane) Ltd,Minor power producers,3749.542508,England,53.023971740806815,-1.367053603801243
+40260,Staveley Energy Park,443370,375664,Alkane Energy CM Ltd,Minor power producers,1005.697137,England,53.27619162201262,-1.351068213486637
+40261,Loddon Power Station,467439,155217,Loddon Power Ltd,Minor power producers,1141.196801,England,51.29210056852615,-1.0342318157435009
+40262,Wharf Power Station,335351,382545,Wharf Power Ltd,Minor power producers,2249.480798,England,53.335843515381235,-2.972320852795503
+40263,Kiln Power Station,441315,292567,Kiln Power Ltd,Minor power producers,2808.60054,England,52.52941308381559,-1.3924188953598209
+40264,Irwell Power Station,380322,411500,Irwell Power Ltd,Minor power producers,1265.404429,England,53.599693830108826,-2.2988195412211576
+40265,Northwich Power Station,368241,374334,Northwich Power Ltd,Minor power producers,3566.920246,England,53.26504319735532,-2.4776032621867206
+40266,Creyke Beck Peaking Plant,503552,434185,Creyke Beck Power Ltd,Minor power producers,7558.686319,England,53.79368202977203,-0.4294794443154947
+40267,Nottingham Road Power Station,449511,333963,UK Power Reserve Ltd,Minor power producers,3675.288586,England,52.90083471696615,-1.2653917785988955
+40279,Britvic Energy Centre,449920,277390,E.on Connecting Energies Ltd,Minor power producers,6835.625493,England,52.392264504581156,-1.2678514832419743
+40282,Lavant Power,386742,289801,Lavant Power Ltd,Minor power producers,3393.541696,England,52.505940986085996,-2.196756676026578
+40284,Thelwall Lane Power Station,363929,387483,UK Power Reserve Ltd,Minor power producers,3954.329141,England,53.382953344418624,-2.543748686944274
+40285,Alders Way Power Station,287022,59300,UK Power Reserve Ltd,Minor power producers,4141.060293,England,50.42266021066841,-3.591760921345725
+40286,Lodge Lane Power Station,358018,396837,UK Power Reserve Ltd,Minor power producers,3800.046543,England,53.46658884547923,-2.633857840473114
+40287,Lyon Road Power Station,486710,234880,UK Power Reserve Ltd,Minor power producers,4037.797287,England,52.00559394465591,-0.7382022257046219
+40288,Mollison Avenue Power Station,536838,198106,UK Power Reserve Ltd,Minor power producers,3651.48762,England,51.66507857382968,-0.022842810838484127
+40289,Banbury Power,446555,241943,Banbury Power Ltd,Minor power producers,2304.494084,England,52.07390232007956,-1.3221655563260195
+40290,Peak Gen Southampton,453224,106771,W4B Renewable Energy Ltd,Major power producers,56.19561,England,50.858009818590915,-1.2451874420716205
+40297,St Asaph Power Station,302068,373971,St Asaph Power Ltd,Minor power producers,1447.751024,Wales,53.25368018091288,-3.469347087018076
+40298,Bartley Power,328855,344417,Bartley Power Ltd,Minor power producers,3952.881011,Wales,52.9923386205296,-3.0613655699595577
+40357,Widnes Biomass Facility,350090,384450,Mersey Bioenergy Ltd,Major power producers,1610.454545,England,53.35456404242249,-2.7513046786731503
+40386,Hull Energy Works,510270,430190,Energy Works (Hull) Ltd,Minor power producers,4198.116162,England,53.75641189514951,-0.32896757650850245
+40492,Warrington Power Station,360245,387416,Warrington Power Ltd,Minor power producers,2668.965401,England,53.38208594486645,-2.599121610939555
+40493,Immingham Power Station,519820,414959,Immingham Power Ltd,Minor power producers,1915.673291,England,53.61747653592273,-0.19007338959418738
+40494,Hull Reserve Power Station,516675,429188,Hull Reserve Power Ltd,Minor power producers,2979.53004,England,53.7460171642897,-0.23224772476577435
+40497,Hamble Power,400114,292731,Hamble Power Ltd,Minor power producers,1898.984097,England,52.532445385683246,-1.9997500490920788
+40498,Ripley,439678,351798,Mercia Power Response (Asher Lane 2) Ltd,Minor power producers,1315.497363,England,53.06196211168268,-1.409382929547406
+40499,Colwick,462579,340329,Mercia Power Response (Private Road No.5) Ltd,Minor power producers,1427.632339,England,52.956693274161076,-1.0699165298006863
+40500,Queen Alexandra Hospital,465474,105965,Engie Services Ltd,Minor power producers,4006.085965,England,50.849508025540025,-1.0713111905375705
+40503,Rownhams Generation Station,437244,116800,Keekle Power Ltd,Minor power producers,3182.907856,England,50.94943752377097,-1.4711912105185159
+40505,Spondon Power Station,439557,335002,UK Power Reserve Ltd,Minor power producers,7297.888118,England,52.91099665092138,-1.4132368508035802
+40506,Carrhill-1 Electricity Generating Plant,457950,401047,Walker & Son (Hauliers) Ltd,Minor power producers,1315.174511,England,53.50293267894078,-1.1277958737794413
+40510,Knitting Wife Beck Power Station,455206,520986,KWB Power Ltd,Minor power producers,477.5882455,England,54.58107322897823,-1.1473875696491183
+40511,Alderley Park Energy Centre,384740,375620,Alderley Park Ltd,Minor power producers,3864.26145,England,53.277337359194526,-2.230309097801301
+40512,Spalding Energy Expansion,525941,324961,Spalding Energy Expansion Ltd,Minor power producers,15479.98455,England,52.80750205884804,-0.13308184757731223
+40513,Avonmouth,352669,180485,Enersyst Ltd,Minor power producers,2572.232367,England,51.52128771420957,-2.6835719844452703
+40521,Gascoigne Wood Power Plant,452565,431894,Gascoigne Wood Power Ltd,Minor power producers,1909.91064,England,53.78072934674667,-1.203770142266829
+40522,Skelmersdale,349494,403721,Pimbo Generation Ltd,Minor power producers,5298.061192,England,53.52770927137097,-2.7633573960398623
+40523,Chadderton,389165,403560,Chadderton Generation Ltd,Minor power producers,5085.055233,England,53.52858630863857,-2.1649190141601267
+40530,Steven's Croft Power Station,311970,585560,E.ON UK Steven's Croft Ltd,Major power producers,1912.658785,Scotland,55.15651037812423,-3.3830736526431555
+40535,Afan Way Power Station,275603,189619,UK Power Reserve Ltd,Minor power producers,3191.98125,Wales,51.59164570074232,-3.7971484966748603
+40644,Stranglands Lane West Yorkshire,447192,424951,Ferrybridge MFE 2 Limited,Major power producers,80888.64634,England,53.71884383462224,-1.2863596916875826
+40692,Skelmersdale,347131,407551,SWB Skelmersdale Ltd,Major power producers,1812.545179,England,53.56189831422688,-2.7996484724522572
+40696,St Helens,349824,394658,SWB St Helens Ltd,Major power producers,1280.74422,England,53.44628599278379,-2.7569277192464283
+40697,Burnley,385516,433698,Bancroft Generation Ltd,Major power producers,5494.37565,England,53.79938067628604,-2.2213815319687837
+40700,Bispham Power Generation Plant,332274,439663,Conrad (Bispham) Ltd,Major power producers,1390.749982,England,53.84876756680922,-3.0309451436677066
+40701,Middlewich Power Generation Plant,371717,365666,Conrad (Middlewich) Ltd,Major power producers,1260.981614,England,53.187327703655704,-2.4247192367017725
+40702,Margate,636126,168700,Westwood Power Ltd,Major power producers,2567.337123,England,51.368239028727146,1.3909440310197123
+40703,Bridgwater Generating Plant,330636,135041,UK Power Reserve Ltd,Major power producers,2155.700225,England,51.11044795155179,-2.9922330977601383
+40704,Sevington Generating Plant,602413,140620,UK Power Reserve Ltd,Major power producers,1653.8013,England,51.12908044077679,0.891455065984263
+40705,Taunton,318907,124748,Hele Manor Ltd,Major power producers,2164.214624,England,51.016368896402184,-3.1574354854286857
+40707,Chatterley,388200,353291,Conrad (Chatterley) Ltd,Minor power producers,1497.549025,England,53.07671432230445,-2.177588873527382
+40714,Redditch,406034,265717,Redditch Peaking Power Ltd,Major power producers,44.80017273,England,52.289555932536864,-1.9129575675770414
+40717,Kings Lynn Power Station,560950,317100,RWE Generation UK plc,Major power producers,204515.1487,England,52.727596268690434,0.3819887966807181
+40728,Aberdare Generating Plant,297316,576211,UK Power Reserve Ltd,Major power producers,1665.195974,Wales,55.06970793692987,-3.609576797815691
+40729,Solutia Generating Plant,333080,185700,UK Power Reserve Ltd,Major power producers,1369.050458,Wales,51.56618592696345,-2.966863727577181
+41333,Chilton Biomass Plant,428140,530390,Veolia Biopower One UK Ltd,Major power producers,25.50736364,England,54.66780631546361,-1.5652232878893644
+41341,Ince Bio Power,346719,376583,Bioenergy Infrastructure Services Ltd,Major power producers,2562.545455,England,53.283527388839424,-2.800620020943058
+41346,Templeborough Biomass Power Plant,441820,391830,Babcock & Wilcox Volund Ltd,Major power producers,305.382,England,53.421617349712065,-1.3721807358017566
+41362,Hoddesdon,538730,208890,Hoddesdon Energy Ltd,Major power producers,4444.068356,England,51.76151598370976,0.008785174545004333
+41372,Gloucester Power Plant,381920,218530,Conrad (Sudmeadow) Ltd,Major power producers,6153.545455,England,51.86505285027254,-2.263971895956349
+43078,Benfleet Power Generation Plant,577787,189244,Conrad (Benfleet) Ltd,Major power producers,556.4262436,England,51.57402627692706,0.5641843742617022
+43079,Maldon,585599,207727,Conrad (Heybridge) Ltd,Major power producers,462.8269009,England,51.73751341061963,0.6865896383609831
+43084,Saltholme,448086,524784,Saltholme North Power Ltd,Major power producers,450.1507364,England,54.61592761914902,-1.2569136054535937
+43085,Saltholme,448086,524784,Saltholme South Power Ltd,Major power producers,574.4706545,England,54.61592761914902,-1.2569136054535937
+43086,Lower Mosely Street Energy Centre,383685,397748,Manchester Heat Network Tradeco Ltd,Major power producers,348.4018445,England,53.476203438846326,-2.2472810950362248
+43091,Shirebrook,452820,366767,Thornton Estate Energy Ltd,Major power producers,2579.401715,England,53.195370836285626,-1.2108377582106158
+43092,Purfleet Power Generation Plant,557327,177819,Conrad (Purfleet) Ltd,Major power producers,575.7442909,England,51.47745633127882,0.26409992879587124
+43093,Bilston Power Generation Plant,393635,294882,Conrad (Bilston) Ltd,Major power producers,642.0162109,England,52.55174401112079,-2.0953030041271683
+43096,Balby Carr Power Plant,458527,400798,VP Flexgen Ltd,Major power producers,745.5857945,England,53.50063106955658,-1.119144333458939
+43097,Hillhouse,334219,443549,Hillhouse Generation Ltd,Major power producers,3707.823022,England,53.88393941012551,-3.00222007975746
+43098,Basildon Power,573739,191027,Velox Power Ltd,Major power producers,1201.975042,England,51.59130351086592,0.5067115571524587
+43099,Sandwell Power,398576,293872,Velox Power Ltd,Major power producers,185.2179709,England,52.542700652346454,-2.0224279681368684
+43100,Lime Kilns Power,565963,187371,Velox Power Ltd,Major power producers,1250.987067,England,51.5608022314231,0.39283862024166133
+43101,Station Road Gas Peaking Plant,373977,432153,Velox Power Ltd,Major power producers,159.7576227,England,53.785042914006446,-2.396435343059732
+43105,Thornhill Power Station,422788,420071,Whitetower Energy Ltd,Major power producers,735.7539709,England,53.67661359789291,-1.656508489940972
+43110,West Burton B CCGT Power Station,479190,385530,West Burton B Ltd,Major power producers,493604.7073,England,53.360723899716795,-0.8115363259385439
+43114,Peterborough Power Station,521806,299192,River Nene Power Ltd,Major power producers,17105.88463,England,52.57691140597041,-0.20392021313303715
+43119,Netherton Power Station,278333,654697,Velox Power Ltd,Major power producers,444.7503736,Scotland,55.77025755178908,-3.9409558748148337
+43120,Carbrain Power Station,276762,674307,Velox Power Ltd,Major power producers,372.9615736,Scotland,55.94594900858345,-3.9748974331559426
+43121,Carmuirs Power,284218,681134,Velox Power Ltd,Major power producers,664.0180882,Scotland,56.009110580755916,-3.858521365326694
+43123,Peterhead Power Station,412790,843090,SSE Thermal Generation (Scotland) Ltd,Major power producers,307709.3659,Scotland,57.47788541945565,-1.7883750054288605
+43124,Lerwick Power Station,446480,1142750,Scottish Hydro-Electric Power Distribution Plc,Major power producers,19891.07755,Scotland,60.16656628380752,-1.1642942509263985
+43125,Brecon Power Station,315022,212267,Velox Power Ltd,Major power producers,2583.554493,Wales,51.80256374030667,-3.2338091091376446
+43166,Redfield Road Combustion Plant,455310,337600,Conrad (Redfield) Ltd,Major power producers,5211.545455,England,52.9329612654281,-1.178572170989783
+43174,Viridis 178 Red Scar,357730,431960,Conrad (Redscar) Ltd,Major power producers,7848.818182,England,53.78223913958569,-2.6429779690025614
+13627,Daldowie Fuel Plant,267200,662100,SMW Ltd,Other fuel production,5500.283067,Scotland,55.83379833241127,-4.12190045944064
+7385,Uddingston,267200,662100,SMW Ltd,Other fuel production,4403.90475,Scotland,55.83379833241127,-4.12190045944064
+13757,Maltby Energy Park,454943,392249,Regent Park Energy Ltd,Other fuel production,4266.229636,England,53.424182475464725,-1.1746597139427268
+10163,Immingham Briquetting Works,518800,416000,Coal Products Ltd,Other fuel production,3837.545455,England,53.627060772383935,-0.2050882820937598
+10816,Llantrisant,305600,181730,Maxibrite Ltd,Other fuel production,89.96181818,Wales,51.52656415244129,-3.362154032807154
