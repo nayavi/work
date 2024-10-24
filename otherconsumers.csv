@@ -1,0 +1,64 @@
+﻿PlantID,Site,Easting,Northing,Operator,Sector, Emission ,Region
+8733,Edgbaston,404796,283448,The University of Birmingham,Public administration,10451.2429,England
+14406,Electrical Engineering Building,526500,179500,"Imperial College of Science, Technology and Medicine",Public administration,10325.59024,England
+8929,Liverpool,335770,390460,University of Liverpool Energy Co Ltd,Public administration,9442.719464,England
+11968,Coventry,429919,275840,The University of Warwick,Public administration,8309.12751,England
+8942,Manchester,384600,396800,The University of Manchester,Public administration,7876.07256,England
+40294,John Anderson Campus DEN,259731,665773,University of Strathclyde,Public administration,5474.900375,Scotland
+8256,RAF Fylingdales,486330,496750,T G Power Ltd,Public administration,5322.039521,England
+13457,The University of Leicester,459412,303044,Leicester District Energy Company Ltd,Public administration,5190.664699,England
+8826,Loughborough,452400,319350,Loughborough University,Public administration,5150.634355,England
+11957,Kings Yard CHP Energy Centre,537571,184555,Cofely East London Energy,Public administration,5092.674761,England
+40515,"PDHU Pump House, Pimlico",529700,177900,Westminster City Council,Public administration,4662.288758,England
+13750,Norwich District Heating and CHP,619391,307593,University of East Anglia,Public administration,4557.070293,England
+8855,"University of York, Heslington",462200,450600,Bardmilne Ltd,Public administration,4214.0442,England
+9074,Glasgow,256870,666730,University of Glasgow,Public administration,3626.236871,Scotland
+8836,Bicester Garrison,461112,217882,Ministry of Defence,Public administration,3617.38976,England
+8646,RNAS Yeovilton,354750,123750,Ministry of Defence,Public administration,3431.692069,England
+8366,RAF Brize Norton,428750,207100,Ministry of Defence,Public administration,3095.544183,England
+8771,Nottingham,454700,338100,University of Nottingham,Public administration,3066.432343,England
+8665,Guildford,498190,150250,University of Surrey,Public administration,2765.783195,England
+11130,King's Buildings,326600,670600,University of Edinburgh,Public administration,2568.886145,Scotland
+8663,Southampton,442500,115300,University of Southampton,Public administration,2560.925718,England
+13456,West Smithfield,531869,181492,Skanska Rashleigh Weatherfoil Ltd,Public administration,2263.830559,England
+11751,Aston University Energy Centre,407500,287600,Birmingham District Energy Co,Public administration,2165.537705,England
+8426,Bristol,358400,173200,University of Bristol,Public administration,2119.705522,England
+8637,Colchester Garrison,599800,224500,Ministry of Defence,Public administration,2100.688662,England
+8908,Canterbury,614180,159950,University of Kent,Public administration,2080.102767,England
+8700,Reading,473352,173710,The University of Reading,Public administration,1965.369735,England
+11987,Weybridge (Veterinary Laboratories Agency),504972,162634,DEFRA,Public administration,1891.217165,England
+13760,Whitehall District Heating Scheme,530153,180174,Cofely Ltd,Public administration,1827.035842,England
+40274,Whitehall,529792,180162,ENGIE FM Ltd,Public administration,6.68856,England
+8722,RAF Fylingdales,486330,496750,Ministry of Defence,Public administration,6.269656364,England
+9612,Shawbury,355700,321800,RAF,Public administration,421.9090909,England
+13051,London,529500,182200,University College London,Public administration,408.5921727,England
+8781,Frenchay,362350,178100,The University of the West of England Bristol,Public administration,397.5149042,England
+8647,RAF High Wycombe,483200,198700,Ministry of Defence,Public administration,524.7771027,England
+8705,Manchester,384200,397200,Manchester Metropolitan University,Public administration,713.8774857,England
+8999,Coleraine,101977,593953,University of Ulster,Public administration,682.9864091,Northern Ireland
+8780,Milton Keynes,488910,237030,The Open University,Public administration,657.432931,England
+13753,HMS Collingwood,457200,104100,Ministry of Defence,Public administration,638.8333636,England
+8784,Bath,377400,163900,University of Bath,Public administration,1728.178537,England
+8648,DCAE Cosford,379819,305422,Ministry of Defence,Public administration,1779.272727,England
+8870,Uxbridge,506000,182692,Brunel University,Public administration,1681.516119,England
+8868,Brighton,534700,109200,The University of Sussex,Public administration,1658.596366,England
+9049,Aberdeen,394180,808420,University of Aberdeen,Public administration,1629.913282,Scotland
+8958,Donnington,370000,313800,Ministry of Defence,Public administration,1626.22449,England
+9053,Lossiemouth,322290,869720,RAF Lossiemouth,Public administration,1620.818182,Scotland
+8805,Newcastle Under Lyme,381610,345272,Keele University,Public administration,1472.526655,England
+9029,St Andrews,350170,716830,University of St Andrews,Public administration,1398.272727,Scotland
+8782,RAF Marham,572123,307972,Ministry of Defence,Public administration,1275,England
+8639,Royal Military Academy Sandhurst,486100,161400,Ministry of Defence,Public administration,1380.298784,England
+8949,Exeter,292000,94000,University of Exeter,Public administration,1367.138677,England
+8747,HMS Sultan,459286,100635,Ministry of Defence,Public administration,1254.111943,England
+8835,HMP Garth & HMP Wymott,350300,420600,Her Majestys Prison Service (HMPS),Public administration,1247.346911,England
+8644,Wattisham Airfield,603200,251300,Ministry of Defence,Public administration,1177.846349,England
+8724,RAF Wyton,528250,273750,Ministry of Defence,Public administration,852.2727273,England
+8645,RNAS Culdrose,167100,25300,Ministry of Defence,Public administration,780.2148464,England
+8735,RAF Waddington,498200,364900,Ministry of Defence,Public administration,1507.090909,England
+9630,GCHQ Benhall,391850,222234,GCHQ,Public administration,1165.448272,England
+8412,RAF Coningsby,522700,357500,Ministry of Defence,Public administration,927.8181818,England
+8845,Newcastle upon Tyne,424668,565139,University of Newcastle,Public administration,1005.201342,England
+8143,Leicester,459290,303080,University of Leicester,Public administration,1610.701371,England
+8375,RAF Stafford,393500,325500,Ministry of Defence,Public administration,1573.363636,England
+11958,Stratford CHP Energy Centre,538747,184829,Cofely East London Energy,Public administration,5659.033492,England

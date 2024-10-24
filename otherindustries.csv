@@ -1,0 +1,423 @@
+﻿PlantID,Site,Easting,Northing,Operator,Sector, Emission ,Region
+13059,"40 Bank Street, Canary Wharf",537568,180041,Canary Wharf Group plc,Construction,12.25394182,England
+8249,Kemsley Mill CHP,591848,166167,E.ON UK CHP Ltd,"Paper, printing & publishing industries",89015.66086,England
+8546,Wissington,566450,297150,British Sugar Plc,"Food, drink & tobacco industry",84847.56218,England
+8550,Bury St Edmunds,586430,265310,British Sugar Plc,"Food, drink & tobacco industry",59256.51465,England
+11745,Saddlebow Paper Mill,561410,317180,Palm Paper Ltd,"Paper, printing & publishing industries",49456.64712,England
+11954,Partington Papermill,372814,392395,SAICA Containerboard UK Ltd,"Paper, printing & publishing industries",46827.39682,England
+8540,Trafford Park,378200,397800,Cargill Plc,"Food, drink & tobacco industry",42193.4055,England
+8248,Port of Liverpool CHP,333250,395550,E.ON UK CHP Ltd,Commercial,41240.40374,England
+43106,Battersea Power Station,528795,177580,ENGIE Urban Energy Ltd,Construction,497.4377482,England
+8547,Newark,479170,355190,British Sugar Plc,"Food, drink & tobacco industry",25673.85716,England
+13050,Silvertown,542250,180250,T&L Sugars Ltd,"Food, drink & tobacco industry",23700.4307,England
+8551,Cantley,638180,303640,British Sugar Plc,"Food, drink & tobacco industry",23210.61835,England
+11113,Nechells,409350,288650,Smurfit Kappa UK Ltd,"Paper, printing & publishing industries",21041.25045,England
+14395,Smurfitt Kappa Townsend Hook,570760,161780,Smurfitt Kappa UK Ltd,"Paper, printing & publishing industries",20871.32229,England
+40464,Millerhill Recycling & Energy Recovery Centre,332240,670755,FCC Waste Services (UK) Limited,Commercial,19284.60125,Scotland
+9065,Girvan Distillery,220250,599750,William Grant & Sons Distillers Ltd,"Food, drink & tobacco industry",18676.28558,Scotland
+8769,Erith,550500,179300,Archer Daniels Midland Erith Ltd,"Food, drink & tobacco industry",18362.42499,England
+43224,Milton Keynes Waste Recovery Park,481106,241698,AmeyCespa Limited,Commercial,14100.41268,England
+1645,Wolverhampton,391600,299900,MES Environmental Ltd,Commercial,13535.47234,England
+14425,Banbury,445282,241541,Jacobs Douwe Egberts OPS GB Ltd,"Food, drink & tobacco industry",13144.8438,England
+8739,Prudhoe Mill,409500,563800,SCA Hygiene Products UK Ltd,"Paper, printing & publishing industries",12853.01297,England
+13063,Portsmouth Naval Base,463600,100800,BAE Systems Surface Ships Ltd,Commercial,11923.91913,England
+40724,Stoneywood Mill,389789,810831,Arjowiggins Scotland Ltd,"Paper, printing & publishing industries",11887.57978,Scotland
+8292,Blackburn Paper Mill CHP,364610,424750,ScottishPower Generation Ltd,"Paper, printing & publishing industries",11861.15981,England
+40529,Glenfiddich Distillery,332640,840886,William Grant & Sons Distillers Ltd,"Food, drink & tobacco industry",11366.52823,Scotland
+8029,Workington Mill,300475,531230,Iggesund Paperboard (Workington) Ltd,"Paper, printing & publishing industries",11156.15779,England
+14207,Purfleet,556870,177550,Pura Foods Ltd,"Food, drink & tobacco industry",10490.5596,England
+14023,Bridgend Paper Mill,287800,187330,Northwood & Wepa Ltd,"Paper, printing & publishing industries",10218.18223,Wales
+8715,Wigan,354700,406300,H J Heinz,"Food, drink & tobacco industry",10033.26104,England
+8421,Barrow Mill,319660,472720,Kimberly-Clark Ltd,"Paper, printing & publishing industries",9900.385437,England
+14446,Cameronbridge Distillery,334600,700000,Diageo Scotland Ltd,"Food, drink & tobacco industry",9795.204614,Scotland
+8517,Burneside Mills,350600,495880,James Cropper Plc,"Paper, printing & publishing industries",9607.511305,England
+13706,Alba Proteins,350086,529648,Omega Proteins Ltd,"Food, drink & tobacco industry",9510.639175,England
+8688,Scarborough,504900,483600,McCain Foods (GB) Ltd,"Food, drink & tobacco industry",9447.008525,England
+8295,Burton Latimer,488913,274853,Weetabix Ltd,"Food, drink & tobacco industry",9085.076945,England
+8328,Stoke Bardolph,463760,341580,Chettles Ltd,"Food, drink & tobacco industry",9015.390199,England
+8687,Whittelsey,523800,297400,McCain Foods (GB) Ltd,"Food, drink & tobacco industry",8818.225361,England
+14402,Nestle York,460500,453800,NestlÃƒÂ© UK Ltd,"Food, drink & tobacco industry",8735.143606,England
+13700,Leicester,456277,308055,Walkers Snack Foods Ltd,"Food, drink & tobacco industry",8701.451231,England
+13761,Tweed Valley Maltings,398724,651978,Simpsons Malt Ltd,"Food, drink & tobacco industry",8581.995338,England
+11386,North British Distillery,322824,672552,North British Distillery Co Ltd,"Food, drink & tobacco industry",8267.142254,Scotland
+11433,Glenochil,285080,696020,Kerry Ingredients (UK) Ltd,"Food, drink & tobacco industry",8053.846222,Scotland
+13746,Bury St Edmunds Maltings,585993,265121,Pauls Malt Ltd,"Food, drink & tobacco industry",7800.847721,England
+40272,Overton Mill,451736,150947,Portals De La Rue Ltd,"Paper, printing & publishing industries",7800.080392,England
+11122,Tissue and Towel Plant,378750,397810,SCA Hygiene Products Manchester Ltd,"Paper, printing & publishing industries",7638.524553,England
+14215,Royal Forest Factory,357337,209938,Lucozade Ribena Suntory Ltd,"Food, drink & tobacco industry",7507.085915,England
+8066,Leicester,462500,307800,LPC Group Plc,"Paper, printing & publishing industries",7264.374736,England
+40258,Tawd Mill,349125,404110,Essity UK Ltd,"Paper, printing & publishing industries",6931.574875,England
+7971,Manchester,379040,395650,Kellogg Co of Great Britain Ltd,"Food, drink & tobacco industry",6919.513748,England
+8974,Lydney,363200,202300,Glatfelter UK Ltd,"Paper, printing & publishing industries",6813.013598,England
+9645,Kellogg Trafford Park,379000,395600,Elyo Industrial Ltd,"Food, drink & tobacco industry",6640.315211,England
+40695,Market Drayton Dairy,365397,333408,Muller UK & Ireland Group LLP,"Food, drink & tobacco industry",6597.648251,England
+8286,NestlÃƒÂ© Tutbury,421660,329650,NestlÃƒÂ© UK Ltd,"Food, drink & tobacco industry",6537.412178,England
+8627,Heathrow Airport,507400,176700,Heathrow Airport Ltd,Commercial,6529.170914,England
+8052,Bromborough,334950,383590,Cereal Partners UK,"Food, drink & tobacco industry",6506.85393,England
+14658,Newport,454717,84542,Glasshouse Generation Ltd,"Agriculture, forestry & fishing",6380.341724,England
+9590,Speke,341020,383610,Prinovis Liverpool Ltd,"Paper, printing & publishing industries",6251.391693,England
+13954,"Dales Voe Decommissioning Facility, Shetland",445798,1145604,Veolia ES UK Limited,Construction,93.28058182,Scotland
+8138,Northfleet Mill,562700,174400,Kimberly Clark,"Paper, printing & publishing industries",6245.837127,England
+14448,RF Brookes Rogerstone Park,325300,189500,Solway Foods Ltd,"Food, drink & tobacco industry",6153.853415,Wales
+8741,Oakenholt Paper Mill,326270,371650,SCA Hygiene Products UK Ltd,"Paper, printing & publishing industries",6102.58176,Wales
+40694,King George Dock,514215,429174,AAK International,"Food, drink & tobacco industry",6087.101793,England
+14195,Europa Nursery Energy Centre,629750,158900,P3P Energy Management Ltd,"Agriculture, forestry & fishing",6025.185706,England
+14975,Arla Foods Westbury,385590,152136,Arla Foods Ltd,"Food, drink & tobacco industry",5989.175285,England
+14659,Arreton Valley Nurseries,454717,84542,Harvest Generation Services Ltd,"Agriculture, forestry & fishing",5858.718717,England
+9621,Wisbech,546503,308463,Lamb Weston/Meijer UK Ltd,"Food, drink & tobacco industry",5851.132094,England
+43081,Dinnington Site A,451906,386502,Walker & Son (Hauliers) Ltd,Construction,200.0313464,England
+43082,Dinnington Site B,451906,386502,Robin Hood Airport Developments Ltd,Construction,97.14132818,England
+40536,Baglan,273810,193160,Sofidel UK Ltd,"Paper, printing & publishing industries",5659.184111,Wales
+7623,Stourton,433150,429840,Arla Foods Ltd,"Food, drink & tobacco industry",5606.454545,England
+8389,Waterhouse Mills,349700,479800,Billerud Beetham Ltd,"Paper, printing & publishing industries",5562.286525,England
+11703,Newcastle Upon Tyne,426450,572170,Entek International Ltd,Electrical engineering,5543.181818,England
+8707,Romiley,394750,390350,Preston Board & Packaging,"Paper, printing & publishing industries",5534.583715,England
+9447,Great Ryburgh Maltings,595640,327360,Crisp Malting Group Ltd,"Food, drink & tobacco industry",5522.727273,England
+11380,Duns,385400,656150,Ahlstrom Chirnside Ltd,"Paper, printing & publishing industries",5438.737669,Scotland
+14703,Artigarvan Site,53104,564621,LacPatrick Dairies (NI) Ltd,"Food, drink & tobacco industry",5404.950131,Northern Ireland
+14670,Stonehouse,380059,205975,Muller UK & Ireland Group LLP,"Food, drink & tobacco industry",5403.713078,England
+14405,Stubbins Mill,379100,417900,SCA Hygiene Products UK Ltd,"Paper, printing & publishing industries",5389.65195,England
+13464,Glasgow,259802,663949,Chivas Brothers Ltd,"Food, drink & tobacco industry",5365.871324,Scotland
+9543,Levenshulme,387930,393140,United Biscuits UK Ltd,"Food, drink & tobacco industry",5356.636364,England
+8084,Magor Brewery,341600,187600,Interbrew UK Ltd,"Food, drink & tobacco industry",5354.924528,Wales
+13257,Leslie,324821,701355,Fourstones Paper Mill Co Ltd,"Paper, printing & publishing industries",5075.760305,Scotland
+11986,Staverton,385783,160943,Cereal Partners UK,"Food, drink & tobacco industry",5042.310821,England
+8995,Dungannon,93213,521509,Moy Park Ltd,"Food, drink & tobacco industry",5008.627268,Northern Ireland
+40293,The Glenlivet Distillery,319493,828695,Chivas Brothers Ltd,"Food, drink & tobacco industry",4917.458433,Scotland
+40725,Drungans,297316,576211,Penspen Ltd,Commercial,4902.81987,Scotland
+14416,Shobnall Maltings,425080,324290,Soufflet Malt UK Ltd,"Food, drink & tobacco industry",4876.049141,England
+14493,Jacobs Bakery,336990,396030,United Biscuits (UK) Ltd,"Food, drink & tobacco industry",4827,England
+8049,Burton Brewery,424660,323100,Coors Brewers Ltd,"Food, drink & tobacco industry",4754.402697,England
+40421,Caw House,428230,490060,Cawingredients Ltd,"Food, drink & tobacco industry",4688.454545,England
+11041,Craigavon,113040,514454,Moy Park Ltd,"Food, drink & tobacco industry",4659.545455,Northern Ireland
+13262,Knockmore Hill,134583,519964,Contourglobal Solutions (NI) Ltd,"Food, drink & tobacco industry",4613.888048,Northern Ireland
+14682,Hazel Grove,390633,386651,Nexperia UK Ltd,Electrical engineering,4533.424582,England
+8435,Cedar Maltings,606300,257600,Muntons Plc,"Food, drink & tobacco industry",4433.780037,England
+8222,Wrexham,338858,350433,Kellogg Co of Great Britain Ltd,"Food, drink & tobacco industry",4334.273032,Wales
+7538,Chirnside,385058,656266,Dalkia Utilities Services Plc,"Paper, printing & publishing industries",4315.090909,Scotland
+8083,Samlesbury Brewery,359486,429649,Interbrew UK Ltd,"Food, drink & tobacco industry",4293.453938,England
+40699,Chartham Paper Mill,610765,154929,Arjowiggins Chartham Mill Ltd,"Paper, printing & publishing industries",4279.072988,England
+13705,Erlings Works,408462,433332,Omega Proteins Ltd,"Food, drink & tobacco industry",4259.417427,England
+8285,Nestle Purina Wisbech,545800,309300,Nestle Purina Petcare Ltd,"Food, drink & tobacco industry",4147.238269,England
+13626,Dumfries,300400,575500,Dundas Chemical Company (Mosspark) Ltd,"Food, drink & tobacco industry",4143.384635,Scotland
+13263,Long Sutton,545090,322320,Princes Ltd,"Food, drink & tobacco industry",4089.855221,England
+9653,Greenock,223406,675994,National Semiconductor (UK) Ltd,Electrical engineering,3972.717545,Scotland
+7587,Crick,458399,273638,Butchers Pet Care Ltd,"Food, drink & tobacco industry",3966.134182,England
+14966,Globe Industrial Power Station,393989,396987,UK Power Reserve Ltd,Commercial,3804.255464,England
+13745,Stainland,406935,418965,Sonoco Cores and Paper Ltd,"Paper, printing & publishing industries",3765.17418,England
+9064,Irvine,233590,635210,UPM-Kymmene (UK) Ltd,"Paper, printing & publishing industries",3735.096161,Scotland
+14674,Dalston,337290,550765,NestlÃƒÂ© UK Ltd,"Food, drink & tobacco industry",3685.472618,England
+14954,London,529884,183059,The Francis Crick Institute Ltd,Commercial,3638.158702,England
+8788,Heathrow Airport,507550,176750,British Airways Plc,Commercial,3624.375063,England
+14436,Burstwick CHP,485400,430100,Growth Power Ltd,"Agriculture, forestry & fishing",3620.901275,England
+14828,Slough Chocolate Factory,495100,181550,MARS Chocolate UK Ltd,"Food, drink & tobacco industry",3579.713455,England
+14200,Billingham,447560,524035,KP Snacks Ltd,"Food, drink & tobacco industry",3574.397225,England
+8184,John Smith's Brewery,448500,443190,Scottish Courage Ltd,"Food, drink & tobacco industry",3504.959446,England
+11440,Lurgan,122225,515425,Huhtamaki (Lurgan) Ltd,"Paper, printing & publishing industries",3409.308172,Northern Ireland
+9606,Felinfach,251850,257600,Volac International Ltd,"Food, drink & tobacco industry",3382.173469,Wales
+13258,Wisbech,546464,310185,Princes Ltd,"Food, drink & tobacco industry",3363.996101,England
+40762,Shotton Mill,330500,371500,Shotton Mill Ltd,"Paper, printing & publishing industries",3359.642389,Wales
+8989,Dunmanbridge,95449,539996,Dalefarm Dairies Ltd,"Food, drink & tobacco industry",3356.095522,Northern Ireland
+40103,Enfield,536640,197160,Warburtons Ltd,"Food, drink & tobacco industry",3316.363636,England
+43136,Bridgewater Diary,330050,133710,Muller UK and Ireland Group LLP,"Food, drink & tobacco industry",3296.722909,England
+8185,Royal Brewery,384030,396020,Scottish Courage Ltd,"Food, drink & tobacco industry",3292.456519,England
+11966,Disley Mill,398000,385300,Disley Tissue Ltd,"Paper, printing & publishing industries",3290.564918,England
+5219,Belfast,145940,532205,John Thompson & Sons Ltd,"Food, drink & tobacco industry",3272.727273,Northern Ireland
+14400,Northampton Brewery,475270,259920,Carlsberg Supply Chain UK Ltd (CSC),"Food, drink & tobacco industry",3242.806958,England
+8850,Bridgend,292000,178900,Sony UK Technology Centre,Electrical engineering,3224,Wales
+12330,Dalton Airfield,441760,475290,Wagg Foods Ltd,"Food, drink & tobacco industry",3197.727273,England
+8807,Hern Hill Nursery,607612,162701,S&A Produce (UK) Ltd,"Agriculture, forestry & fishing",3187.881933,England
+40171,Burton Latimer,489470,275700,Alpro (UK) Ltd,"Food, drink & tobacco industry",3173.239909,England
+9519,Wakefield,431600,424800,Coca-Cola Enterprises Ltd,"Food, drink & tobacco industry",3170.545091,England
+40528,Chesterfield Paper Mill,437275,370675,Northwood Tissue (Chesterfield) Ltd,"Paper, printing & publishing industries",3163.649476,England
+40533,Roseisle Complex,312265,865505,Diageo Scotland Ltd,"Food, drink & tobacco industry",3125.256627,Scotland
+13070,Sheffield,433900,390100,Kraft Foods UK Ltd,"Food, drink & tobacco industry",3035.237174,England
+13069,Marlbrook,351250,253650,Kraft Foods UK Ltd,"Food, drink & tobacco industry",3025.710974,England
+2719,Dumfries,298900,578700,Gates Power Transmission Ltd,Electrical engineering,3016.250455,Scotland
+40532,Burghead Maltings,311310,868949,Diageo Scotland Ltd,"Food, drink & tobacco industry",2977.605595,Scotland
+11108,Ambrosia Creamery,239560,84980,Premier Foods Group Ltd,"Food, drink & tobacco industry",2923.599963,England
+40361,Station Road Site,605150,294939,Banham Poultry (2018) Ltd,"Food, drink & tobacco industry",2905.909091,England
+8369,Stretford,378800,395500,Kellogg Co of Great Britain Ltd,"Food, drink & tobacco industry",2904.122615,England
+8841,Newport,329300,185700,International Rectifier Newport Ltd,Electrical engineering,2894.137533,Wales
+8934,Runcorn,356200,379900,Diageo Great Britain Ltd,"Food, drink & tobacco industry",2893.144636,England
+11736,Melton Mowbray,475500,319100,Mars Petcare UK Ltd,"Food, drink & tobacco industry",2892.032449,England
+14214,Lancaster,348400,463750,Sofidel UK Ltd,"Paper, printing & publishing industries",2879.786163,England
+14948,Riverdale Data Centre,538208,175601,CIB Properties Ltd,Commercial,2872.575935,England
+9058,Stranraer,206300,559900,Caledonian Cheese Co Ltd,"Food, drink & tobacco industry",2871.458924,Scotland
+8026,Delyn Mill,323600,373500,Kimberly-Clark Ltd,"Paper, printing & publishing industries",2837.632525,Wales
+11111,Worksop,457377,380518,Premier Foods Group Ltd,"Food, drink & tobacco industry",2830.467851,England
+40244,Tollcross Road Site,263364,663431,United Biscuits Ltd,"Food, drink & tobacco industry",2743.090909,Scotland
+11490,Caledonian Brewery,260500,665200,InBev UK Ltd,"Food, drink & tobacco industry",2734.500382,Scotland
+9714,Dailuaine Distillery,323266,841034,Diageo Distilling Ltd,"Food, drink & tobacco industry",2727.272727,Scotland
+14355,Forest Gate,540520,184790,Hovis Ltd,"Food, drink & tobacco industry",2727.272727,England
+9093,Gatwick,527500,140500,Gatwick Airport Ltd,Commercial,2727.272727,England
+7751,Halesworth,640260,278910,Bernard Matthews Foods Ltd,"Food, drink & tobacco industry",2727.272727,England
+12387,Hull,510730,432310,Greencore Grocery,"Food, drink & tobacco industry",2727.272727,England
+40307,Kirkdale Palm Oil Refinery,333800,393400,New Britain Oils,"Food, drink & tobacco industry",2727.272727,England
+12282,Kiveton,446710,383330,Hazlewood Convenience Group 1,"Food, drink & tobacco industry",2727.272727,England
+7221,Lockerbie,310186,581210,Glanbia Foods Ltd,"Food, drink & tobacco industry",2727.272727,Scotland
+10535,Lowestoft,655360,293850,Birds Eye Ltd,"Food, drink & tobacco industry",2727.272727,England
+7594,Malton,480280,471400,Grampian Country Pork Ltd,"Food, drink & tobacco industry",2727.272727,England
+7813,Old Leake,539794,354072,Fold Hill Foods Ltd,"Food, drink & tobacco industry",2727.272727,England
+9298,White House Farm,366320,134730,Wyke Farmhouse Cheese Co Ltd,"Food, drink & tobacco industry",2727.272727,England
+13437,Histon,543771,262981,Histon Sweet Spreads Ltd,"Food, drink & tobacco industry",2704.366541,England
+11741,Bridgwater,330723,139413,Gerber Juice Co Ltd,"Food, drink & tobacco industry",2701.308824,England
+8736,Wombourne,385800,291700,McCain Foods (GB) Ltd,"Food, drink & tobacco industry",2698.67601,England
+13621,Lisahally,63657,582917,Foyle Food Group Ltd,"Food, drink & tobacco industry",2687.848274,Northern Ireland
+13067,Bournville,404820,281020,Kraft Foods UK Ltd,"Food, drink & tobacco industry",2583.350048,England
+14407,Hartshill,433200,295100,Sarval (Hartshill) Ltd,"Food, drink & tobacco industry",2567.797669,England
+11085,Aspatria Creamery,314400,541200,The First Milk Cheese Co Ltd,"Food, drink & tobacco industry",2518.699001,England
+8991,Magheralin,124092,516204,Glanbia Cheese Ltd,"Food, drink & tobacco industry",2506.510197,Northern Ireland
+7695,Watton,590250,300480,Bowes of Norfolk Ltd,"Food, drink & tobacco industry",2443.090909,England
+14408,Widnes,350400,384050,Secanim Ltd,"Food, drink & tobacco industry",2420.239849,England
+9254,Oakthorpe Dairy,532041,192376,Arla Foods Ltd,"Food, drink & tobacco industry",2365.090909,England
+13633,Motherwell,279900,659900,Dundas Chemical Company (Mosspark) Ltd,"Food, drink & tobacco industry",2339.77023,Scotland
+14423,Davidstow Creamery,213825,86588,Dairy Crest Ltd,"Food, drink & tobacco industry",2329.157378,England
+13053,Runcton,488960,102180,Vitacress Herbs Ltd,"Agriculture, forestry & fishing",2290.497344,England
+7567,Selby,463150,433150,Greencore Grocery,"Food, drink & tobacco industry",2285.181818,England
+40723,Nestle Fawdon,422343,568662,NestlÃ© UK Ltd,"Food, drink & tobacco industry",2259.869815,England
+13206,Cookstown,94628,538005,Vion Food Group Ltd,"Food, drink & tobacco industry",2245.364,Northern Ireland
+8620,Gatwick Airport,527500,140700,Gatwick Airport Ltd,Commercial,2235.925574,England
+8893,Manchester Airport,382242,385056,Manchester Airport Plc,Commercial,2233.200895,England
+12681,Oldham,339280,404020,Park Cakes Ltd,"Food, drink & tobacco industry",2185.090909,England
+11446,Invergordon Distillery,271500,869110,Whyte & Mackay Ltd,"Food, drink & tobacco industry",2162.454545,Scotland
+8189,Cleveland Nurseries CHP,453100,508000,Jan Bezemer & Sons Ltd,"Agriculture, forestry & fishing",2143.045956,England
+40292,Glenavy,125471,529575,Linergy Ltd,"Food, drink & tobacco industry",2129.266075,Northern Ireland
+8996,Newtownards,159412,528943,Pritchitts,"Food, drink & tobacco industry",2117.856281,Northern Ireland
+6454,Lancaster,348400,463000,Abaris Holdings Ltd,"Textiles, clothing, leather & footwear",2113.636364,England
+9616,Harverfordwest Creamery,194920,214490,The First Milk Cheese Co Ltd,"Food, drink & tobacco industry",2064.762886,Wales
+14967,Chadderton Power Station,390665,405112,UK Power Reserve Ltd,Commercial,2051.055987,England
+13630,Glenlossie Distillery,321260,857240,Diageo Scotland Ltd,"Food, drink & tobacco industry",2034.400865,Scotland
+13738,Royal Victoria Dock,540699,180693,EXCEL District Energy Company Ltd,Commercial,2009.634595,England
+13741,Bulmers Cider Mills,350222,240345,Heineken UK Ltd,"Food, drink & tobacco industry",1977.345303,England
+14965,Cadishead Power Station,371532,392258,UK Power Reserve Ltd,Commercial,1914.074757,England
+11953,Peel Media City Energy Centre,380435,397583,Utilities Services (Mediacity UK) Ltd,Commercial,1897.369636,England
+12159,Girvan,220123,600327,Nestle UK Ltd,"Food, drink & tobacco industry",1881.818182,Scotland
+12015,Allensmore,346260,233720,Cargill Meats Europe Sun Valley Foods Ltd,"Food, drink & tobacco industry",1827.545455,England
+13716,Devon Valley Mill,299349,102406,Devon Valley Ltd,"Paper, printing & publishing industries",1815.958058,England
+40270,Low Marnham,480542,369449,J G Pears (Newark) Ltd,"Food, drink & tobacco industry",1758.835369,England
+9034,Leven,336500,701500,Diageo Plc,"Food, drink & tobacco industry",1704.472265,Scotland
+8423,Winchcombe,400830,227200,Hollingsworth & Vose Co Ltd,"Paper, printing & publishing industries",1703.672935,England
+13624,Rothes,327800,849700,The Combination Of Rothes Distillers Ltd,"Food, drink & tobacco industry",1656.45,Scotland
+13259,Cullompton,303100,108200,Higher Kings Mill Ltd,"Paper, printing & publishing industries",1646.074265,England
+41297,David Jack Research Centre,534790,214440,GlaxoSmithKline Research & Development Ltd,Commercial,1644.54762,England
+43109,Basildon,571350,190416,CNH Industrial N.V.,"Agriculture, forestry & fishing",1615.159803,England
+12002,Hazel Grove,390600,386600,NXP Semiconductors UK Ltd,Electrical engineering,1605.3936,England
+40295,East Tullos,395569,804018,Pelagia (UK) Ltd,"Food, drink & tobacco industry",1547.410159,Scotland
+1903,Southend-On-Sea,594490,185470,Qinetiq Ltd,Commercial,1537.828379,England
+8070,Bolton,372280,409880,Vernacare Ltd,"Paper, printing & publishing industries",1527.405652,England
+11075,Burton Plant,423460,322670,Unilever UK Ltd,"Food, drink & tobacco industry",1483.458207,England
+40104,Southall Ready Meals Factory,514190,179980,Noon Products Ltd,"Food, drink & tobacco industry",1453.909091,England
+8488,Pool Paper Mills,423700,445400,Whiteley Ltd,"Paper, printing & publishing industries",1435.021677,England
+9459,Longbenton,426400,569400,Greggs Plc,"Food, drink & tobacco industry",1411.636364,England
+13068,Chirk,328700,337890,Kraft Foods UK Ltd,"Food, drink & tobacco industry",1391.215434,Wales
+8946,Birmingham,419070,283700,The National Exhibition Centre Ltd,Commercial,1380.238527,England
+14437,Bury St Edmunds,584864,266369,Mizkan Euro Ltd,"Food, drink & tobacco industry",1345.273361,England
+9465,North Western Mills,370900,353800,Morning Foods Ltd,"Food, drink & tobacco industry",1344,England
+14925,Macallan Distillery,327638,844371,The Macallan Distillers Ltd,"Food, drink & tobacco industry",1342.829618,Scotland
+9615,Burton-On-Trent,423200,323400,Marston's Plc,"Food, drink & tobacco industry",1286.394941,England
+8348,Radcliffe Pulp Mill,376800,406750,Ahlstrom Chirnside Ltd,"Paper, printing & publishing industries",1275.116266,England
+13446,Simpson Clough Paper Mill,385260,412110,Union Papertech Ltd,"Paper, printing & publishing industries",1270.142787,England
+8127,Keyingham,525200,425100,Mill Nurseries Ltd,"Agriculture, forestry & fishing",1232.441288,England
+11614,Ringstead,497000,278280,Dodson & Horrell Ltd,"Food, drink & tobacco industry",1227.903818,England
+13435,Lancaster,348387,463261,Lancaster Tissue Ltd,"Paper, printing & publishing industries",1212.353757,England
+43107,Burton-On-Trent,423225,323356,Marston's Beer Company Ltd,"Food, drink & tobacco industry",1205.960416,England
+12510,Llansantffraid,322100,320250,Wynnstay Group Plc,"Food, drink & tobacco industry",1196.914909,Wales
+9586,Bolton General Hospital,371610,406450,White Rose Environmental Ltd,Commercial,1159.305144,England
+14422,Kendal,351850,494250,Kendal Nutricare Ltd,"Food, drink & tobacco industry",1138.668477,England
+14970,Grantham,493952,326812,McCain Foods (G.B.) Ltd,"Food, drink & tobacco industry",1131.905051,England
+41379,Somercotes,441100,354470,Thorntons Ltd,"Food, drink & tobacco industry",1127.672727,England
+8112,Tower Brewery,448110,443320,Coors Brewers Ltd,"Food, drink & tobacco industry",1124.644797,England
+8178,St Cuthberts Mill,353160,146480,Inveresk Plc,"Paper, printing & publishing industries",1112.428875,England
+12421,Bramley,423200,434510,Britvic Soft Drinks Ltd,"Food, drink & tobacco industry",1084.363636,England
+10546,Lag Farm,351520,158640,Yeo Valley Farms (Production) Ltd,"Food, drink & tobacco industry",1074,England
+9264,Hanworth,511080,170820,Dairy Crest Ltd,"Food, drink & tobacco industry",1068.272727,England
+8882,Mansfield,456670,361800,Toray Textiles Europe Limted,"Textiles, clothing, leather & footwear",1068.164959,England
+9632,Park Brewery,390800,298640,Marston's PLC,"Food, drink & tobacco industry",1027.297702,England
+14631,Eye,614260,273810,1Stop Halal Ltd,"Food, drink & tobacco industry",1014.518182,England
+9705,Bridge of Weir,239505,664821,Bridge of Weir Leather Co Ltd,"Textiles, clothing, leather & footwear",942.6645385,Scotland
+14695,Ansty,440692,280840,RWG (Repair & Overhauls) Ltd,Commercial,939.8021373,England
+8803,Westgate Brewery,585680,263770,Greene King Brewing & Retailing Ltd,"Food, drink & tobacco industry",906.7385482,England
+13758,Greenwich Generating Station,538900,178000,London Underground Ltd,Commercial,898.9513773,England
+11972,NestlÃƒÂ© Halifax Boiler House,409720,424860,Cofely Ltd,"Food, drink & tobacco industry",897.6105373,England
+8902,Adastral Park,624850,245250,BT Plc,Commercial,884.9557833,England
+13816,"Llysonnen Mill, CARMARTHEN",238288,219581,Llysonnen Mill EPR/EP3034GS,"Food, drink & tobacco industry",878.328,Wales
+4653,Liskeard,226800,65000,Peake (GB) Ltd,Commercial,852.227825,England
+8963,Birmingham International Airport,418400,283700,Birmingham International Airport Ltd,Commercial,845.7905219,England
+43077,Watervole-1,457825,400753,Walker & Son (Hauliers) Ltd,Commercial,838.5210327,England
+40508,Grimsby,525749,410969,Pelagia (UK) Ltd,"Food, drink & tobacco industry",824.3258755,England
+14968,Newton Aycliffe,427935,521580,II-VI Compound Semiconductors Ltd,Electrical engineering,805.2634009,England
+13880,"Bridge Road North, Wrexham Inudstrial Estate, Wrexham",338324,349656,Lloyds Animal Feeds Mill,"Food, drink & tobacco industry",797.4436364,Wales
+14243,Ledbury,369690,237160,Heineken UK Ltd,"Food, drink & tobacco industry",781.1037273,England
+13819,"Aber-Arad, Newcastle Emlyn",231530,240162,The Creamery,"Food, drink & tobacco industry",705.993,Wales
+40534,Glen Ord Distillery and Maltings,251700,850800,Diageo Scotland Ltd,"Food, drink & tobacco industry",670.9505455,Scotland
+8864,Tangmere Nursery,491200,106520,Tangmere Produce Ltd,"Agriculture, forestry & fishing",667.788,England
+43186,Chichester Food Factory,485410,104240,Babynov Chichester Ltd,"Food, drink & tobacco industry",652.9090909,England
+11970,Ellesmere Port Boiler House,339367,378256,Saica Pack UK Ltd,"Paper, printing & publishing industries",651.4808618,England
+14662,London,533089,180904,20 Fenchurch Street Ltd Partnership,Commercial,621.61305,England
+13463,Isleworth,516226,177804,British Sky Broadcasting Group plc,Commercial,620.2515245,England
+40504,The 100 Bishopsgate Partnership,533209,181388,Brookfield Properties (UK PM) Ltd,Commercial,617.5918636,England
+8879,Stansted Airport,555700,223700,Stansted Airport Ltd,Commercial,613.1155282,England
+14860,"Spectrum Business Park, Wrexham",338067,349310,Cott Beverages,"Food, drink & tobacco industry",583.5654545,Wales
+13579,Deeside Industrial Park,331790,371520,Farmers Boy (Deeside) Ltd,"Food, drink & tobacco industry",581.3659091,Wales
+12011,Llanybydder,252680,244410,Dunbia (Wales) Ltd,"Food, drink & tobacco industry",561.4767404,Wales
+7752,Sawley,379820,447160,Rose County Foods Ltd,"Food, drink & tobacco industry",553.5,England
+1132,Stevenage,523570,223470,Glaxosmithkline Research & Development Ltd,Commercial,538.3838855,England
+9102,Wrexham,338900,350800,Kellogg Co of Great Britain Ltd,"Food, drink & tobacco industry",508.4030591,Wales
+43076,Balby-B,457947,401053,Walker & Son (Hauliers) Ltd,Commercial,507.3057682,England
+9691,Baltic Works,338969,730109,Halley Stevensons Ltd,"Textiles, clothing, leather & footwear",487.7533636,Scotland
+14218,"Media Village Primary Plant, Shepherd's Bush",523200,180900,Interserve (Facilities Management) Ltd,Commercial,466.3702145,England
+40277,Cheshire Power Station,339061,378393,RWE Generation UK plc,"Paper, printing & publishing industries",465.2252155,England
+11093,London,533400,181800,Allen & Overy LLP,Commercial,460.9456009,England
+14219,Broadcasting House,528900,181600,Interserve (Facilities Management) Ltd,Commercial,460.84545,England
+40524,King Edward Buildings,532008,181428,Bank of America Merrill Lynch International Designated Activity Co,Commercial,421.5811636,England
+40509,William Harvey Hospital Steam Boilers and Generators,604090,142068,2gether Support Solutions Ltd,Commercial,406.7690482,England
+9650,Porthleven,392000,797100,McIntosh Donald Ltd,"Food, drink & tobacco industry",403.596,Scotland
+9516,Aston Mill,361190,346800,Oakes Millers Ltd,"Food, drink & tobacco industry",395.2538182,England
+12077,Peterborough,521310,298610,Meadow Foods Ltd,"Food, drink & tobacco industry",394.9876364,England
+14953,Discovery Park,633292,159603,Discovery Park Management Ltd,Commercial,382.1891155,England
+13944,East Coast Viners Grain,379605,781270,East Coast Viners Grain LLP,"Agriculture, forestry & fishing",356.6157273,Scotland
+41370,Woodland Mill,411170,416440,Wooltex UK Ltd,"Textiles, clothing, leather & footwear",345.8574545,England
+8672,Swanwick,450400,109800,NATS (EnRoute) Plc,Commercial,331.9803355,England
+8970,"1 Churchill Place, Canary Wharf",537910,180300,Barclays Head Office,Commercial,329.6097409,England
+8972,London,537900,180340,Barclays Facilities Management,Commercial,315.1578573,England
+40715,1-5 Bank Street,537218,180125,Canary Wharf Group Plc,Commercial,307.9113655,England
+14426,5 Broadgate Circle,533068,181805,UBS AG,Commercial,302.0018591,England
+8895,Exeter,296020,93010,Met Office,Commercial,289.9754813,England
+7792,Swansea,267841,198134,Morganite Electrical Carbon Ltd,Electrical engineering,267.1745455,Wales
+9757,South Shian,190700,741700,Scottish Sea Farms Ltd,"Agriculture, forestry & fishing",256.9772727,Scotland
+14216,MediaCity Salford,380090,397400,Interserve (Facilities Management) Ltd,Commercial,250.4745627,England
+14217,"TVC Primary Energy Plant, Shepherd's Bush",523192,180513,Interserve (Facilities Management) Ltd,Commercial,242.7253991,England
+40501,25 Cabot Square,537261,180281,25 CABOT SQUARE S.A.R.L,Commercial,217.6791955,England
+13940,"Thermal Plant, Kilbarchan Rd, Bridge of Weir",239326,664533,SLG Technology Ltd,"Textiles, clothing, leather & footwear",211.1914463,Scotland
+14986,Tees Valley Nursery Energy Centre,447954,523452,APS Growers Ltd,"Agriculture, forestry & fishing",187.5005455,England
+14704,Banbridge,123118,502597,Lakeland Dairies (NI) Ltd,"Food, drink & tobacco industry",166.3486418,Northern Ireland
+8221,Flamborough Maltings,519700,470100,Muntons Plc,"Food, drink & tobacco industry",160.2115114,England
+14210,10 Upper Bank Street,537737,180048,Clifford Chance LLP,Commercial,157.3330391,England
+8955,IBM Warwick,426700,265700,Johnson Controls Ltd,Commercial,136.7517136,England
+9730,Shotts,288002,659821,Davidson Brothers (Shotts) Ltd,"Food, drink & tobacco industry",128.1818182,Scotland
+41302,Burton Plant,424260,323100,Creative Foods Europe Ltd,"Food, drink & tobacco industry",125.1542727,England
+40721,Stone Data Centre,390967,331968,NatWest Group plc,Commercial,119.83608,England
+14762,Slyfield Industrial Estate,499790,152280,Anglo Beef Processors Ltd,"Food, drink & tobacco industry",109.98,England
+13721,1AL Backup Generators,532700,180700,Nomura International plc,Commercial,108.0603327,England
+8971,Gloucester,386350,218360,Barclays Facilities Managerment,Commercial,107.6695091,England
+14201,"LD5 Generator System, Slough",495205,181250,Equinix (UK) Ltd,Commercial,103.182,England
+14942,Basildon,572235,190417,Imperium Centre Ltd,Commercial,102.3147464,England
+14677,Hemel Hempstead,507962,208224,Gyron Internet Ltd,Commercial,97.46383909,England
+14224,"LGW14 Backup Generators, Woking",498690,159329,Digital Realty (UK) Ltd,Commercial,91.90792636,England
+40726,Macmerry Data Centre,343814,672798,NatWest Group plc,Commercial,89.61287182,Scotland
+40718,Thomson Reuters DTC,538655,180578,Telehouse International Corporation of Europe Ltd,Commercial,88.67505818,England
+14979,Croydon Data Centre - Standby Generators,529947,166410,Morgan Stanley UK Group,Commercial,85.05595364,England
+7206,Glasgow,260500,665050,Tennent Caledonian Breweries,"Food, drink & tobacco industry",84.26269636,Scotland
+14978,20 Bank Street - Standby Generators,537375,180081,Morgan Stanley UK Group,Commercial,76.72860818,England
+14424,"LD6 Generator System, Slough",495625,181206,Equinix (UK) Ltd,Commercial,70.44532909,England
+13948,"Harbro Ltd, Tore Mill, Harbour Road, Invernes",267365,845860,HARBRO LIMITED,"Agriculture, forestry & fishing",68.58545455,Scotland
+40291,Iron Mountain Slough Data Centre,494903,181762,Iron Mountain (UK) Data Centre Ltd,Commercial,66.61726909,England
+40727,Melville Gate Data Centre,332173,667325,NatWest Group plc,Commercial,64.86960818,Scotland
+14955,Telehouse London,538784,181130,Telehouse International Corporation of Europe Ltd,Commercial,63.21281727,England
+9698,Locher Works,239430,664579,N C T Leather Ltd,"Textiles, clothing, leather & footwear",63.11654771,Scotland
+9633,BT Tower,529200,181800,BT Plc,Commercial,61.06579909,England
+14657,Stevenage Data Centre,522734,224290,Fujitsu Services Ltd,Commercial,59.94240545,England
+14656,Thurrock Data Centre,557679,177926,Fujitsu Services Ltd,Commercial,58.11149182,England
+13719,Horizon Centre,491800,292100,Lloyds Banking Group plc,Commercial,55.63098,England
+40526,LD9 Generator System,520971,182728,Equinix (UK) Ltd,Commercial,54.97864909,England
+43115,Stowmarket A,606332,256917,Precise Energy Ltd,Commercial,54.7404,England
+43116,Stowmarket B,606332,256917,Valence Power Ltd,Commercial,54.6795,England
+40716,LON1 Data Centre,550897,185371,NTT Global Data Centers EMEA UK Ltd,Commercial,53.08827,England
+14943,NOVA Victoria,528977,179228,Victoria Circle Ltd Partnership,Commercial,50.9496,England
+14947,Citigroup Centre,537628,180209,CIB Properties Ltd,Commercial,46.80717818,England
+14229,Welwyn Garden City,525354,212819,Colt Data Centre Services UK Ltd,Commercial,45.98830364,England
+14226,"LHR14 Backup Generators, Watford",508913,195083,Digital Realty (UK) Ltd,Commercial,44.72187,England
+14980,Heathrow Data Centre - Standby Generators,511337,175616,Morgan Stanley UK Group,Commercial,44.19479182,England
+40514,LD7 Generator System,494857,181627,Equinix (UK) Ltd,Commercial,44.08783909,England
+14223,"LGW13 Backup Generators, Crowdon",529734,166697,Digital Realty (UK) Ltd,Commercial,41.69326909,England
+9605,Greenford,465000,105000,IBM,Electrical engineering,41.45454545,England
+14671,London,538466,181020,Global Switch Ltd,Commercial,39.98599364,England
+11084,Northolt Data Centre,513590,184190,Barclays Capital Services Ltd,Commercial,38.09378182,England
+14653,LGW15 -Back up Generators,527552,137977,Digital Crawley 1 SARL,Commercial,37.73214545,England
+13718,"25 Bank Street, Canary Wharf",537500,180100,J P Morgan Chase Bank,Commercial,35.43489545,England
+13723,Romford North,550524,189490,ISDC Developments (No2) Ltd,Commercial,35.10667636,England
+8896,Baynard House,531850,180950,BT Plc,Commercial,32.94530182,England
+40275,West Drayton,507172,180132,Virtus LONDON 5 Ltd,Commercial,32.50575545,England
+40268,LD10 (Generator System),495567,181087,Equinix (UK) Ltd,Commercial,29.16100909,England
+14938,Winnersh - LO6,477839,171730,Cyxtera Technology UK Ltd,Commercial,29.13440455,England
+14663,Hemel Hempstead,507577,208506,Gyron Internet Ltd,Commercial,28.82083909,England
+14228,Powergate Business Park,520940,182680,Colt Data Centre Services UK Ltd,Commercial,28.74256909,England
+14680,Slough,495604,181142,Virtus Holdco Ltd,Commercial,26.29911273,England
+14937,Slough - LO1 & LO5,496011,180639,Cyxtera Technology UK Ltd,Commercial,25.89773727,England
+8956,IBM North Harbour,465000,105000,Johnson Controls Ltd,Commercial,25.76905091,England
+43103,LD11 Data Centre,494608,181343,Equinix (UK) Ltd,Commercial,23.79262364,England
+9638,Reigate Computer Centre,523500,150700,BT Plc,Commercial,23.27357727,England
+13728,Interxion London Campus,533827,181923,Interxion Carrier Hotel Ltd,Commercial,22.74586636,England
+13754,OTDC Basingstoke,463600,150296,J P Morgan Chase Bank,Commercial,21.79647,England
+9158,Dungannon,93267,521415,Moy Park Ltd,"Food, drink & tobacco industry",21.55864091,Northern Ireland
+14222,"LGW10 Backup Generators, Redhill",528713,151459,Digital Realty (UK) Ltd,Commercial,20.49480818,England
+43095,LD8 Data Centre,537912,179636,Equinix (UK) Ltd,Commercial,19.78899273,England
+8899,Harmondsworth Computer Centre,505450,177350,BT Plc,Commercial,19.27113273,England
+13443,East Grinstead,537293,139207,Goldman Sachs International,Commercial,18.05941636,England
+43080,Hounslow,511611,175512,Sungard Availability Services (UK) Ltd,Commercial,17.97061909,England
+43102,London 7 Data Centre,507343,180028,Virtus London 7 Ltd,Commercial,17.96138455,England
+13730,Santander Data Centre,453688,298683,Santander UK plc,Commercial,15.86398364,England
+40722,London 6,507322,180110,Virtus London 6 Ltd,Commercial,15.60636,England
+14950,LON3 Backup Generators,495914,181027,Rackspace Ltd,Commercial,15.33897,England
+14202,"LD4 Generator System, Slough",495205,181250,Equinix (UK) Ltd,Commercial,14.84655,England
+14957,Cody Park,484039,154314,Ark Data Centres Ltd,Commercial,14.0505,England
+13722,"20 Canada Square, Canary Wharf",537800,180200,Brookfield Office Property Management Ltd,Commercial,13.91164364,England
+13732,Swindon Data Centre,410900,184400,Vodafone Ltd,Commercial,13.137,England
+14973,20 Canada Square Generators,537757,180191,BNP Paribas Real Estate Advisory & Property Management UK Ltd,Commercial,12.74103545,England
+14666,Hayes,510614,178665,Virtus Hayes Ltd,Commercial,12.40734818,England
+8898,Cardiff IDC,317650,173150,BT Plc,Commercial,12.26630182,Wales
+14949,Spring Park,384924,168897,Ark Data Centres Ltd,Commercial,12.2409,England
+11988,Slough,496180,180630,Barclays Bank Plc,Commercial,11.64433091,England
+40698,LGW16 - Back up Generators,527636,138225,Digital Crawley 2 Sarl,Commercial,10.87264909,England
+13748,Kemsley Paper Mill,591700,166100,DS Smith Paper Ltd,"Paper, printing & publishing industries",9.511887273,England
+14654,LHR13 - Back Up Generators,519052,164629,Digital Reality (UK) Ltd,Commercial,9.472690909,England
+40124,Wakefield Bakery,439070,424790,Warburtons Ltd,"Food, drink & tobacco industry",9.081818182,England
+11083,"5 North Colonnade, Canary Wharf",537380,180390,Barclays Capital Services Ltd,Commercial,9.080116364,England
+40527,MAN3 Generator System,380624,396842,Equinix (UK) Ltd,Commercial,8.246817273,England
+14931,Sovereign House,538147,179752,Digital London Ltd,Commercial,8.091733636,England
+40256,Zenium - London One,495567,181087,Zenium UK Ltd,Commercial,7.847828182,England
+3001,Dundee,341896,730838,D C Thomson & Co Ltd,"Paper, printing & publishing industries",7.472727273,Scotland
+14974,Hayes Data Centre,509680,179585,UBS Business Solutions AG,Commercial,7.429546364,England
+13751,Park Royal Data Centre,519862,182415,Vodafone Ltd,Commercial,6.543654545,England
+13639,"RDC1/RDC2, Bournemouth",410270,91988,J P Morgan Chase Bank,Commercial,6.144859091,England
+14976,Zenium - London Two,507936,179345,Zenium UK2 Ltd,Commercial,5.853177273,England
+13447,"10 South Colonnade, Canary Wharf",537374,180252,Barclays Capital Services Ltd,Commercial,5.758090909,England
+9542,Harlesden,520660,183320,United Biscuits UK Ltd,"Food, drink & tobacco industry",5.695363636,England
+40525,Yorktown Business Park Computer Centre,486081,160087,Bank of America Merrill Lynch International Designated Activity Co,Commercial,5.481,England
+8897,Bletchely Computer Centre,487450,234150,BT Plc,Commercial,4.9938,England
+14665,London,531853,182772,Level 3 Communications UK Ltd,Commercial,4.658326364,England
+14225,"LHR10 Backup Generators, High Wycombe",484733,191967,Digital Realty (UK) Ltd,Commercial,4.524730909,England
+14681,London,532796,182310,Digital London Ltd,Commercial,3.026798182,England
+7658,Blaenau Gwent,315020,212140,Yuasa Battery (UK) Ltd,Electrical engineering,2.165393455,Wales
+43112,London 9 Data Centre,495957,180958,Virtus London 9 Ltd,Commercial,2.144874545,England
+13710,Jerusalem Farm,491586,370915,A Hughes and Son (Skellingthorpe) Ltd,"Food, drink & tobacco industry",1.855303636,England
+43083,Slough,495509,181590,CyrusOne UK3 Ltd,Commercial,1.838023636,England
+43090,Billingham,444341,526581,Entserv UK Ltd,Commercial,1.174827273,England
+43088,Maidstone,577736,156377,CSC Computer Sciences Ltd,Commercial,0.860530909,England
+43117,HH4 Data Center,508273,208069,NTT Global Data Centers EMEA UK Ltd,Commercial,0.84477,England
+43087,Doxford Park,436521,552107,Entserv UK Ltd,Commercial,0.624973636,England
+13701,Peterlee,442500,542200,Walkers Snack Foods Ltd,"Food, drink & tobacco industry",0.619090909,England
+43089,Sevenoaks,550308,158991,CSC Computer Sciences Ltd,Commercial,0.553925455,England
+8364,Chirk,328600,338600,Kronospan Ltd,Other industries,41517.65535,Wales
+8079,Wigton,325400,548600,Innovia Films Ltd,Other industries,20686.73984,England
+14447,Cowie,283860,688550,Norbord Europe Ltd,Other industries,19730.04721,Scotland
+14697,Auchinleck,254723,621869,Egger (UK) Ltd,Other industries,6261.048843,Scotland
+7009,Doncaster,457350,401300,Bridon International Ltd,Other industries,4690.909091,England
+8888,Carlisle,339100,553600,Pirelli Tyres Ltd,Other industries,4292.824835,England
+13749,Hexham,394655,564653,Egger (UK) Ltd,Other industries,4228.516121,England
+8563,Melksham,390270,164310,Cooper Avon Tyres Ltd,Other industries,3619.775735,England
+40280,Hazlehead,418074,404654,Wavin Ltd,Other industries,3260.910483,England
+2635,Cargenbridge,295110,574390,Dupont Teijin Films UK Ltd,Other industries,2727.272727,Scotland
+13531,Yatton,341850,166070,Smart Systems Ltd,Other industries,2070.818182,England
+13739,South Molton,269802,125918,Norbord Europe Ltd,Other industries,2009.184464,England
+43075,Sudbury,590844,239654,Greys Hall Power Ltd,Other industries,1664.473402,England
+13073,Larbert,284971,682968,Serco Ltd,Other industries,1237.77324,Scotland
+8367,Duxford,548300,245600,Hexcel Composites Ltd,Other industries,1064.158084,England
+8667,Sonoco Board CHP,406900,419000,Total Solutions For Industry (Power Resources 1) Ltd,Other industries,772.5270218,England
+14926,Tullos Test Facility,387408,813149,RWG (Repair & Overhauls) Ltd,Other industries,552.5905664,Scotland
+7715,Burnley,385910,434070,Hycrome Europe Ltd,Other industries,224.16,England
+7758,Wymington,496400,263500,Ancillary Components Ltd,Other industries,136.3636364,England
+13629,Morayhill,275045,849103,Norbord Europe Ltd,Other industries,92.20248545,Scotland
+7994,North Shields,433090,568840,Formica Ltd,Other industries,89.72727273,England
+9753,Dundee,335200,731900,Rockwell Solutions Ltd,Other industries,8.209090909,Scotland
